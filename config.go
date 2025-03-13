@@ -130,6 +130,5 @@ func (cfg *Config) Validate() error {
 	if len(missing) > 0 {
 		return fmt.Errorf("环境变量缺失: %v", missing)
 	}
-
 	return nil
 }
