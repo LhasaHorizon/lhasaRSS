@@ -71,8 +71,12 @@ func LoadConfig() *Config {
 		cfg.RssListURL = "data/rss.txt"
 	}
 
+	if cfg.SaveTarget == "GITHUB" && cfg.DataURL == "" {
+		cfg.DataURL = "data/data.json"
+	}
+
 	if cfg.DefaultAvatar == "" {
-    		cfg.DefaultAvatar = "https://cn.gravatar.com/avatar"
+		cfg.DefaultAvatar = "https://cn.gravatar.com/avatar"
 	}
 
 	return cfg
