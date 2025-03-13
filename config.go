@@ -67,6 +67,14 @@ func LoadConfig() *Config {
 		cfg.SaveTarget = "GITHUB"
 	}
 
+	if cfg.RssSource == "GITHUB" && cfg.RssListURL == "" {
+		cfg.RssListURL = "data/rss.txt"
+	}
+
+	if cfg.DefaultAvatar == "" {
+    		cfg.DefaultAvatar = "https://cn.gravatar.com/avatar"
+	}
+
 	return cfg
 }
 
@@ -87,9 +95,6 @@ func (cfg *Config) Validate() error {
 			missing = append(missing, "TENCENT_CLOUD_SECRET_KEY")
 		}
 	}
-
-	fmt.Printf("RssSource: %s\n", cfg.RssSource)
-	fmt.Printf("RssListURL: %s\n", cfg.RssListURL)
 
 	// 当 RSS_SOURCE = COS 时，必须提供 RSS (即 RssListURL)
 	if cfg.RssSource == "COS" && cfg.RssListURL == "" {
