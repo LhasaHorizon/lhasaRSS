@@ -78,7 +78,6 @@ func LoadConfig() *Config {
 	if cfg.DefaultAvatar == "" {
 		cfg.DefaultAvatar = "https://cn.gravatar.com/avatar"
 	}
-
 	return cfg
 }
 
