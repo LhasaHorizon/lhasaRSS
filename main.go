@@ -92,6 +92,7 @@ func main() {
 			cfg.GitHubName,
 			cfg.GitHubRepo,
 			cfg.DataURL,
+
 			jsonBytes,
 		); err != nil {
 			_ = appendLog(ctx, fmt.Sprintf("[ERROR] 上传 data.json 到 GitHub 失败: %v", err))
