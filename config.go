@@ -88,6 +88,9 @@ func (cfg *Config) Validate() error {
 		}
 	}
 
+	fmt.Printf("RssSource: %s\n", cfg.RssSource)
+	fmt.Printf("RssListURL: %s\n", cfg.RssListURL)
+
 	// 当 RSS_SOURCE = COS 时，必须提供 RSS (即 RssListURL)
 	if cfg.RssSource == "COS" && cfg.RssListURL == "" {
 		missing = append(missing, "RSS")
