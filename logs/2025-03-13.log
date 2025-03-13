@@ -93,3 +93,6 @@
 [2025-03-13 07:59:51] - https://www.loyhome.com/feed
 [2025-03-13 08:02:52] [WARN] RSS列表为空, 无需抓取
 [2025-03-13 08:06:49] [ERROR] 上传 data.json 到 GitHub 失败: /home/runner/work/lhasaRSS/lhasaRSS/github_utils.go:243 => 上传 data.json 失败 | 原因: failed to put file https://lhasa-1253887673.cos.ap-shanghai.myqcloud.com/lhasaRSS/data.json, status: 422, body: {"message":"path contains a malformed path component","errors":[{"resource":"Commit","field":"path","code":"invalid"}],"documentation_url":"https://docs.github.com/rest/repos/contents#create-or-update-file-contents","status":"422"}
+[2025-03-13 08:10:54] 本次订阅抓取结果统计:
+[2025-03-13 08:10:54] 共 3 条RSS, 成功抓取 3 条.
+[2025-03-13 08:10:54] 没有任何警告或错误, 一切正常
