@@ -67,7 +67,7 @@
       "blog_name": "obaby@mars",
       "title": "418 I’m a teapot",
       "published": "20 Mar 2025",
-      "link": "https://oba.by/2025/03/19860",
+      "link": "https://oba.by/2025/03/19860?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=418-im-a-teapot",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年03月23日 11:25:20"
+  "updated": "2025年03月23日 13:02:21"
 }
