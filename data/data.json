@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "使用 Cold Turkey Blocker 高效限制应用与网站访问",
+      "published": "24 Mar 2025",
+      "link": "https://www.shephe.com/post/using-cold-turkey-blocker-restrict-apps-websites/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "年轻人如何管理单位里的老法师？",
       "published": "24 Mar 2025",
@@ -64,13 +71,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "Kevin's",
-      "title": "入手雷鸟鹤 6 Pro 24 款 65'' 电视机：失望至极",
-      "published": "20 Mar 2025",
-      "link": "https://www.shephe.com/life/65s585c-pro/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
       "blog_name": "@1900'Blog",
       "title": "256、春分",
       "published": "20 Mar 2025",
@@ -127,13 +127,6 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
-      "blog_name": "心的道理",
-      "title": "身份、身份自豪感与身份政治",
-      "published": "18 Feb 2025",
-      "link": "https://stephenleng.com/cn/identity-identity-pride-and-identity-politics/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=identity-identity-pride-and-identity-politics",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
       "blog_name": " Airing 的博客 ",
       "title": " 2024，告别盛夏 ",
       "published": "01 Feb 2025",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年03月24日 16:48:50"
+  "updated": "2025年03月24日 17:35:15"
 }
