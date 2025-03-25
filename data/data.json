@@ -106,13 +106,6 @@
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
-      "blog_name": "Limboy's Essays",
-      "title": "理想的文本内容创作、分发和消费系统",
-      "published": "15 Mar 2025",
-      "link": "https://limboy.me/posts/ideal-text-content-create-deliver-consume",
-      "avatar": "https://limboy.me/favicon.svg"
-    },
-    {
       "blog_name": "云风的 BLOG",
       "title": "卡牌构筑类桌游核心规则之五",
       "published": "12 Mar 2025",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年03月25日 11:28:19"
+  "updated": "2025年03月25日 13:35:13"
 }
