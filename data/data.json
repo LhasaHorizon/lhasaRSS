@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "GPT4o新版图片生成上手：丸辣！你是要毁了设计圈吗！",
+      "published": "28 Mar 2025",
+      "link": "https://blog.zhheo.com/p/1arrbgly.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "祝自己生日快乐啊",
       "published": "28 Mar 2025",
@@ -41,13 +48,6 @@
       "published": "26 Mar 2025",
       "link": "https://ihaihe.cn/3152.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "秒哒上手：免服务器纯自然语言编写支持前后端的网页项目，自然语言开发成了吗？",
-      "published": "25 Mar 2025",
-      "link": "https://blog.zhheo.com/p/mysdpwxd.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "土木坛子",
@@ -141,6 +141,13 @@
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
     },
     {
+      "blog_name": "甜欣屋",
+      "title": "写在美国大选之后：我到底在支持什么",
+      "published": "06 Nov 2024",
+      "link": "https://tcxx.info/notion/1067.html",
+      "avatar": "https://tcxx.info/favicon.ico"
+    },
+    {
       "blog_name": "孔令贤的个人博客",
       "title": "关于 AI 的一些思考",
       "published": "15 May 2024",
@@ -183,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年03月28日 10:40:42"
+  "updated": "2025年03月28日 11:26:40"
 }
