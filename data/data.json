@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "obaby@mars",
+      "title": "祝自己生日快乐啊",
+      "published": "28 Mar 2025",
+      "link": "https://oba.by/2025/03/19970",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 343 期）：如何阻止 AI 爬虫",
+      "published": "28 Mar 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "职场环境、人际关系、个人能力、干活多少，到底哪个最重要？",
       "published": "27 Mar 2025",
       "link": "https://hwv430.blogspot.com/2025/03/blog-post_66.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "铲子与锅",
-      "published": "27 Mar 2025",
-      "link": "https://oba.by/2025/03/19961",
-      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "心的道理",
@@ -78,13 +85,6 @@
       "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 342 期）：面试的 AI 作弊----用数字人去面试",
-      "published": "21 Mar 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-342.html",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
       "blog_name": "@1900'Blog",
       "title": "256、春分",
       "published": "20 Mar 2025",
@@ -110,7 +110,7 @@
       "title": "阿衰完结-成长路上的欢笑与希望",
       "published": "17 Mar 2025",
       "link": "https://blog.yanqingshan.com/218.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -139,13 +139,6 @@
       "published": "01 Feb 2025",
       "link": "https://blog.ursb.me/posts/summary-2024/",
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
-    },
-    {
-      "blog_name": "甜欣屋",
-      "title": "写在美国大选之后：我到底在支持什么",
-      "published": "06 Nov 2024",
-      "link": "https://tcxx.info/notion/1067.html",
-      "avatar": "https://tcxx.info/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -190,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年03月27日 23:31:48"
+  "updated": "2025年03月28日 03:08:55"
 }
