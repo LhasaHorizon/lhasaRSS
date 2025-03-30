@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "运维咖啡吧",
+      "title": "今天是我的生日",
+      "published": "30 Mar 2025",
+      "link": "https://blog.ops-coffee.cn/r/birthday-surprise-and-life-reflection.html",
+      "avatar": "https://blog.ops-coffee.cn/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "国企的领导层就是一个草台班子",
       "published": "30 Mar 2025",
@@ -64,13 +71,6 @@
       "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
-      "blog_name": "Ouroboros",
-      "title": "三星堆博物馆新馆 Walk",
-      "published": "24 Mar 2025",
-      "link": "https://blog.pursuitus.com/sanxingdui-museum.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "产能过剩",
       "published": "23 Mar 2025",
@@ -99,18 +99,11 @@
       "avatar": "https://1900.live/logo.svg"
     },
     {
-      "blog_name": "运维咖啡吧",
-      "title": "东钱湖｜观雨露营全记录，解锁治愈系周末",
-      "published": "18 Mar 2025",
-      "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-ningbo-yinzhou-dongqianhu-01.html",
-      "avatar": "https://blog.ops-coffee.cn/favicon.ico"
-    },
-    {
       "blog_name": "子夜松声",
       "title": "乙巳蛇年-三月半",
       "published": "17 Mar 2025",
       "link": "https://xyzbz.cn/archives/1372/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
@@ -132,13 +125,6 @@
       "published": "01 Feb 2025",
       "link": "https://blog.ursb.me/posts/summary-2024/",
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
-    },
-    {
-      "blog_name": "甜欣屋",
-      "title": "写在美国大选之后：我到底在支持什么",
-      "published": "06 Nov 2024",
-      "link": "https://tcxx.info/notion/1067.html",
-      "avatar": "https://tcxx.info/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -183,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年03月30日 11:25:58"
+  "updated": "2025年03月30日 13:04:34"
 }
