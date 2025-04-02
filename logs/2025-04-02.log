@@ -155,3 +155,12 @@
 [2025-04-02 21:30:00] ✘ 有 2 条订阅头像无法访问, 已使用默认头像:
 [2025-04-02 21:30:00] - http://feeds.feedburner.com/ruanyifeng
 [2025-04-02 21:30:00] - https://www.loyhome.com/feed
+[2025-04-02 22:37:38] 本次订阅抓取结果统计:
+[2025-04-02 22:37:38] 共 28 条RSS, 成功抓取 26 条.
+[2025-04-02 22:37:38] ✘ 有 2 条订阅解析失败:
+[2025-04-02 22:37:38] - https://geekinney.com/index.xml
+[2025-04-02 22:37:38] - https://limboy.me/index.xml
+[2025-04-02 22:37:38] ✘ 有 3 条订阅头像无法访问, 已使用默认头像:
+[2025-04-02 22:37:38] - https://www.loyhome.com/feed
+[2025-04-02 22:37:38] - http://feeds.feedburner.com/ruanyifeng
+[2025-04-02 22:37:38] - https://blog.zhheo.com/rss.xml
