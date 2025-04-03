@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "高学历的优秀者好创业",
+      "published": "03 Apr 2025",
+      "link": "https://hwv430.blogspot.com/2025/04/blog-post_4.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "是否跟这个人结婚：人生最重要的决定",
       "published": "03 Apr 2025",
       "link": "https://stephenleng.com/cn/whether-or-not-to-marry-this-person-the-most-important-decision-in-life/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=whether-or-not-to-marry-this-person-the-most-important-decision-in-life",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "工作能力强是演出来的",
-      "published": "02 Apr 2025",
-      "link": "https://hwv430.blogspot.com/2025/04/blog-post_94.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
@@ -145,7 +145,7 @@
       "title": "写在美国大选之后：我到底在支持什么",
       "published": "06 Nov 2024",
       "link": "https://tcxx.info/notion/1067.html",
-      "avatar": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico"
+      "avatar": "https://tcxx.info/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月03日 18:47:52"
+  "updated": "2025年04月03日 19:24:30"
 }
