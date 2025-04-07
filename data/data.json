@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "让博客“秒开”：Instant.page 插件介绍与实测效果",
+      "published": "07 Apr 2025",
+      "link": "https://www.shephe.com/website/instant-page-plugin/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "虚无缥缈的 Hello Kitty",
       "published": "07 Apr 2025",
@@ -90,13 +97,6 @@
       "published": "28 Mar 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/03/weekly-issue-343.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "Kevin's",
-      "title": "开源 Gif 录制工具 ScreenToGif v2.41 免费下载",
-      "published": "26 Mar 2025",
-      "link": "https://www.shephe.com/resources/screentogif-free-download/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "Ouroboros",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月07日 11:27:26"
+  "updated": "2025年04月07日 13:36:29"
 }
