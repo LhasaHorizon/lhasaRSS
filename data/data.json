@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby@mars",
+      "title": "Vidda（海信）电视安装第三方应用",
+      "published": "08 Apr 2025",
+      "link": "https://oba.by/2025/04/20149",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "两个最垃圾的专业——设计和会计",
       "published": "07 Apr 2025",
@@ -13,13 +20,6 @@
       "published": "07 Apr 2025",
       "link": "https://www.shephe.com/website/instant-page-plugin/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "虚无缥缈的 Hello Kitty",
-      "published": "07 Apr 2025",
-      "link": "https://oba.by/2025/04/20102",
-      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -54,7 +54,7 @@
       "title": "乙巳蛇年-三月末",
       "published": "01 Apr 2025",
       "link": "https://xyzbz.cn/archives/1377/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "三十海河",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月08日 04:42:35"
+  "updated": "2025年04月08日 05:38:33"
 }
