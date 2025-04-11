@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "赚钱思维",
+      "published": "11 Apr 2025",
+      "link": "https://hwv430.blogspot.com/2025/04/blog-post_12.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "磐安｜自驾浙中川藏线，过没有人从众的假期",
       "published": "11 Apr 2025",
@@ -13,13 +20,6 @@
       "published": "10 Apr 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-344.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "降温催眠",
-      "published": "10 Apr 2025",
-      "link": "https://hwv430.blogspot.com/2025/04/blog-post_11.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -40,7 +40,7 @@
       "title": "将监控摄像头对接到视频会议中",
       "published": "09 Apr 2025",
       "link": "https://xyzbz.cn/archives/1379/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "心的道理",
@@ -152,7 +152,7 @@
       "title": "写在美国大选之后：我到底在支持什么",
       "published": "06 Nov 2024",
       "link": "https://tcxx.info/notion/1067.html",
-      "avatar": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -197,5 +197,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月11日 15:22:35"
+  "updated": "2025年04月11日 16:27:21"
 }
