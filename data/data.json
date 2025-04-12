@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "@1900'Blog",
-      "title": "Memos同步至Mastodon(长毛象)",
+      "title": "宜宾李庄、僰王山一日游",
       "published": "12 Apr 2025",
-      "link": "https://1900.live/memostong-bu-zhi-mastodon-chang-mao-xiang/",
+      "link": "https://1900.live/yi-bin-li-zhuang-bo-wang-shan-yi-ri-you/",
       "avatar": "https://1900.live/logo.svg"
     },
     {
@@ -47,7 +47,7 @@
       "title": "将监控摄像头对接到视频会议中",
       "published": "09 Apr 2025",
       "link": "https://xyzbz.cn/archives/1379/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "心的道理",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月12日 15:19:31"
+  "updated": "2025年04月12日 16:23:56"
 }
