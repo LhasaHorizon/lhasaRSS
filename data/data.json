@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "你在你所属于的地方吗？",
+      "published": "13 Apr 2025",
+      "link": "https://stephenleng.com/cn/are-you-where-you-belong/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=are-you-where-you-belong",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "白嫖百度网盘超级会员和7T空间",
       "published": "13 Apr 2025",
@@ -55,13 +62,6 @@
       "published": "09 Apr 2025",
       "link": "https://xyzbz.cn/archives/1379/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "人工智能的兴起和人类精神的大停滞：AI将如何摧毁创造力和天才",
-      "published": "09 Apr 2025",
-      "link": "https://stephenleng.com/cn/the-rise-of-artificial-intelligence-and-the-great-stagnation-of-the-human-spirit-how-ai-will-destroy-creativity-and-genius/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-rise-of-artificial-intelligence-and-the-great-stagnation-of-the-human-spirit-how-ai-will-destroy-creativity-and-genius",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "三十海河",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月13日 16:25:56"
+  "updated": "2025年04月13日 17:17:16"
 }
