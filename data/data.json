@@ -8,6 +8,13 @@
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "CSPJ 教学总结：深度优先搜索（DFS）",
+      "published": "13 Apr 2025",
+      "link": "https://blog.devtang.com/2025/04/13/teaching-notes-of-dfs/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "宜宾李庄、僰王山一日游",
       "published": "12 Apr 2025",
@@ -69,13 +76,6 @@
       "published": "07 Apr 2025",
       "link": "https://www.shephe.com/website/instant-page-plugin/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "CSPJ 教学思考：枚举",
-      "published": "06 Apr 2025",
-      "link": "https://blog.devtang.com/2025/04/06/teaching-notes-of-brute-force/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月13日 15:22:05"
+  "updated": "2025年04月13日 16:25:56"
 }
