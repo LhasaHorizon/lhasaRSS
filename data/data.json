@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "办公类 AI 初探：扣子空间",
+      "published": "21 Apr 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/04/coze-space.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "我们的纪念日",
       "published": "21 Apr 2025",
@@ -22,6 +29,13 @@
       "avatar": "https://1900.live/logo.svg"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "反全球化、反脆弱性",
+      "published": "19 Apr 2025",
+      "link": "https://tumutanzi.com/archives/17504",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "房车小白避坑指南｜房车选购及使用经验",
       "published": "19 Apr 2025",
@@ -41,13 +55,6 @@
       "published": "18 Apr 2025",
       "link": "https://blog.ursb.me/posts/weekly-29/",
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了",
-      "published": "18 Apr 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "白板报",
@@ -183,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月21日 03:11:53"
+  "updated": "2025年04月21日 04:25:59"
 }
