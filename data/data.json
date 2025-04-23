@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "行贿和受贿应同罪？",
+      "published": "23 Apr 2025",
+      "link": "https://hwv430.blogspot.com/2025/04/blog-post_24.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "紫慕的明信片",
       "published": "23 Apr 2025",
@@ -20,13 +27,6 @@
       "published": "22 Apr 2025",
       "link": "https://stephenleng.com/cn/the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "如何写好提示词？手把手教你用提示词玩转 AI（1）",
-      "published": "21 Apr 2025",
-      "link": "https://hwv430.blogspot.com/2025/04/ai1.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Ouroboros",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月23日 15:24:06"
+  "updated": "2025年04月23日 16:27:43"
 }
