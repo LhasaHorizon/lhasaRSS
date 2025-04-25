@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 346 期）：未来就是永恒感的丧失",
+      "published": "25 Apr 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "沟通不太行的人，换个不用跟人打交道的工作行不行",
       "published": "24 Apr 2025",
@@ -13,13 +20,6 @@
       "published": "23 Apr 2025",
       "link": "https://oba.by/2025/04/20281",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）",
-      "published": "22 Apr 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "心的道理",
@@ -190,5 +190,5 @@
       "avatar": "https://cn.gravatar.com/avatar"
     }
   ],
-  "updated": "2025年04月24日 23:19:54"
+  "updated": "2025年04月25日 01:45:42"
 }
