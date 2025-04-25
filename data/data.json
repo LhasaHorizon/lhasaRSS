@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "财富并不跟收入成比例",
+      "published": "25 Apr 2025",
+      "link": "https://hwv430.blogspot.com/2025/04/blog-post_44.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 346 期）：未来就是永恒感的丧失",
       "published": "25 Apr 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "沟通不太行的人，换个不用跟人打交道的工作行不行",
-      "published": "24 Apr 2025",
-      "link": "https://hwv430.blogspot.com/2025/04/blog-post_92.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby@mars",
@@ -190,5 +190,5 @@
       "avatar": "https://cn.gravatar.com/avatar"
     }
   ],
-  "updated": "2025年04月25日 15:22:14"
+  "updated": "2025年04月25日 16:26:38"
 }
