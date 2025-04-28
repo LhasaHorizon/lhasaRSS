@@ -29,6 +29,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "CSPJ 教学总结：树状数组",
+      "published": "26 Apr 2025",
+      "link": "https://blog.devtang.com/2025/04/26/teaching-notes-of-bit/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "天然气热水器国补下单",
       "published": "26 Apr 2025",
@@ -68,7 +75,7 @@
       "title": "乙巳蛇年-四月半",
       "published": "18 Apr 2025",
       "link": "https://xyzbz.cn/archives/1380/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": " Airing 的博客 ",
@@ -104,13 +111,6 @@
       "published": "15 Apr 2025",
       "link": "https://blog.zhheo.com/p/r1zzawal.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "CSPJ 教学总结：深度优先搜索（DFS）",
-      "published": "13 Apr 2025",
-      "link": "https://blog.devtang.com/2025/04/13/teaching-notes-of-dfs/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年04月28日 13:41:20"
+  "updated": "2025年04月28日 14:24:21"
 }
