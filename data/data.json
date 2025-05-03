@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "Kevin's",
-      "title": "PNG images：一个免费免登录的抠像资源网站",
-      "published": "02 May 2025",
-      "link": "https://www.shephe.com/resources/png-images-site/",
+      "title": "利用 Live Photos Block 插件给博客添加实况照片",
+      "published": "03 May 2025",
+      "link": "https://www.shephe.com/website/wordpress-live-photos-block-plugin/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
@@ -12,7 +12,7 @@
       "title": "乙巳蛇年-四月末",
       "published": "01 May 2025",
       "link": "https://xyzbz.cn/archives/1387/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月03日 10:20:50"
+  "updated": "2025年05月03日 11:16:51"
 }
