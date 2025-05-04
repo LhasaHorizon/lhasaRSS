@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "Kevin's",
-      "title": "利用 Live Photos Block 插件给博客添加实况照片",
-      "published": "03 May 2025",
-      "link": "https://www.shephe.com/website/wordpress-live-photos-block-plugin/",
+      "title": "用 WP Simple EXIF 让博客图片展示更多细节信息",
+      "published": "04 May 2025",
+      "link": "https://www.shephe.com/website/wp-simple-exif/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月04日 11:16:40"
+  "updated": "2025年05月04日 12:39:48"
 }
