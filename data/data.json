@@ -99,13 +99,6 @@
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
     },
     {
-      "blog_name": "白板报",
-      "title": "陪伴母亲的日子（1） 启程",
-      "published": "17 Apr 2025",
-      "link": "https://wangpei.net/2025/04/the-remaining-days-of-my-mother-01/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
-    },
-    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "辅酶Q10与刀",
       "published": "16 Apr 2025",
@@ -146,6 +139,13 @@
       "published": "23 Jan 2025",
       "link": "https://geekinney.com/post/ke-jie-lg-cup-penalty-incident/",
       "avatar": "https://geekinney.com/apple-touch-icon.png"
+    },
+    {
+      "blog_name": "白板报",
+      "title": "我将留在家中的最后十本书",
+      "published": "14 Aug 2024",
+      "link": "https://wangpei.net/2024/08/the-last-ten-books/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月04日 21:18:48"
+  "updated": "2025年05月04日 22:19:46"
 }
