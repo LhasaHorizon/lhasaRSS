@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "白板报",
+      "title": "这是我的博客",
+      "published": "05 May 2025",
+      "link": "https://wangpei.net/2025/05/%e8%bf%99%e6%98%af%e6%88%91%e7%9a%84%e5%8d%9a%e5%ae%a2/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
+    },
+    {
       "blog_name": "落园",
       "title": "诗和远方",
       "published": "04 May 2025",
@@ -141,13 +148,6 @@
       "avatar": "https://geekinney.com/apple-touch-icon.png"
     },
     {
-      "blog_name": "白板报",
-      "title": "我将留在家中的最后十本书",
-      "published": "14 Aug 2024",
-      "link": "https://wangpei.net/2024/08/the-last-ten-books/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "关于 AI 的一些思考",
       "published": "15 May 2024",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月05日 03:14:14"
+  "updated": "2025年05月05日 04:27:02"
 }
