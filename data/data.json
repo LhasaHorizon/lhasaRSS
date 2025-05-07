@@ -15,6 +15,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "课堂之外的心灵契约：师生对话中的真知分享",
+      "published": "06 May 2025",
+      "link": "https://tumutanzi.com/archives/17511",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "楠溪江自驾Day1 - 大胆的想法",
       "published": "06 May 2025",
@@ -90,13 +97,6 @@
       "published": "01 May 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/05/notebooklm.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "土木坛子",
-      "title": "我如何将资金从新加坡转到香港？反之亦然",
-      "published": "30 Apr 2025",
-      "link": "https://tumutanzi.com/archives/17508",
-      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "唐巧的博客",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月07日 09:24:43"
+  "updated": "2025年05月07日 10:24:21"
 }
