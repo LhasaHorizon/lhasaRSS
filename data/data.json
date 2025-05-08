@@ -85,13 +85,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "Kevin's",
-      "title": "用 WP Simple EXIF 让博客图片展示更多细节信息",
-      "published": "04 May 2025",
-      "link": "https://www.shephe.com/website/wp-simple-exif/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
       "blog_name": "子夜松声",
       "title": "乙巳蛇年-四月末",
       "published": "01 May 2025",
@@ -190,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月08日 12:43:56"
+  "updated": "2025年05月08日 13:32:41"
 }
