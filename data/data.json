@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby@mars",
+      "title": "FaceFusion 3.2.0 — 进阶体验（不要瑟瑟）",
+      "published": "11 May 2025",
+      "link": "https://oba.by/2025/05/20664",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "AI数字人直播",
       "published": "11 May 2025",
@@ -20,13 +27,6 @@
       "published": "10 May 2025",
       "link": "https://www.shephe.com/photography/%e7%85%a7%e7%89%87%e7%ae%a1%e7%90%86/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "FaceFusion 3.2.0 — 免费AI换脸工具初体验",
-      "published": "10 May 2025",
-      "link": "https://oba.by/2025/05/20613",
-      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月11日 08:26:26"
+  "updated": "2025年05月11日 09:20:23"
 }
