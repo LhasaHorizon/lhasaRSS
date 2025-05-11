@@ -12,7 +12,14 @@
       "title": "Typecho(1.2.1)免密登录研究笔记",
       "published": "11 May 2025",
       "link": "https://blog.yanqingshan.com/220.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby@mars",
+      "title": "FaceFusion 3.2.0 — 进阶体验（不要瑟瑟）",
+      "published": "11 May 2025",
+      "link": "https://oba.by/2025/05/20664",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "核电站",
@@ -183,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月11日 19:16:39"
+  "updated": "2025年05月11日 20:21:54"
 }
