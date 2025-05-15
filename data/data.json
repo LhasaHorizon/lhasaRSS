@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "Kevin's",
-      "title": "巧用这些工具和方法快速找到适合你的域名",
+      "title": "注册一台阿里云小主机用于 WordPress 教程编写",
       "published": "15 May 2025",
-      "link": "https://www.shephe.com/website/%e5%af%bb%e6%89%be%e5%9f%9f%e5%90%8d/",
+      "link": "https://www.shephe.com/website/wordpress-test-host/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
@@ -110,7 +110,7 @@
       "title": "乙巳蛇年-四月末",
       "published": "01 May 2025",
       "link": "https://xyzbz.cn/archives/1387/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月15日 11:19:07"
+  "updated": "2025年05月15日 12:44:30"
 }
