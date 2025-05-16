@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星",
+      "published": "16 May 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "AI咨询赚钱",
       "published": "15 May 2025",
@@ -83,13 +90,6 @@
       "published": "11 May 2025",
       "link": "https://ihaihe.cn/3230.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 347 期）：冷启动的破解之道",
-      "published": "09 May 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Ouroboros",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月15日 23:20:42"
+  "updated": "2025年05月16日 01:49:21"
 }
