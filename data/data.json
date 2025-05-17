@@ -8,6 +8,13 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     },
     {
+      "blog_name": "Kevin's",
+      "title": "我的 WordPress 网站安装了哪些插件（2025.06）",
+      "published": "17 May 2025",
+      "link": "https://www.shephe.com/website/wordpress-plugin-recommendations/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": " Airing 的博客 ",
       "title": " 游戏组件的一生: 从加载到上屏 ",
       "published": "17 May 2025",
@@ -34,13 +41,6 @@
       "published": "16 May 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "Kevin's",
-      "title": "注册一台阿里云小主机用于 WordPress 教程编写",
-      "published": "15 May 2025",
-      "link": "https://www.shephe.com/website/wordpress-test-host/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月17日 10:22:45"
+  "updated": "2025年05月17日 11:16:38"
 }
