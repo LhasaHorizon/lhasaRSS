@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "制度改革与文化停滞",
+      "published": "19 May 2025",
+      "link": "https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=institutional-reform-and-cultural-stagnation",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "赶海",
       "published": "19 May 2025",
@@ -83,13 +90,6 @@
       "published": "12 May 2025",
       "link": "https://blog.yanqingshan.com/221.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "浙江人，读叔本华吧！",
-      "published": "12 May 2025",
-      "link": "https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=zhejiang-people-read-schopenhauer",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "张洪Heo",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月19日 11:19:15"
+  "updated": "2025年05月19日 12:47:30"
 }
