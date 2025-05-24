@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "@1900'Blog",
+      "title": "给文章引入联邦宇宙嘟文互动记录",
+      "published": "24 May 2025",
+      "link": "https://1900.live/fediverse-interactions-for-articles/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "核电站",
       "title": "体制内的人其实并不那么社会",
       "published": "24 May 2025",
@@ -34,13 +41,6 @@
       "published": "23 May 2025",
       "link": "https://blog.zhheo.com/p/pkrapvvx.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "@1900'Blog",
-      "title": "微软开源的更贴近Windows习惯的Linux命令行文本编辑器：edit",
-      "published": "23 May 2025",
-      "link": "https://1900.live/wei-ruan-kai-yuan-de-geng-tie-jin-windowsxi-guan-de-linuxming-ling-xing-wen-ben-bian-ji-qi-edit/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年05月24日 09:20:27"
+  "updated": "2025年05月24日 10:20:56"
 }
