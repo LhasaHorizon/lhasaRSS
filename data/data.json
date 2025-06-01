@@ -22,13 +22,6 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
-      "blog_name": "Kevin's",
-      "title": "自动 SSL 证书续签工具 Certimate 安装 \u0026 使用教程",
-      "published": "31 May 2025",
-      "link": "https://www.shephe.com/website/certimate-ssl-auto-renewal-tutorial/",
-      "avatar": "https://staticfile.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 350 期）：Java 三十周年",
       "published": "30 May 2025",
@@ -190,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月01日 21:19:25"
+  "updated": "2025年06月01日 22:20:23"
 }
