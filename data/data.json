@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "obaby@mars",
-      "title": "我的设备插件（WordPress 插件） — 就爱重复造轮子",
+      "title": "还是孩子的我们",
       "published": "02 Jun 2025",
-      "link": "https://oba.by/2025/06/20925",
+      "link": "https://oba.by/2025/06/20899",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
@@ -20,6 +20,13 @@
       "published": "02 Jun 2025",
       "link": "https://hwv430.blogspot.com/2025/06/blog-post_2.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "Kevin's",
+      "title": "一次被 OneAV 插件“内爆”的服务器排查记录 🚨",
+      "published": "02 Jun 2025",
+      "link": "https://www.shephe.com/website/kill-oneav/",
+      "avatar": "https://staticfile.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "Ouroboros",
@@ -183,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月02日 07:22:57"
+  "updated": "2025年06月02日 08:31:21"
 }
