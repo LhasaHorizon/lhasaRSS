@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "🚨 一次被 OneAV 插件“内爆”的服务器排查记录",
+      "published": "02 Jun 2025",
+      "link": "https://www.shephe.com/website/kill-oneav/",
+      "avatar": "https://staticfile.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "苹果Carplay 自定义壁纸实现逻辑分析",
       "published": "01 Jun 2025",
@@ -183,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月01日 23:20:46"
+  "updated": "2025年06月02日 01:54:52"
 }
