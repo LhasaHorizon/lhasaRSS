@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "父母在，要远游",
+      "published": "05 Jun 2025",
+      "link": "https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=while-parents-live-one-must-travel-far",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "261、芒种",
       "published": "05 Jun 2025",
@@ -71,13 +78,6 @@
       "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
-      "blog_name": "心的道理",
-      "title": "论中国人的宗教代用品",
-      "published": "29 May 2025",
-      "link": "https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=substitutes-for-religion-in-china",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "202505 - 近况",
       "published": "25 May 2025",
@@ -89,7 +89,7 @@
       "title": "MinIO 禁止展示桶文件列表",
       "published": "23 May 2025",
       "link": "https://blog.yanqingshan.com/222.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月05日 11:21:57"
+  "updated": "2025年06月05日 12:51:37"
 }
