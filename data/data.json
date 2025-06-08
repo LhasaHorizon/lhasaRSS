@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "三十海河",
+      "title": "薛定谔的电瓶",
+      "published": "08 Jun 2025",
+      "link": "https://ihaihe.cn/3274.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "AI快速赚钱 小白干翻内行",
       "published": "07 Jun 2025",
@@ -62,13 +69,6 @@
       "published": "02 Jun 2025",
       "link": "https://oba.by/2025/06/20899",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
-    },
-    {
-      "blog_name": "三十海河",
-      "title": "狡诈的资本家",
-      "published": "02 Jun 2025",
-      "link": "https://ihaihe.cn/3262.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
       "blog_name": "Ouroboros",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月07日 23:21:55"
+  "updated": "2025年06月08日 01:59:42"
 }
