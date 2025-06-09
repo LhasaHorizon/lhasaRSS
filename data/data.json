@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "电梯的交互和调度",
+      "published": "09 Jun 2025",
+      "link": "https://blog.codingnow.com/2025/06/elevator.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "把下属员工培训好了，他们跳槽跑路了，怎么办？",
       "published": "08 Jun 2025",
@@ -120,13 +127,6 @@
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
     },
     {
-      "blog_name": "云风的 BLOG",
-      "title": "一个简单的 A star 寻路算法实现",
-      "published": "14 May 2025",
-      "link": "https://blog.codingnow.com/2025/05/a_star_pathfinding.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
       "blog_name": "唐巧的博客",
       "title": "CSPJ 教学总结：树状数组",
       "published": "26 Apr 2025",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月09日 06:34:38"
+  "updated": "2025年06月09日 07:23:03"
 }
