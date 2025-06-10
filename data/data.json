@@ -36,13 +36,6 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     },
     {
-      "blog_name": "三十海河",
-      "title": "薛定谔的电瓶",
-      "published": "08 Jun 2025",
-      "link": "https://ihaihe.cn/3274.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
       "blog_name": "Kevin's",
       "title": "Google Firebase 免费虚拟主机部署 \u0026 实际体验 🌦️",
       "published": "07 Jun 2025",
@@ -69,13 +62,6 @@
       "published": "05 Jun 2025",
       "link": "https://1900.live/261-mang-chong/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "子夜松声",
-      "title": "乙巳蛇年-五月末",
-      "published": "04 Jun 2025",
-      "link": "https://xyzbz.cn/archives/1394/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -190,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月10日 13:35:08"
+  "updated": "2025年06月10日 14:23:19"
 }
