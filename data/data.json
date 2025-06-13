@@ -1,10 +1,17 @@
 {
   "items": [
     {
-      "blog_name": "Kevin's",
-      "title": "如何在 Lightroom 中导入预设、配置文件和滤镜",
+      "blog_name": "张洪Heo",
+      "title": "远程挂载Macbook中电脑的文件，使用Alist配合SFTP在家访问公司电脑文件",
       "published": "13 Jun 2025",
-      "link": "https://www.shephe.com/photography/lightroom-import-presets-and-filters/",
+      "link": "https://blog.zhheo.com/p/1mo3yfwz.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
+      "blog_name": "Kevin's",
+      "title": "用 Photoshop Neural Filters 神经滤镜给老照片上色",
+      "published": "13 Jun 2025",
+      "link": "https://www.shephe.com/photography/photoshop-neural-filters-old-photo-colorization/",
       "avatar": "https://staticfile.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
@@ -41,13 +48,6 @@
       "published": "11 Jun 2025",
       "link": "https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "面对Alist商业化：如何从Alist解绑阿里云盘？如何避免阿里云盘的数据被第三方应用读取",
-      "published": "11 Jun 2025",
-      "link": "https://blog.zhheo.com/p/w1hvnzfq.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月13日 10:24:51"
+  "updated": "2025年06月13日 11:19:34"
 }
