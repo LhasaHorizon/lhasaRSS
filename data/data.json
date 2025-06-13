@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "在中国如何用手机匿名上网",
+      "published": "13 Jun 2025",
+      "link": "https://hwv430.blogspot.com/2025/06/blog-post_84.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "远程挂载Macbook中电脑的文件，使用Alist配合SFTP在家访问公司电脑文件",
       "published": "13 Jun 2025",
@@ -15,11 +22,11 @@
       "avatar": "https://staticfile.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
-      "blog_name": "核电站",
-      "title": "AI婚纱照赚钱",
+      "blog_name": "Limboy's Essays",
+      "title": "冷水澡",
       "published": "13 Jun 2025",
-      "link": "https://hwv430.blogspot.com/2025/06/ai_13.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "link": "https://limboy.me/posts/code-shower",
+      "avatar": "https://limboy.me/favicon.svg"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -34,13 +41,6 @@
       "published": "12 Jun 2025",
       "link": "https://oba.by/2025/06/20975",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
-    },
-    {
-      "blog_name": "Limboy's Essays",
-      "title": "关于 AI 辅助编程的一些实践和思考",
-      "published": "12 Jun 2025",
-      "link": "https://limboy.me/posts/ai-assisted-coding",
-      "avatar": "https://limboy.me/favicon.svg"
     },
     {
       "blog_name": "心的道理",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月13日 11:19:34"
+  "updated": "2025年06月13日 12:45:33"
 }
