@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "白板报",
+      "title": "父亲节的大礼：成为油管合作伙伴",
+      "published": "15 Jun 2025",
+      "link": "https://wangpei.net/2025/06/%e7%88%b6%e4%ba%b2%e8%8a%82%e7%9a%84%e5%a4%a7%e7%a4%bc%ef%bc%9a%e6%88%90%e4%b8%ba%e6%b2%b9%e7%ae%a1%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "育儿的一些日常",
       "published": "15 Jun 2025",
@@ -141,13 +148,6 @@
       "avatar": "https://geekinney.com/apple-touch-icon.png"
     },
     {
-      "blog_name": "白板报",
-      "title": "回乡偶记五：两种拆迁",
-      "published": "14 Aug 2024",
-      "link": "https://wangpei.net/2024/08/demolishing/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
-    },
-    {
       "blog_name": "扯氮集",
       "title": "百度的槽点到底在哪里",
       "published": "11 May 2024",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月15日 13:29:11"
+  "updated": "2025年06月15日 14:18:52"
 }
