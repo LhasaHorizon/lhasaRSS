@@ -92,6 +92,13 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     },
     {
+      "blog_name": "三十海河",
+      "title": "薛定谔的电瓶",
+      "published": "08 Jun 2025",
+      "link": "https://ihaihe.cn/3274.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "GESP 大题核心考点",
       "published": "06 Jun 2025",
@@ -183,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月15日 23:20:38"
+  "updated": "2025年06月16日 01:55:52"
 }
