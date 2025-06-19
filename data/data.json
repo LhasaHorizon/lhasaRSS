@@ -92,13 +92,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "土木坛子",
-      "title": "谈谈加密稳定币和它的投资机会",
-      "published": "08 Jun 2025",
-      "link": "https://tumutanzi.com/archives/17519",
-      "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
       "blog_name": "运维咖啡吧",
       "title": "兰溪｜从天下江南到游埠早茶，解锁小城慢时光",
       "published": "08 Jun 2025",
@@ -173,7 +166,7 @@
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
-      "avatar": "https://kenengba.com/apple-touch-icon-57x57.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "风雪之隅",
@@ -190,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月19日 11:19:36"
+  "updated": "2025年06月19日 12:47:13"
 }
