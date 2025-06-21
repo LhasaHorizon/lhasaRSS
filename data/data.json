@@ -8,6 +8,20 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     },
     {
+      "blog_name": "核电站",
+      "title": "王小波论价值判断",
+      "published": "21 Jun 2025",
+      "link": "https://hwv430.blogspot.com/2025/06/blog-post_21.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "心的道理",
+      "title": "浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语",
+      "published": "21 Jun 2025",
+      "link": "https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "三十海河",
       "title": "倒霉的一天",
       "published": "20 Jun 2025",
@@ -36,13 +50,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "核电站",
-      "title": "学校生存靠学生",
-      "published": "19 Jun 2025",
-      "link": "https://hwv430.blogspot.com/2025/06/blog-post_20.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
       "blog_name": "张洪Heo",
       "title": "easytier上手：去中心化的组网工具，异地组网软件",
       "published": "19 Jun 2025",
@@ -55,13 +62,6 @@
       "published": "16 Jun 2025",
       "link": "https://xyzbz.cn/archives/1395/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "为什么物质条件不是婚姻的“基础”",
-      "published": "15 Jun 2025",
-      "link": "https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "白板报",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月21日 03:15:01"
+  "updated": "2025年06月21日 04:27:36"
 }
