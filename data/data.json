@@ -8,6 +8,13 @@
       "avatar": "https://staticfile.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "所有的错误，我们都知道，然而终究改不掉",
+      "published": "21 Jun 2025",
+      "link": "https://tumutanzi.com/archives/17524",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "262、夏至",
       "published": "21 Jun 2025",
@@ -48,13 +55,6 @@
       "published": "20 Jun 2025",
       "link": "https://ihaihe.cn/3290.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "土木坛子",
-      "title": "《褚时健传》读书笔记：他做错了什么？",
-      "published": "20 Jun 2025",
-      "link": "https://tumutanzi.com/archives/17521",
-      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "obaby@mars",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月22日 06:31:01"
+  "updated": "2025年06月22日 07:21:10"
 }
