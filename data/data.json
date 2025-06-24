@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "国产 AI 网页开发工具：豆包 AI 编程简单测评",
+      "published": "24 Jun 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "行将就木",
       "published": "23 Jun 2025",
       "link": "https://oba.by/2025/06/21011",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
+      "blog_name": "Limboy's Essays",
+      "title": "科萨人和祖鲁人",
+      "published": "23 Jun 2025",
+      "link": "https://limboy.me/posts/amaxhosa-amazulu",
+      "avatar": "https://limboy.me/favicon.svg"
     },
     {
       "blog_name": "核电站",
@@ -62,13 +76,6 @@
       "published": "20 Jun 2025",
       "link": "https://ihaihe.cn/3290.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 353 期）：苹果的\"液态玻璃\"是为了 AR",
-      "published": "20 Jun 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "张洪Heo",
@@ -183,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年06月24日 01:53:32"
+  "updated": "2025年06月24日 03:20:31"
 }
