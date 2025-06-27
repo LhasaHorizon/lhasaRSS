@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？",
+      "published": "27 Jun 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "有目标感的人比有幸福感的人活得更久",
       "published": "26 Jun 2025",
@@ -22,13 +29,6 @@
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
-      "blog_name": "子夜松声",
-      "title": "初夏荷花开-2025",
-      "published": "25 Jun 2025",
-      "link": "https://xyzbz.cn/archives/1406/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "消失的Y",
       "published": "25 Jun 2025",
@@ -48,13 +48,6 @@
       "published": "24 Jun 2025",
       "link": "https://blog.yanqingshan.com/223.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "国产 AI 网页开发工具：豆包 AI 编程简单测评",
-      "published": "24 Jun 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby@mars",
@@ -190,5 +183,5 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     }
   ],
-  "updated": "2025年06月26日 23:21:22"
+  "updated": "2025年06月27日 01:54:11"
 }
