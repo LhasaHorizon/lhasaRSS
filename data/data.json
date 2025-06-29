@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "Limboy's Essays",
-      "title": "Vibe Coding 一段时间后的感受",
-      "published": "30 Jun 2025",
-      "link": "https://limboy.me/posts/vibe-coding",
+      "title": "做了一个小游戏：笔画猜成语",
+      "published": "29 Jun 2025",
+      "link": "https://limboy.me/posts/stroke",
       "avatar": "https://limboy.me/favicon.svg"
     },
     {
@@ -190,5 +190,5 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     }
   ],
-  "updated": "2025年06月28日 23:20:41"
+  "updated": "2025年06月29日 02:03:17"
 }
