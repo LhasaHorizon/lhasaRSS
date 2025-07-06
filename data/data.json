@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Ouroboros",
+      "title": "那些年我干过的工种",
+      "published": "06 Jul 2025",
+      "link": "https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "香山天坑和皇家驿站",
       "published": "06 Jul 2025",
@@ -127,13 +134,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "Ouroboros",
-      "title": "燕赵邯郸访古 03",
-      "published": "31 May 2025",
-      "link": "https://blog.pursuitus.com/yan-zhao-handan-visits-03-html.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "202505 - 近况",
       "published": "25 May 2025",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     }
   ],
-  "updated": "2025年07月06日 11:18:49"
+  "updated": "2025年07月06日 12:42:07"
 }
