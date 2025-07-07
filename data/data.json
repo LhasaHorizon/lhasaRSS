@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "Ouroboros",
+      "title": "财务记录之最近的一些操作思路",
+      "published": "07 Jul 2025",
+      "link": "https://blog.pursuitus.com/financial-records.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
       "blog_name": "核电站",
       "title": "不是所有族群都能玩转大工业",
       "published": "06 Jul 2025",
       "link": "https://hwv430.blogspot.com/2025/07/blog-post_53.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "Ouroboros",
-      "title": "那些年我干过的工种",
-      "published": "06 Jul 2025",
-      "link": "https://blog.pursuitus.com/the-jobs-i-did-in-those-years.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
       "blog_name": "子夜松声",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     }
   ],
-  "updated": "2025年07月07日 01:58:52"
+  "updated": "2025年07月07日 03:36:52"
 }
