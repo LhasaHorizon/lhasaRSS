@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "用 Umami 代替 Matomo，实现轻量高效流量监控",
+      "published": "13 Jul 2025",
+      "link": "https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/",
+      "avatar": "https://assets.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "出身普通靠金融发财是想多了",
       "published": "13 Jul 2025",
@@ -106,13 +113,6 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
-      "blog_name": "Kevin's",
-      "title": "DaVinci Resolve Studio 20.0.49 达芬奇中文优化版⏬",
-      "published": "30 Jun 2025",
-      "link": "https://www.shephe.com/resources/davinci-resolve-studio-crack-download/",
-      "avatar": "https://staticfile.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
       "blog_name": "土木坛子",
       "title": "所有的错误我们都知道，然而终究改不掉",
       "published": "21 Jun 2025",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     }
   ],
-  "updated": "2025年07月13日 23:23:10"
+  "updated": "2025年07月14日 02:02:14"
 }
