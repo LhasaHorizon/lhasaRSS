@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "国人思维五大特征",
+      "published": "15 Jul 2025",
+      "link": "https://hwv430.blogspot.com/2025/07/blog-post_16.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "子夜松声",
+      "title": "乙巳蛇年-七月半",
+      "published": "15 Jul 2025",
+      "link": "https://xyzbz.cn/archives/1415/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
       "title": "总要写点什么吧(一)",
       "published": "14 Jul 2025",
@@ -19,14 +33,7 @@
       "title": "用 Umami 代替 Matomo，实现轻量高效流量监控",
       "published": "13 Jul 2025",
       "link": "https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "出身普通靠金融发财是想多了",
-      "published": "13 Jul 2025",
-      "link": "https://hwv430.blogspot.com/2025/07/blog-post_14.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -34,13 +41,6 @@
       "published": "13 Jul 2025",
       "link": "https://blog.codingnow.com/2025/07/deep_future.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "子夜松声",
-      "title": "自用水印边框压缩工具推荐",
-      "published": "12 Jul 2025",
-      "link": "https://xyzbz.cn/archives/1414/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
     }
   ],
-  "updated": "2025年07月15日 15:24:27"
+  "updated": "2025年07月15日 16:30:37"
 }
