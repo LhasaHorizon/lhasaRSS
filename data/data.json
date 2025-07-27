@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "“落后的男人不值得同情”",
+      "published": "27 Jul 2025",
+      "link": "https://hwv430.blogspot.com/2025/07/blog-post_28.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "三十海河",
       "title": "7月周记",
       "published": "27 Jul 2025",
@@ -20,13 +27,6 @@
       "published": "27 Jul 2025",
       "link": "https://stephenleng.com/cn/the-economic-factors-behind-the-conservative-turn-in-the-mindset-of-chinese-youth/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-economic-factors-behind-the-conservative-turn-in-the-mindset-of-chinese-youth",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "创业可以从业余开始",
-      "published": "26 Jul 2025",
-      "link": "https://hwv430.blogspot.com/2025/07/blog-post_77.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年07月27日 19:19:26"
+  "updated": "2025年07月27日 20:25:55"
 }
