@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "讲故事的内容比技巧更重要",
+      "published": "30 Jul 2025",
+      "link": "https://hwv430.blogspot.com/2025/07/blog-post_31.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "在经济下行期进入体制有多理性？",
       "published": "30 Jul 2025",
@@ -34,13 +41,6 @@
       "published": "28 Jul 2025",
       "link": "https://blog.zhheo.com/p/ssl390vb.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "“落后的男人不值得同情”",
-      "published": "27 Jul 2025",
-      "link": "https://hwv430.blogspot.com/2025/07/blog-post_28.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "三十海河",
@@ -190,5 +190,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年07月30日 20:25:44"
+  "updated": "2025年07月30日 21:23:37"
 }
