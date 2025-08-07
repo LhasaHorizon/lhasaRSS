@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "对资本的愤怒是一种目的受抑制的冲动",
+      "published": "07 Aug 2025",
+      "link": "https://stephenleng.com/cn/anger-at-capital-is-an-aim-inhibited-impulse/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=anger-at-capital-is-an-aim-inhibited-impulse",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "新昌｜从十八渡到十九峰，夏日徒步玩水的绝佳线路",
       "published": "07 Aug 2025",
@@ -57,18 +64,11 @@
       "avatar": "https://geekinney.com/apple-touch-icon.png"
     },
     {
-      "blog_name": "心的道理",
-      "title": "中国人的“小差别的自恋”",
-      "published": "03 Aug 2025",
-      "link": "https://stephenleng.com/cn/the-narcissism-of-small-differences-among-chinese-people/?utm_source=rss\u0026utm_medium=rss\u0026utm_campaign=the-narcissism-of-small-differences-among-chinese-people",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
       "blog_name": "子夜松声",
       "title": "乙巳蛇年-七月末",
       "published": "03 Aug 2025",
       "link": "https://xyzbz.cn/archives/1423/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月07日 09:30:24"
+  "updated": "2025年08月07日 10:26:37"
 }
