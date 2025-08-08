@@ -92,6 +92,13 @@
       "avatar": "https://limboy.me/favicon.svg"
     },
     {
+      "blog_name": "Kevin's",
+      "title": "Rybbit Analytics：开源流量统计安装 \u0026 简单体验",
+      "published": "29 Jul 2025",
+      "link": "https://www.shephe.com/tutorial/rybbit-analytics/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "落园",
       "title": "漫长的七月",
       "published": "22 Jul 2025",
@@ -176,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月08日 18:33:23"
+  "updated": "2025年08月08日 19:18:07"
 }
