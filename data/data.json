@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Geekinney's Blog",
+      "title": "Margin-mode: 设置可保持的 window margin",
+      "published": "10 Aug 2025",
+      "link": "https://geekinney.com/post/margin-mode-package/",
+      "avatar": "https://geekinney.com/apple-touch-icon.png"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "上线仅一个月，免费拼图工具收到赞助啦",
       "published": "09 Aug 2025",
@@ -13,6 +20,13 @@
       "published": "09 Aug 2025",
       "link": "https://hwv430.blogspot.com/2025/08/blog-post_9.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby@mars",
+      "title": "偶然？还是必然？ — 谁是罪魁祸首",
+      "published": "09 Aug 2025",
+      "link": "https://oba.by/2025/08/21237",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -43,6 +57,20 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "如何制作加载动画图？在线生成免费loading图支持SVG、APNG、GIF",
+      "published": "07 Aug 2025",
+      "link": "https://blog.zhheo.com/p/futkoa6v.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
+      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "title": "TOPIAM v1.1.0 源码启动及异常处理",
+      "published": "06 Aug 2025",
+      "link": "https://blog.yanqingshan.com/228.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
       "blog_name": "三十海河",
       "title": "特斯拉，按个按钮就爆炸！",
       "published": "05 Aug 2025",
@@ -57,11 +85,11 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
-      "blog_name": "Geekinney's Blog",
-      "title": "\"再见\" 西安",
-      "published": "05 Aug 2025",
-      "link": "https://geekinney.com/post/come-back-to-xi-an/",
-      "avatar": "https://geekinney.com/apple-touch-icon.png"
+      "blog_name": "子夜松声",
+      "title": "乙巳蛇年-七月末",
+      "published": "03 Aug 2025",
+      "link": "https://xyzbz.cn/archives/1423/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -155,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月10日 10:24:28"
+  "updated": "2025年08月10日 11:18:43"
 }
