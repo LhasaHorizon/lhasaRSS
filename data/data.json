@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "如何跟人建立亲密关系？",
+      "published": "10 Aug 2025",
+      "link": "https://hwv430.blogspot.com/2025/08/blog-post_12.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "Geekinney's Blog",
       "title": "Margin-mode: 设置可保持的 window margin",
       "published": "10 Aug 2025",
@@ -13,13 +20,6 @@
       "published": "09 Aug 2025",
       "link": "https://blog.ops-coffee.cn/s/collage-maker-tool-gets-sponsored-after-one-month-launch.html",
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "不想失业，上大学应该如何学习（自学）",
-      "published": "09 Aug 2025",
-      "link": "https://hwv430.blogspot.com/2025/08/blog-post_9.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby@mars",
@@ -180,8 +180,8 @@
       "title": "渴望理想",
       "published": "14 Aug 2020",
       "link": "https://blog.fooleap.org/longing-for-ideals.html",
-      "avatar": "https://blog.fooleap.org/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     }
   ],
-  "updated": "2025年08月10日 14:20:37"
+  "updated": "2025年08月10日 15:22:40"
 }
