@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "三十海河",
+      "title": "8月周记",
+      "published": "16 Aug 2025",
+      "link": "https://ihaihe.cn/3343.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": " Airing 的博客 ",
       "title": " 月刊（第32期）：中大校友会的采访 ",
       "published": "16 Aug 2025",
@@ -20,6 +27,13 @@
       "published": "16 Aug 2025",
       "link": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day5-quanzhou-gucheng.html",
       "avatar": "https://blog.ops-coffee.cn/favicon.ico"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 361 期）：暗网 Tor 安全吗？",
+      "published": "15 Aug 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby@mars",
@@ -76,13 +90,6 @@
       "published": "06 Aug 2025",
       "link": "https://blog.yanqingshan.com/228.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
-      "blog_name": "三十海河",
-      "title": "特斯拉，按个按钮就爆炸！",
-      "published": "05 Aug 2025",
-      "link": "https://ihaihe.cn/3333.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月16日 08:28:47"
+  "updated": "2025年08月16日 09:22:31"
 }
