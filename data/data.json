@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "查手机意味着什么",
+      "published": "19 Aug 2025",
+      "link": "https://hwv430.blogspot.com/2025/08/blog-post_20.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "久违的暑假｜沿海自驾DAY8 - 石狮",
       "published": "19 Aug 2025",
@@ -15,11 +22,18 @@
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
-      "blog_name": "核电站",
-      "title": "如何应对打压",
+      "blog_name": "子夜松声",
+      "title": "乙巳蛇年-八月半",
       "published": "18 Aug 2025",
-      "link": "https://hwv430.blogspot.com/2025/08/blog-post_38.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "link": "https://xyzbz.cn/archives/1431/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
+      "blog_name": "Kevin's",
+      "title": "斐讯 N1 重装 Armbian：从家用小 NAS 到容器管理",
+      "published": "18 Aug 2025",
+      "link": "https://www.shephe.com/post/phicomm-n1-setup-armbian/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "落园",
@@ -43,6 +57,13 @@
       "avatar": "https://geekinney.com/apple-touch-icon.png"
     },
     {
+      "blog_name": "三十海河",
+      "title": "8月周记",
+      "published": "16 Aug 2025",
+      "link": "https://ihaihe.cn/3343.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": " Airing 的博客 ",
       "title": " 月刊（第32期）：中大校友会的采访 ",
       "published": "16 Aug 2025",
@@ -55,6 +76,13 @@
       "published": "15 Aug 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-361.html",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "@1900'Blog",
+      "title": "不错的洗发水和混沌无序的AI和草台班子微信",
+      "published": "14 Aug 2025",
+      "link": "https://1900.live/good-shampoo-and-chaotic-ai-and-makeshift-wechat/",
+      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "心的道理",
@@ -139,7 +167,21 @@
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
       "avatar": "https://kenengba.com/apple-touch-icon-57x57.png"
+    },
+    {
+      "blog_name": "风雪之隅",
+      "title": "PHP8.0的Named Parameter",
+      "published": "10 May 2022",
+      "link": "https://www.laruence.com/2022/05/10/6192.html",
+      "avatar": "https://www.laruence.com/logo.jpg"
+    },
+    {
+      "blog_name": "Fooleap's Blog",
+      "title": "渴望理想",
+      "published": "14 Aug 2020",
+      "link": "https://blog.fooleap.org/longing-for-ideals.html",
+      "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月19日 17:19:35"
+  "updated": "2025年08月19日 18:30:07"
 }
