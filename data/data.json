@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "太用力的人走不远",
+      "published": "23 Aug 2025",
+      "link": "https://hwv430.blogspot.com/2025/08/blog-post_24.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "关于“我那不争气的老表”",
       "published": "23 Aug 2025",
@@ -20,13 +27,6 @@
       "published": "22 Aug 2025",
       "link": "https://blog.codingnow.com/2025/08/gamedev.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "努力工作，才是导致你贫困的根本原因",
-      "published": "22 Aug 2025",
-      "link": "https://hwv430.blogspot.com/2025/08/blog-post_27.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby@mars",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月23日 15:19:28"
+  "updated": "2025年08月23日 16:24:05"
 }
