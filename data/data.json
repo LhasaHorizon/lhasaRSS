@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
-      "title": "OpenID Connect(OIDC) Typecho v1.2.0插件",
+      "title": "OpenID Connect(OIDC) WordPress v1.0.0插件",
       "published": "25 Aug 2025",
-      "link": "https://blog.yanqingshan.com/229.html",
+      "link": "https://blog.yanqingshan.com/230.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月25日 15:24:20"
+  "updated": "2025年08月25日 16:28:25"
 }
