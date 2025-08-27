@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "打工人个人发展要注意的方面",
+      "published": "27 Aug 2025",
+      "link": "https://hwv430.blogspot.com/2025/08/blog-post_94.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "“京喜”，什么他妈的叫惊喜！？",
       "published": "27 Aug 2025",
@@ -27,13 +34,6 @@
       "published": "26 Aug 2025",
       "link": "https://blog.codingnow.com/2025/08/lua_class.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "读研过程中有哪些值得特别学习的东西",
-      "published": "25 Aug 2025",
-      "link": "https://hwv430.blogspot.com/2025/08/blog-post_26.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月27日 03:04:05"
+  "updated": "2025年08月27日 04:26:13"
 }
