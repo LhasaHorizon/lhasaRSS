@@ -85,13 +85,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "Geekinney's Blog",
-      "title": "ETML: 文本块渲染用法",
-      "published": "17 Aug 2025",
-      "link": "https://geekinney.com/post/emacs-block-base-render/",
-      "avatar": "https://geekinney.com/apple-touch-icon.png"
-    },
-    {
       "blog_name": "三十海河",
       "title": "8月周记",
       "published": "16 Aug 2025",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年08月26日 23:19:06"
+  "updated": "2025年08月27日 01:43:36"
 }
