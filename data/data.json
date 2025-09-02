@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "新知识，更要长见识",
+      "published": "02 Sep 2025",
+      "link": "https://hwv430.blogspot.com/2025/09/blog-post_74.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "第六感",
       "published": "02 Sep 2025",
@@ -13,13 +20,6 @@
       "published": "02 Sep 2025",
       "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day22-chaozhou-chengqiang.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "明朝对西洋的战争一直是赢赢赢吗？",
-      "published": "02 Sep 2025",
-      "link": "https://hwv430.blogspot.com/2025/09/blog-post_8.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月02日 11:17:58"
+  "updated": "2025年09月02日 12:45:21"
 }
