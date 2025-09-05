@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "三十海河",
+      "title": "月更博主",
+      "published": "05 Sep 2025",
+      "link": "https://ihaihe.cn/3363.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 364 期）：最难还原的魔方",
+      "published": "05 Sep 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "分手拼的是损失厌恶感",
       "published": "04 Sep 2025",
@@ -57,13 +71,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 363 期）：最好懂的神经网络解释",
-      "published": "29 Aug 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/08/weekly-issue-363.html",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
       "blog_name": "云风的 BLOG",
       "title": "在 Lua 中定义类型的简单方法",
       "published": "26 Aug 2025",
@@ -90,13 +97,6 @@
       "published": "17 Aug 2025",
       "link": "https://www.loyhome.com/%e7%94%9c%e5%93%81%e5%ba%97%e7%9a%84%e6%95%85%e4%ba%8b/",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "三十海河",
-      "title": "8月周记",
-      "published": "16 Aug 2025",
-      "link": "https://ihaihe.cn/3343.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
       "blog_name": " Airing 的博客 ",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月04日 23:18:58"
+  "updated": "2025年09月05日 01:40:46"
 }
