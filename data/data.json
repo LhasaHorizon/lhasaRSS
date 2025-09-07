@@ -5,21 +5,21 @@
       "title": "267、白露",
       "published": "07 Sep 2025",
       "link": "https://1900.live/267-bai-lu/",
-      "avatar": "https://1900.live/logo.svg"
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "运维咖啡吧",
+      "title": "久违的暑假｜沿海自驾DAY27 - 海岸",
+      "published": "07 Sep 2025",
+      "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day27-shantou-haian.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
       "blog_name": "核电站",
       "title": "听力在英语学习中比读、背更重要",
       "published": "07 Sep 2025",
       "link": "https://hwv430.blogspot.com/2025/09/blog-post_18.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "运维咖啡吧",
-      "title": "久违的暑假｜沿海自驾DAY26 - 开埠",
-      "published": "06 Sep 2025",
-      "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day26-shantou-kaibu.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -61,7 +61,7 @@
       "title": "乙巳蛇年-八月末",
       "published": "01 Sep 2025",
       "link": "https://xyzbz.cn/archives/1453/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "唐巧的博客",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月07日 13:22:30"
+  "updated": "2025年09月07日 14:17:14"
 }
