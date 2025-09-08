@@ -1,11 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "飞来横祸！爸爸走在路边被车撞飞了…",
+      "published": "08 Sep 2025",
+      "link": "https://www.shephe.com/life/%e7%88%b6%e4%ba%b2%e8%bd%a6%e7%a5%b8/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "267、白露",
       "published": "07 Sep 2025",
       "link": "https://1900.live/267-bai-lu/",
-      "avatar": "https://1900.live/logo.svg"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -19,7 +26,7 @@
       "title": "听力在英语学习中比读、背更重要",
       "published": "07 Sep 2025",
       "link": "https://hwv430.blogspot.com/2025/09/blog-post_18.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -69,13 +76,6 @@
       "published": "31 Aug 2025",
       "link": "https://blog.devtang.com/2025/08/31/pay-your-information/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "Kevin's",
-      "title": "仿钟祖兵色调预设，纪实电影感婚礼照片 LR 预设",
-      "published": "29 Aug 2025",
-      "link": "https://www.shephe.com/resources/%e4%bb%bf%e9%92%9f%e7%a5%96%e5%85%b5%e9%a2%84%e8%ae%be/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月07日 23:17:58"
+  "updated": "2025年09月08日 01:46:03"
 }
