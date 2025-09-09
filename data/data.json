@@ -12,7 +12,7 @@
       "title": "加班是怎么变的",
       "published": "09 Sep 2025",
       "link": "https://hwv430.blogspot.com/2025/09/blog-post_37.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -20,6 +20,13 @@
       "published": "09 Sep 2025",
       "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day29-shantou-nanao-hengchuan.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby@mars",
+      "title": "改变",
+      "published": "08 Sep 2025",
+      "link": "https://oba.by/2025/09/21500",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "Kevin's",
@@ -57,11 +64,32 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "Sketch教程：液态玻璃、玻璃效果与渐变模糊、不透明度渐变",
+      "published": "03 Sep 2025",
+      "link": "https://blog.zhheo.com/p/1nc4t8qs.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
+      "blog_name": "子夜松声",
+      "title": "乙巳蛇年-八月末",
+      "published": "01 Sep 2025",
+      "link": "https://xyzbz.cn/archives/1453/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "信息爆炸时代，付费信息才是最好的过滤器",
       "published": "31 Aug 2025",
       "link": "https://blog.devtang.com/2025/08/31/pay-your-information/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
+      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "title": "OpenID Connect(OIDC) WordPress v1.0.0插件",
+      "published": "25 Aug 2025",
+      "link": "https://blog.yanqingshan.com/230.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "落园",
@@ -148,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月09日 19:17:23"
+  "updated": "2025年09月09日 20:22:44"
 }
