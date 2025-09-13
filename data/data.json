@@ -12,7 +12,7 @@
       "title": "毅力有多大用",
       "published": "12 Sep 2025",
       "link": "https://hwv430.blogspot.com/2025/09/blog-post_13.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "张洪Heo",
@@ -83,6 +83,13 @@
       "published": "31 Aug 2025",
       "link": "https://blog.devtang.com/2025/08/31/pay-your-information/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
+      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "title": "OpenID Connect(OIDC) WordPress v1.0.0插件",
+      "published": "25 Aug 2025",
+      "link": "https://blog.yanqingshan.com/230.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "落园",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月13日 21:16:53"
+  "updated": "2025年09月13日 22:17:41"
 }
