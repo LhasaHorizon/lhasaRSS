@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告",
+      "published": "19 Sep 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "家庭条件好和差的人该怎么选工作",
       "published": "18 Sep 2025",
@@ -48,13 +55,6 @@
       "published": "16 Sep 2025",
       "link": "https://blog.codingnow.com/2025/09/update_blog_utf8.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 365 期）：流量变现正在崩塌",
-      "published": "12 Sep 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Kevin's",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月18日 23:18:50"
+  "updated": "2025年09月19日 01:41:30"
 }
