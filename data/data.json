@@ -8,6 +8,13 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
+      "blog_name": "obaby@mars",
+      "title": "你礼貌吗？",
+      "published": "24 Sep 2025",
+      "link": "https://oba.by/2025/09/21706",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！",
       "published": "24 Sep 2025",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月24日 05:20:04"
+  "updated": "2025年09月24日 06:32:02"
 }
