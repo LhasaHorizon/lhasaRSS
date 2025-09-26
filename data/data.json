@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用",
+      "published": "26 Sep 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "创业是一场修行",
       "published": "25 Sep 2025",
@@ -48,13 +55,6 @@
       "published": "23 Sep 2025",
       "link": "https://1900.live/268-qiu-fen/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告",
-      "published": "19 Sep 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月25日 23:18:38"
+  "updated": "2025年09月26日 01:40:48"
 }
