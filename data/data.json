@@ -8,6 +8,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "obaby@mars",
+      "title": "遥远的两公里",
+      "published": "26 Sep 2025",
+      "link": "https://oba.by/2025/09/21726",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "秋天不要瞎琢磨",
       "published": "26 Sep 2025",
@@ -36,11 +43,25 @@
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "升级到 macOS Tahoe 26 没有启动台？用 LaunchNext 实现在 macOS26 中使用启动台！",
+      "published": "24 Sep 2025",
+      "link": "https://blog.zhheo.com/p/rvl5xpjy.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "Limboy's Essays",
       "title": "避风塘 V2",
       "published": "24 Sep 2025",
       "link": "https://limboy.me/posts/before-town-v2",
       "avatar": "https://limboy.me/favicon.ico"
+    },
+    {
+      "blog_name": "子夜松声",
+      "title": "乙巳蛇年-九月半",
+      "published": "17 Sep 2025",
+      "link": "https://xyzbz.cn/archives/1455/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -69,6 +90,13 @@
       "published": "31 Aug 2025",
       "link": "https://blog.devtang.com/2025/08/31/pay-your-information/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
+      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "title": "OpenID Connect(OIDC) WordPress v1.0.0插件",
+      "published": "25 Aug 2025",
+      "link": "https://blog.yanqingshan.com/230.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "落园",
@@ -148,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月26日 20:23:25"
+  "updated": "2025年09月26日 21:18:35"
 }
