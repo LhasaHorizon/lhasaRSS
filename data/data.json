@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "户晨风与基于common sense的知识",
+      "published": "27 Sep 2025",
+      "link": "https://stephenleng.com/cn/hu-chenfeng-and-common-sense-based-knowledge/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "久违的暑假｜沿海自驾DAY47 - 韶关",
       "published": "27 Sep 2025",
@@ -113,13 +120,6 @@
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
     },
     {
-      "blog_name": "心的道理",
-      "title": "家庭财务的三种模式：完全合并、部分合并与完全分离",
-      "published": "11 Aug 2025",
-      "link": "https://stephenleng.com/cn/three-approaches-to-marriage-finances-joint-partially-joint-and-separate/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
       "blog_name": "Ouroboros",
       "title": "财务记录之最近的一些操作思路",
       "published": "07 Jul 2025",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月27日 07:17:39"
+  "updated": "2025年09月27日 08:24:07"
 }
