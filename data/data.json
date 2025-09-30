@@ -78,6 +78,13 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "投机与趋势投资 - 读《股票大作手操盘术》",
+      "published": "17 Sep 2025",
+      "link": "https://blog.devtang.com/2025/09/17/how-to-trade-in-stocks-book-summary/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "有惊无险的一次网站系统升级",
       "published": "16 Sep 2025",
@@ -90,13 +97,6 @@
       "published": "11 Sep 2025",
       "link": "https://www.shephe.com/life/traffic-attack-protection-experience/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "信息爆炸时代，付费信息才是最好的过滤器",
-      "published": "31 Aug 2025",
-      "link": "https://blog.devtang.com/2025/08/31/pay-your-information/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年09月30日 03:35:54"
+  "updated": "2025年09月30日 04:25:58"
 }
