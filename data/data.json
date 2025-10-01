@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "三十海河",
+      "title": "农民不容易",
+      "published": "01 Oct 2025",
+      "link": "https://ihaihe.cn/3379.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "一天之内，智谱和 Anthropic 都发了最强编程模型",
       "published": "01 Oct 2025",
@@ -13,13 +20,6 @@
       "published": "30 Sep 2025",
       "link": "https://xyzbz.cn/archives/1456/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "三十海河",
-      "title": "两个儿子",
-      "published": "30 Sep 2025",
-      "link": "https://ihaihe.cn/3375.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
       "blog_name": "核电站",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月01日 12:46:48"
+  "updated": "2025年10月01日 13:31:38"
 }
