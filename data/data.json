@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "我希望你一进大学就知道这些事",
+      "published": "02 Oct 2025",
+      "link": "https://hwv430.blogspot.com/2025/10/blog-post.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "三十海河",
       "title": "农民不容易",
       "published": "01 Oct 2025",
@@ -20,13 +27,6 @@
       "published": "30 Sep 2025",
       "link": "https://xyzbz.cn/archives/1456/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "什么市场竞争？争夺政府预算支出才是正事",
-      "published": "29 Sep 2025",
-      "link": "https://hwv430.blogspot.com/2025/09/blog-post_68.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月02日 01:38:57"
+  "updated": "2025年10月02日 02:58:34"
 }
