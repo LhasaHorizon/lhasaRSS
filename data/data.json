@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "帮大家塑造一下自信",
+      "published": "05 Oct 2025",
+      "link": "https://hwv430.blogspot.com/2025/10/blog-post_6.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "中国男人应该重建对浪漫爱情的信念",
       "published": "05 Oct 2025",
@@ -13,13 +20,6 @@
       "published": "05 Oct 2025",
       "link": "https://blog.codingnow.com/2025/10/deepfuture_dev.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "斯巴达教育，而非应试教育",
-      "published": "04 Oct 2025",
-      "link": "https://hwv430.blogspot.com/2025/10/blog-post_29.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Kevin's",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月05日 18:27:23"
+  "updated": "2025年10月05日 19:15:15"
 }
