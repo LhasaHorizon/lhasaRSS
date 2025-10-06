@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "唐巧的博客",
-      "title": "但斌投资札记-读《时间的玫瑰》",
+      "title": "理解大语言模型 - 读《图解 DeepSeek 技术》",
       "published": "06 Oct 2025",
-      "link": "https://blog.devtang.com/2025/10/06/the-rose-of-time-book-summary/",
+      "link": "https://blog.devtang.com/2025/10/06/the-illustrated-deepseek-book-summary/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月06日 14:21:25"
+  "updated": "2025年10月06日 15:22:05"
 }
