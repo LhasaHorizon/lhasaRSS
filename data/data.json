@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "三十海河",
+      "title": "10月周记一",
+      "published": "10 Oct 2025",
+      "link": "https://ihaihe.cn/3388.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "清国晚年有多昏聩？",
       "published": "10 Oct 2025",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月10日 05:21:14"
+  "updated": "2025年10月10日 06:32:50"
 }
