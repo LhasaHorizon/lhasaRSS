@@ -36,6 +36,13 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "Mac空格响应慢？Adobe软件Ps、Ai卡在抓手工具解决方法，临时抓手无法恢复指针",
+      "published": "09 Oct 2025",
+      "link": "https://blog.zhheo.com/p/o5o9gtsr.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "269、寒露",
       "published": "09 Oct 2025",
@@ -69,13 +76,6 @@
       "published": "04 Oct 2025",
       "link": "https://www.shephe.com/tutorial/deploy-openlist-aggregate-cloud-storage/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "如何在Mac上部署indexTTS2，快速语音克隆和情感控制",
-      "published": "02 Oct 2025",
-      "link": "https://blog.zhheo.com/p/gulzh21p.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月10日 08:28:27"
+  "updated": "2025年10月10日 09:23:35"
 }
