@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "一般人该怎么关注ai",
+      "title": "当代驭民术",
       "published": "12 Oct 2025",
-      "link": "https://hwv430.blogspot.com/2025/10/ai.html",
+      "link": "https://hwv430.blogspot.com/2025/10/blog-post_13.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -26,7 +26,7 @@
       "title": "Docker部署美食记录应用Mealie",
       "published": "12 Oct 2025",
       "link": "https://xyzbz.cn/archives/1457/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "三十海河",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月12日 18:27:17"
+  "updated": "2025年10月12日 19:15:23"
 }
