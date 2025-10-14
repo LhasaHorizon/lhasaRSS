@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "title": "MobaXterm 配置优化和会话同步",
+      "published": "14 Oct 2025",
+      "link": "https://blog.yanqingshan.com/231.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "爱情在婚姻中，从不必要到必要",
       "published": "14 Oct 2025",
@@ -15,11 +22,25 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
+      "blog_name": "obaby@mars",
+      "title": "天灰",
+      "published": "13 Oct 2025",
+      "link": "https://oba.by/2025/10/21832",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "关于桌游设计大赛的介绍",
       "published": "12 Oct 2025",
       "link": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
+      "blog_name": "子夜松声",
+      "title": "Docker部署美食记录应用Mealie",
+      "published": "12 Oct 2025",
+      "link": "https://xyzbz.cn/archives/1457/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "三十海河",
@@ -34,6 +55,13 @@
       "published": "10 Oct 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "Mac空格响应慢？Adobe软件Ps、Ai卡在抓手工具解决方法，临时抓手无法恢复指针",
+      "published": "09 Oct 2025",
+      "link": "https://blog.zhheo.com/p/o5o9gtsr.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "@1900'Blog",
@@ -148,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月14日 18:32:27"
+  "updated": "2025年10月14日 19:17:40"
 }
