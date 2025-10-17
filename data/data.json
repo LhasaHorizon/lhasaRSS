@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "三十海河",
+      "title": "前男友做了鸭",
+      "published": "17 Oct 2025",
+      "link": "https://ihaihe.cn/3415.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈",
+      "published": "17 Oct 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "冷知识：荤是什么？",
       "published": "16 Oct 2025",
@@ -22,13 +36,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "三十海河",
-      "title": "毫无诚信的租客",
-      "published": "15 Oct 2025",
-      "link": "https://ihaihe.cn/3401.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
       "blog_name": "obaby@mars",
       "title": "天灰",
       "published": "13 Oct 2025",
@@ -48,13 +55,6 @@
       "published": "12 Oct 2025",
       "link": "https://xyzbz.cn/archives/1457/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 368 期）：不要这样管理软件团队",
-      "published": "10 Oct 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "张洪Heo",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月16日 23:17:50"
+  "updated": "2025年10月17日 01:41:52"
 }
