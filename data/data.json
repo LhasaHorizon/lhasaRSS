@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "使用 Cloudflare R2 + Pages 搭建免费图床，并集成到 WordPress 评论系统",
+      "published": "19 Oct 2025",
+      "link": "https://www.shephe.com/tutorial/wordpress-comment-image-upload-cloudflare/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "在中国干什么赚钱",
       "published": "18 Oct 2025",
@@ -92,13 +99,6 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
-      "blog_name": "Kevin's",
-      "title": "✨ 赶上潮流！部署开源网盘聚合工具 OpenList",
-      "published": "04 Oct 2025",
-      "link": "https://www.shephe.com/tutorial/deploy-openlist-aggregate-cloud-storage/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "移民",
       "published": "27 Sep 2025",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月19日 05:20:43"
+  "updated": "2025年10月19日 06:30:48"
 }
