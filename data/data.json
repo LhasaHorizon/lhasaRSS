@@ -15,6 +15,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "将电热毯通过 Homeassistant 接入 Homekit 并支持调节档位",
+      "published": "20 Oct 2025",
+      "link": "https://blog.zhheo.com/p/eqc0vrd6.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "Kevin's",
       "title": "简单实现 WordPress 评论点赞、排序和前台编辑",
       "published": "19 Oct 2025",
@@ -76,13 +83,6 @@
       "published": "12 Oct 2025",
       "link": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "Mac空格响应慢？Adobe软件Ps、Ai卡在抓手工具解决方法，临时抓手无法恢复指针",
-      "published": "09 Oct 2025",
-      "link": "https://blog.zhheo.com/p/o5o9gtsr.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "@1900'Blog",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月21日 06:33:08"
+  "updated": "2025年10月21日 07:22:22"
 }
