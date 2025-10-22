@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "线上咨询卖方如何用好AI",
+      "published": "22 Oct 2025",
+      "link": "https://hwv430.blogspot.com/2025/10/ai_23.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "战俘营生存指南",
       "published": "22 Oct 2025",
@@ -34,13 +41,6 @@
       "published": "21 Oct 2025",
       "link": "https://blog.devtang.com/2025/10/21/mcp-introduction/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "当代社会给低智人群带来了太多便利",
-      "published": "20 Oct 2025",
-      "link": "https://hwv430.blogspot.com/2025/10/blog-post_93.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Kevin's",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月22日 17:19:48"
+  "updated": "2025年10月22日 18:33:38"
 }
