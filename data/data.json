@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 370 期）：正确的代码高亮",
+      "published": "24 Oct 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "21世纪，正在消失的亚洲",
       "published": "23 Oct 2025",
@@ -27,13 +34,6 @@
       "published": "22 Oct 2025",
       "link": "https://blog.ops-coffee.com/s/free-online-collage-maker-tool-chrome-extension-plugin.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "错误处理：异常好于状态码",
-      "published": "21 Oct 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月23日 23:18:55"
+  "updated": "2025年10月24日 01:40:06"
 }
