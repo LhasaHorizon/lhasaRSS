@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "WordPress 利用 PHP Exif 扩展实现图片元信息展示",
+      "published": "26 Oct 2025",
+      "link": "https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "不想努力的小鲜肉总有一天会对大姐姐失望",
       "published": "25 Oct 2025",
@@ -9,9 +16,9 @@
     },
     {
       "blog_name": "张洪Heo",
-      "title": "Final Cut Pro 音频降噪、人声增强插件，优化视频中的人声表现",
+      "title": "Final Cut Pro 如何给人物抠像？使用 FxFactory 实现人物抠像功能",
       "published": "24 Oct 2025",
-      "link": "https://blog.zhheo.com/p/x8l6npg3.html",
+      "link": "https://blog.zhheo.com/p/a1ztzs2z.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
@@ -48,13 +55,6 @@
       "published": "21 Oct 2025",
       "link": "https://blog.devtang.com/2025/10/21/mcp-introduction/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "Kevin's",
-      "title": "简单实现 WordPress 评论点赞、排序和前台编辑",
-      "published": "19 Oct 2025",
-      "link": "https://www.shephe.com/website/wordpress-comment-like-system-with-front-edit/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月26日 01:49:46"
+  "updated": "2025年10月26日 03:12:33"
 }
