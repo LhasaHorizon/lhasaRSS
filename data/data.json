@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "资源垄断，外包成瘾",
+      "published": "26 Oct 2025",
+      "link": "https://hwv430.blogspot.com/2025/10/blog-post_91.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "“以就业为导向”与被打压的个人倾向",
       "published": "26 Oct 2025",
       "link": "https://stephenleng.com/cn/employment-oriented-education-and-the-suppression-of-individual-inclinations/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "要彩礼的都是违法分子",
-      "published": "26 Oct 2025",
-      "link": "https://hwv430.blogspot.com/2025/10/blog-post_23.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Kevin's",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月26日 10:21:14"
+  "updated": "2025年10月26日 11:16:52"
 }
