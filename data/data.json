@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "使用 Total Uninstall 强力卸载顽固软件 \u0026 清理残留",
+      "published": "27 Oct 2025",
+      "link": "https://www.shephe.com/post/total-uninstall-remove-clean-software/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "资源垄断，外包成瘾",
       "published": "26 Oct 2025",
@@ -13,13 +20,6 @@
       "published": "26 Oct 2025",
       "link": "https://stephenleng.com/cn/employment-oriented-education-and-the-suppression-of-individual-inclinations/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "Kevin's",
-      "title": "WordPress 利用 PHP Exif 扩展实现图片元信息展示",
-      "published": "26 Oct 2025",
-      "link": "https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月27日 03:22:14"
+  "updated": "2025年10月27日 04:32:24"
 }
