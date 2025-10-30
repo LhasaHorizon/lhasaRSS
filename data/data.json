@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "女性的态度和声音在彩礼谈判中是关键性的",
+      "published": "30 Oct 2025",
+      "link": "https://stephenleng.com/cn/womens-attitudes-and-voices-are-key-in-bride-price-negotiations/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "Kevin's",
       "title": "邪了门了！车车年审以后一周内发生了三次擦挂",
       "published": "29 Oct 2025",
@@ -43,13 +50,6 @@
       "avatar": "https://limboy.me/favicon.ico"
     },
     {
-      "blog_name": "心的道理",
-      "title": "就业导向、父母意志与被打压的个人倾向",
-      "published": "26 Oct 2025",
-      "link": "https://stephenleng.com/cn/employment-oriented-education-and-the-suppression-of-individual-inclinations/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
       "blog_name": "张洪Heo",
       "title": "Final Cut Pro 如何给人物抠像？使用 FxFactory 实现人物抠像功能",
       "published": "24 Oct 2025",
@@ -89,7 +89,7 @@
       "title": "腾讯云EdgeOne Pages/KV/Functions实战笔记",
       "published": "16 Oct 2025",
       "link": "https://blog.yanqingshan.com/232.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月30日 04:26:15"
+  "updated": "2025年10月30日 05:21:59"
 }
