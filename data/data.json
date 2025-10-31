@@ -8,6 +8,13 @@
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
+      "blog_name": "obaby@mars",
+      "title": "瘾",
+      "published": "31 Oct 2025",
+      "link": "https://oba.by/2025/10/21903",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
       "published": "31 Oct 2025",
@@ -41,13 +48,6 @@
       "published": "29 Oct 2025",
       "link": "https://www.shephe.com/life/%e9%82%aa%e9%97%a8/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "遗忘",
-      "published": "28 Oct 2025",
-      "link": "https://oba.by/2025/10/21886",
-      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年10月31日 07:20:54"
+  "updated": "2025年10月31日 08:29:28"
 }
