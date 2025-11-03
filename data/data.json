@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "运维咖啡吧",
+      "title": "无需登录简洁好用｜推荐几个免费在线图片处理工具",
+      "published": "03 Nov 2025",
+      "link": "https://blog.ops-coffee.com/s/free-online-image-processing-tools-simple-yet-professional.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "你能随便梦想吗",
       "published": "02 Nov 2025",
@@ -55,13 +62,6 @@
       "published": "29 Oct 2025",
       "link": "https://www.shephe.com/life/%e9%82%aa%e9%97%a8/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
-      "blog_name": "运维咖啡吧",
-      "title": "支持私有化本地部署｜域名证书管理系统白皮书",
-      "published": "28 Oct 2025",
-      "link": "https://blog.ops-coffee.com/s/domain-cert-management-system-challenges-and-solutions.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
       "blog_name": "@1900'Blog",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月02日 23:19:23"
+  "updated": "2025年11月03日 01:51:48"
 }
