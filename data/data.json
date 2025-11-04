@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
+      "published": "04 Nov 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "Kevin's",
       "title": "离了大谱！时隔五天我的车车又又双叒叕被撞了",
       "published": "03 Nov 2025",
@@ -33,7 +40,7 @@
       "title": "石漫滩二郎山半日游",
       "published": "01 Nov 2025",
       "link": "https://xyzbz.cn/archives/1465/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -55,13 +62,6 @@
       "published": "31 Oct 2025",
       "link": "https://oba.by/2025/10/21903",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
-      "published": "31 Oct 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "心的道理",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月03日 23:20:07"
+  "updated": "2025年11月04日 01:47:25"
 }
