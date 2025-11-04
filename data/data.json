@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "欧陆风云 5 的经济系统",
+      "published": "04 Nov 2025",
+      "link": "https://blog.codingnow.com/2025/11/eu5.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "人生根本无法重启，你只能在过往的基础上继续",
       "published": "04 Nov 2025",
@@ -99,13 +106,6 @@
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
-      "blog_name": "云风的 BLOG",
-      "title": "关于桌游设计大赛的介绍",
-      "published": "12 Oct 2025",
-      "link": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "移民",
       "published": "27 Sep 2025",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月04日 22:20:32"
+  "updated": "2025年11月04日 23:20:14"
 }
