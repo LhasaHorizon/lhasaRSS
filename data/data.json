@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 372 期）：软件界面如何设计",
+      "published": "07 Nov 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "男人人生最大的坎是40岁",
       "published": "06 Nov 2025",
@@ -48,13 +55,6 @@
       "published": "04 Nov 2025",
       "link": "https://blog.zhheo.com/p/5zo43meo.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
-      "published": "04 Nov 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Kevin's",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月06日 23:20:12"
+  "updated": "2025年11月07日 01:47:22"
 }
