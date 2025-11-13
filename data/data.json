@@ -78,6 +78,13 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
+      "blog_name": "Kevin's",
+      "title": "离了大谱！时隔五天我的车车又又双叒叕被撞了",
+      "published": "03 Nov 2025",
+      "link": "https://www.shephe.com/life/%e5%86%8d%e6%ac%a1%e8%a2%ab%e6%92%9e/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "三十海河",
       "title": "开了五天车，到新疆了",
       "published": "03 Nov 2025",
@@ -89,7 +96,7 @@
       "title": "石漫滩二郎山半日游",
       "published": "01 Nov 2025",
       "link": "https://xyzbz.cn/archives/1465/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月13日 14:22:20"
+  "updated": "2025年11月13日 15:25:28"
 }
