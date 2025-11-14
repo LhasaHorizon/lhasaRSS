@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby@mars",
+      "title": "龙葵",
+      "published": "14 Nov 2025",
+      "link": "https://oba.by/2025/11/21995",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
       "published": "14 Nov 2025",
@@ -13,13 +20,6 @@
       "published": "13 Nov 2025",
       "link": "https://hwv430.blogspot.com/2025/11/blog-post_51.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "未获取商用授权?! — 这很百度",
-      "published": "13 Nov 2025",
-      "link": "https://oba.by/2025/11/21985",
-      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月14日 01:49:20"
+  "updated": "2025年11月14日 03:15:37"
 }
