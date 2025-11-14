@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "Viitor上手：iOS免费的实时翻译字幕，在小窗中看到正在播放视频的中文翻译",
+      "published": "14 Nov 2025",
+      "link": "https://blog.zhheo.com/p/a9uudei6.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "心的道理",
       "title": "新婚伴侣应该白手起家，而不是接受父母赠予",
       "published": "14 Nov 2025",
@@ -34,13 +41,6 @@
       "published": "12 Nov 2025",
       "link": "https://blog.ops-coffee.com/s/ansible-job-platform-modern-it-automation.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "Mac上如何将 flac 导入到 Apple Music？使用快捷指令创建格式转换快捷操作",
-      "published": "10 Nov 2025",
-      "link": "https://blog.zhheo.com/p/frrneh8b.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -96,7 +96,7 @@
       "title": "石漫滩二郎山半日游",
       "published": "01 Nov 2025",
       "link": "https://xyzbz.cn/archives/1465/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月14日 07:21:58"
+  "updated": "2025年11月14日 08:30:30"
 }
