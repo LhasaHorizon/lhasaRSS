@@ -26,7 +26,7 @@
       "title": "乙巳蛇年-十一月半",
       "published": "15 Nov 2025",
       "link": "https://xyzbz.cn/archives/1477/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "张洪Heo",
@@ -99,13 +99,6 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
-      "blog_name": "Limboy's Essays",
-      "title": "我的第一款 iOS App：PingMind",
-      "published": "01 Nov 2025",
-      "link": "https://limboy.me/posts/pingmind",
-      "avatar": "https://limboy.me/favicon.ico"
-    },
-    {
       "blog_name": "唐巧的博客",
       "title": "理解 MCP -读《这就是 MCP》",
       "published": "21 Oct 2025",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月17日 06:36:30"
+  "updated": "2025年11月17日 07:23:41"
 }
