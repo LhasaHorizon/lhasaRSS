@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "相亲中的现实",
+      "published": "19 Nov 2025",
+      "link": "https://hwv430.blogspot.com/2025/11/blog-post_19.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "VS Code 使用国产大模型 MiniMax M2 教程",
       "published": "19 Nov 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/11/vs-code-minimax-m2.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "好项目都是靠人的智力生产的，不是靠资金。",
-      "published": "16 Nov 2025",
-      "link": "https://hwv430.blogspot.com/2025/11/blog-post_34.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "三十海河",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月19日 12:49:13"
+  "updated": "2025年11月19日 13:33:59"
 }
