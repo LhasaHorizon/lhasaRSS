@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "运维咖啡吧",
+      "title": "好拼｜免费在线拼图工具重大更新，自定义布局上线",
+      "published": "20 Nov 2025",
+      "link": "https://blog.ops-coffee.com/s/free-online-collage-maker-tool-custom-layout.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
+      "blog_name": "核电站",
+      "title": "必须明白的客户心理",
+      "published": "20 Nov 2025",
+      "link": "https://hwv430.blogspot.com/2025/11/blog-post_69.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "送别",
       "published": "20 Nov 2025",
       "link": "https://oba.by/2025/11/22016",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "懂一点就可以教别人",
-      "published": "20 Nov 2025",
-      "link": "https://hwv430.blogspot.com/2025/11/blog-post_31.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -55,13 +62,6 @@
       "published": "14 Nov 2025",
       "link": "https://stephenleng.com/cn/newlyweds-should-start-from-scratch-not-rely-on-parental-gifts/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "运维咖啡吧",
-      "title": "私有部署｜基于Ansible的运维自动化作业平台",
-      "published": "12 Nov 2025",
-      "link": "https://blog.ops-coffee.com/s/ansible-job-platform-modern-it-automation.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月20日 07:22:33"
+  "updated": "2025年11月20日 08:31:53"
 }
