@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "赚钱本质上是依靠信息不对称",
+      "published": "21 Nov 2025",
+      "link": "https://hwv430.blogspot.com/2025/11/blog-post_22.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "Kevin's",
       "title": "自制 Ping 监控工具，助我监看网络链路疑难杂症",
       "published": "21 Nov 2025",
@@ -20,13 +27,6 @@
       "published": "21 Nov 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "如何让别人愉快地接受你说“不”？",
-      "published": "21 Nov 2025",
-      "link": "https://hwv430.blogspot.com/2025/11/blog-post_96.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月21日 16:28:39"
+  "updated": "2025年11月21日 17:20:01"
 }
