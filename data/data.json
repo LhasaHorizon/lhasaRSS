@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "文档写作技巧",
+      "title": "实现有效沟通有哪些细节需要注意？",
       "published": "22 Nov 2025",
-      "link": "https://hwv430.blogspot.com/2025/11/blog-post_84.html",
+      "link": "https://hwv430.blogspot.com/2025/11/blog-post_39.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "云风的 BLOG",
+      "title": "嵌入主线程消息循环的任务调度器",
+      "published": "22 Nov 2025",
+      "link": "https://blog.codingnow.com/2025/11/task_schedule_in_eventloop.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "Kevin's",
@@ -54,7 +61,7 @@
       "title": "乙巳蛇年-十一月半",
       "published": "15 Nov 2025",
       "link": "https://xyzbz.cn/archives/1477/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -90,13 +97,6 @@
       "published": "06 Nov 2025",
       "link": "https://blog.yanqingshan.com/233.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
-      "blog_name": "云风的 BLOG",
-      "title": "欧陆风云 5 的经济系统",
-      "published": "04 Nov 2025",
-      "link": "https://blog.codingnow.com/2025/11/eu5.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "Ouroboros",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月22日 05:21:29"
+  "updated": "2025年11月22日 06:31:08"
 }
