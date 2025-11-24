@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "obaby@mars",
-      "title": "如何下载电报 Telegram 视频",
+      "title": "意义",
       "published": "24 Nov 2025",
-      "link": "https://oba.by/2025/11/22038",
+      "link": "https://oba.by/2025/11/22047",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
@@ -92,6 +92,13 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
+      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "title": "在 CNB 云开发中部署 Ollama：零门槛体验 AI 大模型，极速启动指南",
+      "published": "06 Nov 2025",
+      "link": "https://blog.yanqingshan.com/233.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
       "blog_name": "Ouroboros",
       "title": "没错，我离职了！",
       "published": "04 Nov 2025",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月24日 08:34:11"
+  "updated": "2025年11月24日 09:28:35"
 }
