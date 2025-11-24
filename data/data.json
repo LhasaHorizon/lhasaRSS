@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "Kevin's",
+      "title": "全能扫描仪工具 VueScan 9.8.49.13 增强便携版 🖨️",
+      "published": "24 Nov 2025",
+      "link": "https://www.shephe.com/resources/vuescan/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "吃喝玩乐那都不叫爱情",
       "published": "23 Nov 2025",
       "link": "https://hwv430.blogspot.com/2025/11/blog-post_24.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "Kevin's",
-      "title": "Nano Banana 太强了！如何在 Photoshop 中使用它",
-      "published": "22 Nov 2025",
-      "link": "https://www.shephe.com/post/adobe-photoshop-x-nano-banana/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "@1900'Blog",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月24日 01:56:05"
+  "updated": "2025年11月24日 03:27:12"
 }
