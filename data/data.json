@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Ouroboros",
+      "title": "博客装修日记-BUG修理篇",
+      "published": "25 Nov 2025",
+      "link": "https://blog.pursuitus.com/blog-bug-repair.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "绽放",
       "published": "25 Nov 2025",
@@ -99,13 +106,6 @@
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
-      "blog_name": "Ouroboros",
-      "title": "没错，我离职了！",
-      "published": "04 Nov 2025",
-      "link": "https://blog.pursuitus.com/thats-right-i-quit.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
       "blog_name": "Limboy's Essays",
       "title": "我的第一款 iOS App：PingMind",
       "published": "01 Nov 2025",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月25日 15:26:25"
+  "updated": "2025年11月25日 16:31:59"
 }
