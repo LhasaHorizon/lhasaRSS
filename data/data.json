@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "终于有人做了 Subagent，TRAE 国内版 SOLO 模式来了",
+      "published": "26 Nov 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/11/trae-solo.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "男人很少大方",
       "published": "25 Nov 2025",
@@ -55,13 +62,6 @@
       "published": "22 Nov 2025",
       "link": "https://yufree.cn/cn/2025/11/22/rhyme-as-reason/",
       "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 374 期）：6GHz 的问题",
-      "published": "21 Nov 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -127,13 +127,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "白板报",
-      "title": "父亲节的大礼：成为油管合作伙伴",
-      "published": "15 Jun 2025",
-      "link": "https://wangpei.net/2025/06/%e7%88%b6%e4%ba%b2%e8%8a%82%e7%9a%84%e5%a4%a7%e7%a4%bc%ef%bc%9a%e6%88%90%e4%b8%ba%e6%b2%b9%e7%ae%a1%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "202505 - 近况",
       "published": "25 May 2025",
@@ -176,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年11月25日 23:20:58"
+  "updated": "2025年11月26日 01:49:57"
 }
