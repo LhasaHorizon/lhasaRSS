@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Ouroboros",
+      "title": "再记一次雷厉风行的搬家",
+      "published": "02 Dec 2025",
+      "link": "https://blog.pursuitus.com/another-move-house.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
       "blog_name": "核电站",
       "title": "创业或做点生意，什么样的行业或赛道比较好？",
       "published": "02 Dec 2025",
@@ -34,13 +41,6 @@
       "published": "28 Nov 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "Ouroboros",
-      "title": "博客装修日记-BUG修理篇",
-      "published": "25 Nov 2025",
-      "link": "https://blog.pursuitus.com/blog-bug-repair.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
       "blog_name": "三十海河",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月02日 15:27:29"
+  "updated": "2025年12月02日 16:34:04"
 }
