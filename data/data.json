@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "管理中的服从性",
+      "published": "03 Dec 2025",
+      "link": "https://hwv430.blogspot.com/2025/12/blog-post_3.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "Ouroboros",
       "title": "再记一次雷厉风行的搬家",
       "published": "02 Dec 2025",
       "link": "https://blog.pursuitus.com/another-move-house.html",
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "创业或做点生意，什么样的行业或赛道比较好？",
-      "published": "02 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2025/12/blog-post_85.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby@mars",
@@ -159,7 +159,7 @@
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://kenengba.com/favicon.ico"
     },
     {
       "blog_name": "风雪之隅",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月03日 03:20:23"
+  "updated": "2025年12月03日 04:31:51"
 }
