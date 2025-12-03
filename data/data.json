@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby@mars",
+      "title": "蜀道难 — 有偿招募 Google Play 测试用户",
+      "published": "03 Dec 2025",
+      "link": "https://oba.by/2025/12/22107",
+      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "管理中的服从性",
       "published": "03 Dec 2025",
@@ -13,13 +20,6 @@
       "published": "02 Dec 2025",
       "link": "https://blog.pursuitus.com/another-move-house.html",
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "完美主义",
-      "published": "01 Dec 2025",
-      "link": "https://oba.by/2025/12/22098",
-      "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月03日 05:22:57"
+  "updated": "2025年12月03日 06:36:41"
 }
