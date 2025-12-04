@@ -1,10 +1,17 @@
 {
   "items": [
     {
-      "blog_name": "核电站",
-      "title": "等级驯化人民",
+      "blog_name": "Ouroboros",
+      "title": "",
       "published": "04 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2025/12/blog-post_4.html",
+      "link": "https://blog.pursuitus.com/7757.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
+      "blog_name": "核电站",
+      "title": "学好课程的指导",
+      "published": "04 Dec 2025",
+      "link": "https://hwv430.blogspot.com/2025/12/blog-post_54.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -13,13 +20,6 @@
       "published": "03 Dec 2025",
       "link": "https://oba.by/2025/12/22107",
       "avatar": "https://oba.by/wp-content/uploads/2020/09/icon-500-100x100.png"
-    },
-    {
-      "blog_name": "Ouroboros",
-      "title": "再记一次雷厉风行的搬家",
-      "published": "02 Dec 2025",
-      "link": "https://blog.pursuitus.com/another-move-house.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月04日 15:28:18"
+  "updated": "2025年12月04日 16:34:31"
 }
