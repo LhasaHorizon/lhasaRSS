@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "经济不平等",
+      "published": "05 Dec 2025",
+      "link": "https://hwv430.blogspot.com/2025/12/blog-post_25.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "也许岸上什么都没有：论虚幻的目标",
       "published": "05 Dec 2025",
@@ -13,13 +20,6 @@
       "published": "05 Dec 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "如何在工作之余挤出时间提高业务水平",
-      "published": "04 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2025/12/blog-post_5.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby@mars",
@@ -40,7 +40,7 @@
       "title": "乙巳蛇年-十一月末",
       "published": "30 Nov 2025",
       "link": "https://xyzbz.cn/archives/1478/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月05日 10:25:53"
+  "updated": "2025年12月05日 11:21:20"
 }
