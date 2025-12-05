@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 376 期）：太空数据中心的争议",
+      "published": "05 Dec 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "如何在工作之余挤出时间提高业务水平",
       "published": "04 Dec 2025",
@@ -26,7 +33,7 @@
       "title": "乙巳蛇年-十一月末",
       "published": "30 Nov 2025",
       "link": "https://xyzbz.cn/archives/1478/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -34,13 +41,6 @@
       "published": "28 Nov 2025",
       "link": "https://blog.codingnow.com/2025/11/eu5_notes.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 375 期）：一扇门的 Bug",
-      "published": "28 Nov 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "三十海河",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月04日 23:22:40"
+  "updated": "2025年12月05日 01:52:52"
 }
