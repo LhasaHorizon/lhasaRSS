@@ -61,7 +61,7 @@
       "title": "乙巳蛇年-十一月末",
       "published": "30 Nov 2025",
       "link": "https://xyzbz.cn/archives/1478/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -69,6 +69,13 @@
       "published": "28 Nov 2025",
       "link": "https://blog.codingnow.com/2025/11/eu5_notes.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
+      "blog_name": "Kevin's",
+      "title": "全能扫描仪工具 VueScan 9.8.49.13 增强便携版 🖨️",
+      "published": "24 Nov 2025",
+      "link": "https://www.shephe.com/resources/vuescan/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月07日 23:20:19"
+  "updated": "2025年12月08日 01:53:38"
 }
