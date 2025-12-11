@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "title": "Debian12 安装 Docker服务并配置加速镜像",
+      "published": "11 Dec 2025",
+      "link": "https://blog.yanqingshan.com/234.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
+      "blog_name": "唐巧的博客",
+      "title": "和媒体共赢 - 读《广告的没落，公关的崛起》",
+      "published": "11 Dec 2025",
+      "link": "https://blog.devtang.com/2025/12/11/marketing-change/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "娼优士族",
       "published": "11 Dec 2025",
@@ -68,7 +82,7 @@
       "title": "乙巳蛇年-十一月末",
       "published": "30 Nov 2025",
       "link": "https://xyzbz.cn/archives/1478/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -99,25 +113,11 @@
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
     },
     {
-      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
-      "title": "在 CNB 云开发中部署 Ollama：零门槛体验 AI 大模型，极速启动指南",
-      "published": "06 Nov 2025",
-      "link": "https://blog.yanqingshan.com/233.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
       "blog_name": "Limboy's Essays",
       "title": "我的第一款 iOS App：PingMind",
       "published": "01 Nov 2025",
       "link": "https://limboy.me/posts/pingmind",
       "avatar": "https://limboy.me/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "理解 MCP -读《这就是 MCP》",
-      "published": "21 Oct 2025",
-      "link": "https://blog.devtang.com/2025/10/21/mcp-introduction/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "落园",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月11日 14:25:28"
+  "updated": "2025年12月11日 15:29:09"
 }
