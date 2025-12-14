@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "为什么依赖“自驱”的学习这么难坚持？",
+      "published": "14 Dec 2025",
+      "link": "https://hwv430.blogspot.com/2025/12/blog-post_36.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "@1900'Blog",
+      "title": "Umami升级V3踩坑指南",
+      "published": "14 Dec 2025",
+      "link": "https://1900.live/umamisheng-ji-v3cai-keng-zhi-nan/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "一键资源地址替换工具 — UniApp发布小程序体积精简",
       "published": "14 Dec 2025",
       "link": "https://oba.by/2025/12/22157",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "赚时间",
-      "published": "12 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2025/12/blog-post_62.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "张洪Heo",
@@ -64,13 +71,6 @@
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
-      "blog_name": "@1900'Blog",
-      "title": "273、大雪",
-      "published": "06 Dec 2025",
-      "link": "https://1900.live/273-da-xue/",
-      "avatar": "https://1900.live/logo.svg"
-    },
-    {
       "blog_name": "心的道理",
       "title": "也许岸上什么都没有：论虚幻的目标",
       "published": "05 Dec 2025",
@@ -82,7 +82,7 @@
       "title": "乙巳蛇年-十一月末",
       "published": "30 Nov 2025",
       "link": "https://xyzbz.cn/archives/1478/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月14日 02:01:53"
+  "updated": "2025年12月14日 04:00:28"
 }
