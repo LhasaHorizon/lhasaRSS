@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby@mars",
+      "title": "一键资源地址替换工具 — UniApp发布小程序体积精简",
+      "published": "14 Dec 2025",
+      "link": "https://oba.by/2025/12/22157",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "赚时间",
       "published": "12 Dec 2025",
@@ -48,13 +55,6 @@
       "published": "10 Dec 2025",
       "link": "https://blog.pursuitus.com/xiqianfo-cave-and-others.html",
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "道阻且长",
-      "published": "10 Dec 2025",
-      "link": "https://oba.by/2025/12/22122",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "三十海河",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月13日 23:21:12"
+  "updated": "2025年12月14日 02:01:53"
 }
