@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
+      "published": "19 Dec 2025",
+      "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "中小企业主不应薄利多销",
       "published": "18 Dec 2025",
@@ -55,13 +62,6 @@
       "published": "12 Dec 2025",
       "link": "https://blog.ops-coffee.com/s/second-sponsorship-received-for-collage-tool.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 377 期）：14万美元的贫困线",
-      "published": "12 Dec 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
@@ -120,6 +120,13 @@
       "avatar": "https://limboy.me/favicon.ico"
     },
     {
+      "blog_name": "落园",
+      "title": "甜品店的故事",
+      "published": "17 Aug 2025",
+      "link": "https://www.loyhome.com/%e7%94%9c%e5%93%81%e5%ba%97%e7%9a%84%e6%95%85%e4%ba%8b/",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "白板报",
       "title": "父亲节的大礼：成为油管合作伙伴",
       "published": "15 Jun 2025",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月18日 23:23:46"
+  "updated": "2025年12月19日 01:55:07"
 }
