@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "@1900'Blog",
+      "title": "My App Defaults 2025",
+      "published": "22 Dec 2025",
+      "link": "https://1900.live/my-app-defaults-2025/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "我们叁",
       "title": "计划",
       "published": "22 Dec 2025",
@@ -27,13 +34,6 @@
       "published": "21 Dec 2025",
       "link": "https://hwv430.blogspot.com/2025/12/blog-post_55.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "@1900'Blog",
-      "title": "274、冬至",
-      "published": "21 Dec 2025",
-      "link": "https://1900.live/274-dong-zhi/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
@@ -124,7 +124,7 @@
       "title": "甜品店的故事",
       "published": "17 Aug 2025",
       "link": "https://www.loyhome.com/%e7%94%9c%e5%93%81%e5%ba%97%e7%9a%84%e6%95%85%e4%ba%8b/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "白板报",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月22日 10:26:53"
+  "updated": "2025年12月22日 11:21:27"
 }
