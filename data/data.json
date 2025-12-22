@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Ouroboros",
+      "title": "2025消费主义与生活",
+      "published": "22 Dec 2025",
+      "link": "https://blog.pursuitus.com/2025-shopping-and-life.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "My App Defaults 2025",
       "published": "22 Dec 2025",
@@ -20,13 +27,6 @@
       "published": "22 Dec 2025",
       "link": "https://blog.zhheo.com/p/1rb05exh.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "Ouroboros",
-      "title": "突如其来的西北之行-悬泉置和其他",
-      "published": "22 Dec 2025",
-      "link": "https://blog.pursuitus.com/xuanquanzhi.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
       "blog_name": "核电站",
@@ -82,7 +82,7 @@
       "title": "乙巳蛇年-十二月半",
       "published": "14 Dec 2025",
       "link": "https://xyzbz.cn/archives/1482/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月22日 14:25:18"
+  "updated": "2025年12月22日 15:26:16"
 }
