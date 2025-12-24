@@ -120,18 +120,11 @@
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
     },
     {
-      "blog_name": "Limboy's Essays",
-      "title": "我的第一款 iOS App：PingMind",
-      "published": "01 Nov 2025",
-      "link": "https://limboy.me/posts/pingmind",
-      "avatar": "https://limboy.me/favicon.ico"
-    },
-    {
       "blog_name": "落园",
       "title": "甜品店的故事",
       "published": "17 Aug 2025",
       "link": "https://www.loyhome.com/%e7%94%9c%e5%93%81%e5%ba%97%e7%9a%84%e6%95%85%e4%ba%8b/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -176,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月24日 07:27:06"
+  "updated": "2025年12月24日 08:34:08"
 }
