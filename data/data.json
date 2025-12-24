@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Ouroboros",
+      "title": "奥斯陆的一天",
+      "published": "24 Dec 2025",
+      "link": "https://blog.pursuitus.com/a-day-in-oslo.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "在Mac上使用快捷指令解决：已损坏，无法打开。你应该将它移到废纸篓",
       "published": "24 Dec 2025",
@@ -48,13 +55,6 @@
       "published": "22 Dec 2025",
       "link": "https://wangpei.net/2025/12/%e7%ba%aa%e5%bf%b5%e6%88%91%e7%9a%84%e6%af%8d%e4%ba%b2%ef%bc%9a%e5%9c%a8%e8%bf%bd%e6%80%9d%e4%bc%9a%e4%b8%8a%e7%9a%84%e5%8f%91%e8%a8%80/",
       "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
-    },
-    {
-      "blog_name": "Ouroboros",
-      "title": "2025消费主义与生活",
-      "published": "22 Dec 2025",
-      "link": "https://blog.pursuitus.com/2025-shopping-and-life.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
       "blog_name": "@1900'Blog",
@@ -131,7 +131,7 @@
       "title": "甜品店的故事",
       "published": "17 Aug 2025",
       "link": "https://www.loyhome.com/%e7%94%9c%e5%93%81%e5%ba%97%e7%9a%84%e6%95%85%e4%ba%8b/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月24日 14:23:12"
+  "updated": "2025年12月24日 15:25:38"
 }
