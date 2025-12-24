@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "在Mac上使用快捷指令解决：已损坏，无法打开。你应该将它移到废纸篓",
+      "published": "24 Dec 2025",
+      "link": "https://blog.zhheo.com/p/tsk1v2fy.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "核电站",
       "title": "“民族自信”要的是个体不自信",
       "published": "23 Dec 2025",
@@ -13,13 +20,6 @@
       "published": "23 Dec 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "如何移除Mac中访达多余的菜单项？还你一个清爽的访达右键菜单",
-      "published": "23 Dec 2025",
-      "link": "https://blog.zhheo.com/p/hiubxt8w.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月24日 03:26:52"
+  "updated": "2025年12月24日 04:38:18"
 }
