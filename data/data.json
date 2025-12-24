@@ -26,7 +26,7 @@
       "title": "Docker部署简单网页分析工具GoatCounter",
       "published": "23 Dec 2025",
       "link": "https://xyzbz.cn/archives/1485/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby@mars",
@@ -110,7 +110,7 @@
       "title": "全能扫描仪工具 VueScan 9.8.49.13 增强便携版 🖨️",
       "published": "24 Nov 2025",
       "link": "https://www.shephe.com/resources/vuescan/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Airing 的博客",
@@ -118,6 +118,13 @@
       "published": "15 Nov 2025",
       "link": "https://blog.ursb.me/posts/weekly-33/",
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
+    },
+    {
+      "blog_name": "Limboy's Essays",
+      "title": "我的第一款 iOS App：PingMind",
+      "published": "01 Nov 2025",
+      "link": "https://limboy.me/posts/pingmind",
+      "avatar": "https://limboy.me/favicon.ico"
     },
     {
       "blog_name": "落园",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月24日 08:34:08"
+  "updated": "2025年12月24日 09:29:07"
 }
