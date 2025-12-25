@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "电影为什么越来越难看了？",
+      "published": "25 Dec 2025",
+      "link": "https://hwv430.blogspot.com/2025/12/blog-post_26.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
       "title": "乙巳圣诞随笔",
       "published": "25 Dec 2025",
       "link": "https://blog.yanqingshan.com/237.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "朋友从来不用刻意维护，不需要分享利益",
-      "published": "25 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2025/12/blog-post_32.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Ouroboros",
@@ -40,7 +40,7 @@
       "title": "Docker部署简单网页分析工具GoatCounter",
       "published": "23 Dec 2025",
       "link": "https://xyzbz.cn/archives/1485/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby@mars",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月25日 19:18:55"
+  "updated": "2025年12月25日 20:27:03"
 }
