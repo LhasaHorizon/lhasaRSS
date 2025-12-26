@@ -22,18 +22,18 @@
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "我在2026年推荐的Mac软件",
+      "published": "25 Dec 2025",
+      "link": "https://blog.zhheo.com/p/vtyyrfd3.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "Ouroboros",
       "title": "奥斯陆的一天",
       "published": "24 Dec 2025",
       "link": "https://blog.pursuitus.com/a-day-in-oslo.html",
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "在Mac上使用快捷指令解决：已损坏，无法打开。你应该将它移到废纸篓",
-      "published": "24 Dec 2025",
-      "link": "https://blog.zhheo.com/p/tsk1v2fy.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月26日 03:27:38"
+  "updated": "2025年12月26日 04:37:06"
 }
