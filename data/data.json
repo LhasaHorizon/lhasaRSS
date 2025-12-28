@@ -8,6 +8,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "读《疯狂的尿酸》",
+      "published": "28 Dec 2025",
+      "link": "https://blog.devtang.com/2025/12/28/crazy-acid-book-summary/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
       "published": "25 Dec 2025",
@@ -40,7 +47,7 @@
       "title": "Docker部署简单网页分析工具GoatCounter",
       "published": "23 Dec 2025",
       "link": "https://xyzbz.cn/archives/1485/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby@mars",
@@ -99,13 +106,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "唐巧的博客",
-      "title": "和媒体共赢 - 读《广告的没落，公关的崛起》",
-      "published": "11 Dec 2025",
-      "link": "https://blog.devtang.com/2025/12/11/marketing-change/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
       "blog_name": "Kevin's",
       "title": "全能扫描仪工具 VueScan 9.8.49.13 增强便携版 🖨️",
       "published": "24 Nov 2025",
@@ -131,7 +131,7 @@
       "title": "甜品店的故事",
       "published": "17 Aug 2025",
       "link": "https://www.loyhome.com/%e7%94%9c%e5%93%81%e5%ba%97%e7%9a%84%e6%95%85%e4%ba%8b/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月28日 10:24:06"
+  "updated": "2025年12月28日 11:20:16"
 }
