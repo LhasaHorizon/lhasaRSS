@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "想做事业必须精通脏话的技术",
-      "published": "28 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2025/12/blog-post_59.html",
+      "title": "日和操",
+      "published": "29 Dec 2025",
+      "link": "https://hwv430.blogspot.com/2025/12/blog-post_56.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby@mars",
+      "title": "真正的冬天",
+      "published": "29 Dec 2025",
+      "link": "https://oba.by/2025/12/22241",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -48,13 +55,6 @@
       "published": "23 Dec 2025",
       "link": "https://xyzbz.cn/archives/1485/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "obaby@mars",
-      "title": "永夜",
-      "published": "23 Dec 2025",
-      "link": "https://oba.by/2025/12/22224",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月29日 05:32:10"
+  "updated": "2025年12月29日 06:40:17"
 }
