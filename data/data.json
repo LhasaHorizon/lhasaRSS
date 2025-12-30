@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "键政、打拳一钱不值",
+      "title": "时代幸运儿",
       "published": "30 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2025/12/blog-post_21.html",
+      "link": "https://hwv430.blogspot.com/2025/12/blog-post_50.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "Ouroboros",
+      "title": "记一次结案周期很短的“电诈”经历",
+      "published": "30 Dec 2025",
+      "link": "https://blog.pursuitus.com/an-experience-of-electronic-fraud.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
       "blog_name": "@1900'Blog",
@@ -26,7 +33,7 @@
       "title": "乙巳蛇年-十二月末",
       "published": "29 Dec 2025",
       "link": "https://xyzbz.cn/archives/1488/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "obaby@mars",
@@ -55,13 +62,6 @@
       "published": "25 Dec 2025",
       "link": "https://blog.zhheo.com/p/vtyyrfd3.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "Ouroboros",
-      "title": "奥斯陆的一天",
-      "published": "24 Dec 2025",
-      "link": "https://blog.pursuitus.com/a-day-in-oslo.html",
-      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2025年12月30日 17:24:24"
+  "updated": "2025年12月30日 18:36:09"
 }
