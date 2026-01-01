@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "2025 年个人总结",
+      "published": "01 Jan 2026",
+      "link": "https://blog.devtang.com/2026/01/01/2025-summary/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "2025下半年研究速递",
       "published": "01 Jan 2026",
@@ -55,13 +62,6 @@
       "published": "29 Dec 2025",
       "link": "https://oba.by/2025/12/22241",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "读《疯狂的尿酸》",
-      "published": "28 Dec 2025",
-      "link": "https://blog.devtang.com/2025/12/28/crazy-acid-book-summary/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月01日 15:25:23"
+  "updated": "2026年01月01日 16:30:57"
 }
