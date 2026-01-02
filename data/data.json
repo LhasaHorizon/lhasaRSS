@@ -8,6 +8,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "Limboy's Essays",
+      "title": "Make Good New Things",
+      "published": "02 Jan 2026",
+      "link": "https://limboy.me/posts/make-good-new-things",
+      "avatar": "https://limboy.me/favicon.ico"
+    },
+    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "南极谋杀案 （十八）- 商务指南",
       "published": "02 Jan 2026",
@@ -127,13 +134,6 @@
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
     },
     {
-      "blog_name": "Limboy's Essays",
-      "title": "我的第一款 iOS App：PingMind",
-      "published": "01 Nov 2025",
-      "link": "https://limboy.me/posts/pingmind",
-      "avatar": "https://limboy.me/favicon.ico"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "202505 - 近况",
       "published": "25 May 2025",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月02日 10:26:04"
+  "updated": "2026年01月02日 11:21:26"
 }
