@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "\"我用你你就是人才，不用你你啥也不是\"",
+      "title": "个人权威的塑造",
       "published": "02 Jan 2026",
-      "link": "https://hwv430.blogspot.com/2026/01/blog-post_2.html",
+      "link": "https://hwv430.blogspot.com/2026/01/blog-post_9.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "Homepage on Miao Yu | 于淼",
+      "title": "南极谋杀案 （十八）- 商务指南",
+      "published": "02 Jan 2026",
+      "link": "https://yufree.cn/cn/2026/01/02/ai-business/",
+      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "唐巧的博客",
@@ -13,13 +20,6 @@
       "published": "01 Jan 2026",
       "link": "https://blog.devtang.com/2026/01/01/2025-summary/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "Homepage on Miao Yu | 于淼",
-      "title": "2025下半年研究速递",
-      "published": "01 Jan 2026",
-      "link": "https://yufree.cn/cn/2026/01/01/2025/",
-      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月02日 05:28:50"
+  "updated": "2026年01月02日 06:38:41"
 }
