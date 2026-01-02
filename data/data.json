@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "\"我用你你就是人才，不用你你啥也不是\"",
+      "published": "02 Jan 2026",
+      "link": "https://hwv430.blogspot.com/2026/01/blog-post_2.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "2025 年个人总结",
       "published": "01 Jan 2026",
@@ -20,13 +27,6 @@
       "published": "31 Dec 2025",
       "link": "https://xyzbz.cn/archives/1489/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "2026年有哪些赚钱机会",
-      "published": "31 Dec 2025",
-      "link": "https://hwv430.blogspot.com/2026/01/2026.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "落园",
@@ -145,7 +145,7 @@
       "title": "百度的槽点到底在哪里",
       "published": "11 May 2024",
       "link": "http://weiwuhui.com/10670.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月02日 04:44:32"
+  "updated": "2026年01月02日 05:28:50"
 }
