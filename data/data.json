@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "子夜松声",
+      "title": "2025年终回顾",
+      "published": "03 Jan 2026",
+      "link": "https://xyzbz.cn/archives/1491/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "个人权威的塑造",
       "published": "02 Jan 2026",
@@ -27,13 +34,6 @@
       "published": "01 Jan 2026",
       "link": "https://blog.devtang.com/2026/01/01/2025-summary/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "子夜松声",
-      "title": "2026元旦初雪",
-      "published": "31 Dec 2025",
-      "link": "https://xyzbz.cn/archives/1489/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "落园",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月03日 01:52:30"
+  "updated": "2026年01月03日 03:24:56"
 }
