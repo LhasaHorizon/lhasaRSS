@@ -8,6 +8,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "子夜松声",
+      "title": "2025年终回顾",
+      "published": "03 Jan 2026",
+      "link": "https://xyzbz.cn/archives/1491/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "南极谋杀案 （十八）- 商务指南",
       "published": "02 Jan 2026",
@@ -43,11 +50,25 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
+      "blog_name": "@1900'Blog",
+      "title": "博客迁入Edgeone Pages",
+      "published": "30 Dec 2025",
+      "link": "https://1900.live/bo-ke-qian-ru-edgeone-pages/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
       "title": "Joe主题统计页面增加年度/月度统计数据",
       "published": "30 Dec 2025",
       "link": "https://blog.yanqingshan.com/239.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby@mars",
+      "title": "真正的冬天",
+      "published": "29 Dec 2025",
+      "link": "https://oba.by/2025/12/22241",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -57,18 +78,18 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "我在2026年推荐的Mac软件",
+      "published": "25 Dec 2025",
+      "link": "https://blog.zhheo.com/p/vtyyrfd3.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "Skynet 升级到 Lua 5.5.0",
       "published": "23 Dec 2025",
       "link": "https://blog.codingnow.com/2025/12/skynet_lua_550.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "白板报",
-      "title": "纪念我的母亲：在追思会上的发言",
-      "published": "22 Dec 2025",
-      "link": "https://wangpei.net/2025/12/%e7%ba%aa%e5%bf%b5%e6%88%91%e7%9a%84%e6%af%8d%e4%ba%b2%ef%bc%9a%e5%9c%a8%e8%bf%bd%e6%80%9d%e4%bc%9a%e4%b8%8a%e7%9a%84%e5%8f%91%e8%a8%80/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
       "blog_name": "我们叁",
@@ -148,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月03日 12:47:38"
+  "updated": "2026年01月03日 13:31:35"
 }
