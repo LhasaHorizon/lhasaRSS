@@ -2,13 +2,13 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "你的小营生非常容易掐掉",
-      "published": "03 Jan 2026",
-      "link": "https://hwv430.blogspot.com/2026/01/blog-post_74.html",
+      "title": "财富暴涨的一般经验",
+      "published": "04 Jan 2026",
+      "link": "https://hwv430.blogspot.com/2026/01/blog-post_48.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
-      "blog_name": "青山小站 | 一个在帝都搬砖的新时代农民工",
+      "blog_name": "青山小站",
       "title": "2026年元旦随笔",
       "published": "03 Jan 2026",
       "link": "https://blog.yanqingshan.com/240.html",
@@ -120,6 +120,13 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
+      "blog_name": "Kevin's",
+      "title": "全能扫描仪工具 VueScan 9.8.50.05 增强便携版 🖨️",
+      "published": "24 Nov 2025",
+      "link": "https://www.shephe.com/resources/vuescan/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
+    },
+    {
       "blog_name": "Airing 的博客",
       "title": "月刊（第33期）：推理阶梯",
       "published": "15 Nov 2025",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月04日 04:12:59"
+  "updated": "2026年01月04日 05:28:45"
 }
