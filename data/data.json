@@ -8,11 +8,32 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "@1900'Blog",
+      "title": "275、小寒",
+      "published": "05 Jan 2026",
+      "link": "https://1900.live/275-xiao-han/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
+      "blog_name": "obaby@mars",
+      "title": "RPG！",
+      "published": "05 Jan 2026",
+      "link": "https://oba.by/2026/01/22320",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "青山小站",
       "title": "2026年元旦随笔",
       "published": "03 Jan 2026",
       "link": "https://blog.yanqingshan.com/240.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
+      "blog_name": "子夜松声",
+      "title": "2025年终回顾",
+      "published": "03 Jan 2026",
+      "link": "https://xyzbz.cn/archives/1491/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -40,7 +61,7 @@
       "title": "空间躁动症",
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "Ouroboros",
@@ -55,6 +76,13 @@
       "published": "25 Dec 2025",
       "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "我在2026年推荐的Mac软件",
+      "published": "25 Dec 2025",
+      "link": "https://blog.zhheo.com/p/vtyyrfd3.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -148,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月05日 22:25:31"
+  "updated": "2026年01月05日 23:24:02"
 }
