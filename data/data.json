@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "@1900'Blog",
+      "title": "275、小寒",
+      "published": "05 Jan 2026",
+      "link": "https://1900.live/275-xiao-han/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "RPG！",
       "published": "05 Jan 2026",
@@ -26,7 +33,7 @@
       "title": "2025年终回顾",
       "published": "03 Jan 2026",
       "link": "https://xyzbz.cn/archives/1491/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -62,13 +69,6 @@
       "published": "30 Dec 2025",
       "link": "https://blog.pursuitus.com/an-experience-of-electronic-fraud.html",
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
-      "blog_name": "@1900'Blog",
-      "title": "博客迁入Edgeone Pages",
-      "published": "30 Dec 2025",
-      "link": "https://1900.live/bo-ke-qian-ru-edgeone-pages/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月05日 08:38:30"
+  "updated": "2026年01月05日 09:36:05"
 }
