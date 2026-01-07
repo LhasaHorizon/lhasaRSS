@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "来到流水线的尽头",
+      "published": "07 Jan 2026",
+      "link": "https://stephenleng.com/cn/arriving-at-the-end-of-the-assembly-line/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "obaby@mars",
       "title": "荒漠化",
       "published": "07 Jan 2026",
@@ -43,18 +50,18 @@
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
     },
     {
-      "blog_name": "Homepage on Miao Yu | 于淼",
-      "title": "南极谋杀案 （十八）- 商务指南",
-      "published": "02 Jan 2026",
-      "link": "https://yufree.cn/cn/2026/01/02/ai-business/",
-      "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
       "blog_name": "Limboy's Essays",
       "title": "Make Good New Things",
       "published": "02 Jan 2026",
       "link": "https://limboy.me/posts/make-good-new-things",
       "avatar": "https://limboy.me/favicon.ico"
+    },
+    {
+      "blog_name": "Homepage on Miao Yu | 于淼",
+      "title": "南极谋杀案 （十八）- 商务指南",
+      "published": "02 Jan 2026",
+      "link": "https://yufree.cn/cn/2026/01/02/ai-business/",
+      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "唐巧的博客",
@@ -104,13 +111,6 @@
       "published": "22 Dec 2025",
       "link": "https://ihaihe.cn/3473.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "论中式婚礼中的接亲与堵门游戏",
-      "published": "17 Dec 2025",
-      "link": "https://stephenleng.com/cn/on-the-bride-receiving-ceremony-and-door-blocking-games-in-chinese-weddings/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月07日 11:23:44"
+  "updated": "2026年01月07日 12:53:30"
 }
