@@ -22,6 +22,13 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "Limboy's Essays",
+      "title": "答题者心态",
+      "published": "07 Jan 2026",
+      "link": "https://limboy.me/posts/the-mindset-of-the-answerer",
+      "avatar": "https://limboy.me/favicon.ico"
+    },
+    {
       "blog_name": "Ouroboros",
       "title": "财务记录 之 稳健获利10%但跑输大盘 #17",
       "published": "06 Jan 2026",
@@ -48,13 +55,6 @@
       "published": "03 Jan 2026",
       "link": "https://xyzbz.cn/archives/1491/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "Limboy's Essays",
-      "title": "Make Good New Things",
-      "published": "02 Jan 2026",
-      "link": "https://limboy.me/posts/make-good-new-things",
-      "avatar": "https://limboy.me/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月07日 16:35:25"
+  "updated": "2026年01月07日 17:28:43"
 }
