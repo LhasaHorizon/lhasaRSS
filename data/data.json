@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "@1900'Blog",
+      "title": "到底是AI在学习还是我们在学习？",
+      "published": "08 Jan 2026",
+      "link": "https://1900.live/dao/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "核电站",
       "title": "剪辑就是视频时代的编辑",
       "published": "07 Jan 2026",
@@ -34,13 +41,6 @@
       "published": "06 Jan 2026",
       "link": "https://blog.pursuitus.com/summary-of-2025-year-end-expenditure.html",
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
-    },
-    {
-      "blog_name": "@1900'Blog",
-      "title": "275、小寒",
-      "published": "05 Jan 2026",
-      "link": "https://1900.live/275-xiao-han/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "青山小站",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月08日 01:58:45"
+  "updated": "2026年01月08日 03:44:32"
 }
