@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "现代爱情只是个包装",
+      "published": "08 Jan 2026",
+      "link": "https://hwv430.blogspot.com/2026/01/blog-post_87.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "到底是AI在学习还是我们在学习？",
       "published": "08 Jan 2026",
       "link": "https://1900.live/dao/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "剪辑就是视频时代的编辑",
-      "published": "07 Jan 2026",
-      "link": "https://hwv430.blogspot.com/2026/01/blog-post_40.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "心的道理",
@@ -75,7 +75,7 @@
       "title": "空间躁动症",
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月08日 16:34:56"
+  "updated": "2026年01月08日 17:29:53"
 }
