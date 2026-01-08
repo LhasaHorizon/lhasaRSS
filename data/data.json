@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "@1900'Blog",
+      "title": "到底是AI在学习还是我们在学习？",
+      "published": "08 Jan 2026",
+      "link": "https://1900.live/dao/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "核电站",
       "title": "剪辑就是视频时代的编辑",
       "published": "07 Jan 2026",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月08日 15:30:12"
+  "updated": "2026年01月08日 16:34:56"
 }
