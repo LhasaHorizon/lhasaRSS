@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 380 期）：为什么人们拥抱\"不对称收益\"",
+      "published": "09 Jan 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "拉动消费靠中产",
       "published": "08 Jan 2026",
@@ -76,13 +83,6 @@
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
       "avatar": "https://www.loyhome.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
-      "published": "25 Dec 2025",
-      "link": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "张洪Heo",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月08日 23:21:10"
+  "updated": "2026年01月09日 02:00:09"
 }
