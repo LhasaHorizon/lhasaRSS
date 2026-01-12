@@ -113,13 +113,6 @@
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
-      "blog_name": "Kevin's",
-      "title": "全能扫描仪工具 VueScan 9.8.50.05 增强便携版 🖨️",
-      "published": "24 Nov 2025",
-      "link": "https://www.shephe.com/resources/vuescan/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2024/06/K-300x300.png"
-    },
-    {
       "blog_name": "Airing 的博客",
       "title": "月刊（第33期）：推理阶梯",
       "published": "15 Nov 2025",
@@ -152,7 +145,7 @@
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://kenengba.com/favicon.ico"
     },
     {
       "blog_name": "风雪之隅",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月12日 09:36:49"
+  "updated": "2026年01月12日 10:33:25"
 }
