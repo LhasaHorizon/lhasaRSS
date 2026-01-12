@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "@1900'Blog",
+      "title": "回不去的年",
+      "published": "12 Jan 2026",
+      "link": "https://1900.live/hui-bu-qu-de-nian/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "核电站",
       "title": "差生如何发展好自己的人生",
       "published": "11 Jan 2026",
@@ -34,13 +41,6 @@
       "published": "11 Jan 2026",
       "link": "https://limboy.me/posts/gong-type-of-talent",
       "avatar": "https://limboy.me/apple-touch-icon.png"
-    },
-    {
-      "blog_name": "@1900'Blog",
-      "title": "填充在思绪间隙的碎片",
-      "published": "10 Jan 2026",
-      "link": "https://1900.live/tian-chong-zai-si-xu-jian-xi-de-sui-pian/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月12日 02:04:56"
+  "updated": "2026年01月12日 04:12:12"
 }
