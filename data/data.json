@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "和 AI 聊游戏设计",
+      "published": "15 Jan 2026",
+      "link": "https://blog.codingnow.com/2026/01/ai_game_design.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "沟通能力和表达能力有什么区别",
       "published": "15 Jan 2026",
@@ -68,7 +75,7 @@
       "title": "2025年终回顾",
       "published": "03 Jan 2026",
       "link": "https://xyzbz.cn/archives/1491/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -83,13 +90,6 @@
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
       "avatar": "https://www.loyhome.com/favicon.ico"
-    },
-    {
-      "blog_name": "云风的 BLOG",
-      "title": "Skynet 升级到 Lua 5.5.0",
-      "published": "23 Dec 2025",
-      "link": "https://blog.codingnow.com/2025/12/skynet_lua_550.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "白板报",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月15日 07:28:21"
+  "updated": "2026年01月15日 08:35:45"
 }
