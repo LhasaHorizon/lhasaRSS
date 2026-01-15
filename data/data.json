@@ -43,6 +43,13 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "CSPJ 教学思考：背包问题",
+      "published": "11 Jan 2026",
+      "link": "https://blog.devtang.com/2026/01/11/pack-problem-of-dp/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "青山小站",
       "title": "总要写点什么吧（二）：两则怪梦记",
       "published": "11 Jan 2026",
@@ -76,13 +83,6 @@
       "published": "03 Jan 2026",
       "link": "https://xyzbz.cn/archives/1491/",
       "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "2025 年个人总结",
-      "published": "01 Jan 2026",
-      "link": "https://blog.devtang.com/2026/01/01/2025-summary/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "落园",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月15日 15:29:56"
+  "updated": "2026年01月15日 16:39:20"
 }
