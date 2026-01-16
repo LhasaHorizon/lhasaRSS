@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
+      "published": "16 Jan 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·一月初·雪叩窗",
       "published": "15 Jan 2026",
@@ -71,13 +78,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 380 期）：为什么人们拥抱\"不对称收益\"",
-      "published": "09 Jan 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-380.html",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
       "blog_name": "心的道理",
       "title": "来到流水线的尽头",
       "published": "07 Jan 2026",
@@ -89,7 +89,7 @@
       "title": "空间躁动症",
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "白板报",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月15日 23:24:49"
+  "updated": "2026年01月16日 02:00:28"
 }
