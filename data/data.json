@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "大学专业不能决定一个人的命运",
-      "published": "16 Jan 2026",
-      "link": "https://hwv430.blogspot.com/2026/01/blog-post_30.html",
+      "title": "横渠四句是当官宣言",
+      "published": "17 Jan 2026",
+      "link": "https://hwv430.blogspot.com/2026/01/blog-post_17.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -50,18 +50,18 @@
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
-      "blog_name": "Limboy's Essays",
-      "title": "黑白厨师",
-      "published": "14 Jan 2026",
-      "link": "https://limboy.me/posts/culinary-class-wars",
-      "avatar": "https://limboy.me/favicon.ico"
-    },
-    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "最小大语言模型",
       "published": "14 Jan 2026",
       "link": "https://yufree.cn/cn/2026/01/14/sllm/",
       "avatar": "https://yufree.cn/favicon.ico"
+    },
+    {
+      "blog_name": "Limboy's Essays",
+      "title": "黑白厨师",
+      "published": "14 Jan 2026",
+      "link": "https://limboy.me/posts/culinary-class-wars",
+      "avatar": "https://limboy.me/favicon.ico"
     },
     {
       "blog_name": "唐巧的博客",
@@ -145,7 +145,7 @@
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
-      "avatar": "https://kenengba.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "风雪之隅",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月17日 03:25:38"
+  "updated": "2026年01月17日 04:34:56"
 }
