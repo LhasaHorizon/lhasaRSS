@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "论社交",
+      "published": "18 Jan 2026",
+      "link": "https://stephenleng.com/cn/on-socializing/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "@1900'Blog",
       "title": "我为什么写博客",
       "published": "18 Jan 2026",
@@ -85,13 +92,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "心的道理",
-      "title": "来到流水线的尽头",
-      "published": "07 Jan 2026",
-      "link": "https://stephenleng.com/cn/arriving-at-the-end-of-the-assembly-line/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
       "blog_name": "落园",
       "title": "空间躁动症",
       "published": "30 Dec 2025",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月18日 07:22:56"
+  "updated": "2026年01月18日 08:31:10"
 }
