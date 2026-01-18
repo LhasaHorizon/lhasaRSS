@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "@1900'Blog",
+      "title": "我为什么写博客",
+      "published": "18 Jan 2026",
+      "link": "https://1900.live/wo-wei-shi-yao-xie-bo-ke/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "核电站",
       "title": "受关注的需求",
       "published": "17 Jan 2026",
@@ -13,13 +20,6 @@
       "published": "16 Jan 2026",
       "link": "https://ihaihe.cn/3480.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "@1900'Blog",
-      "title": "我的娱乐启蒙：影视篇",
-      "published": "16 Jan 2026",
-      "link": "https://1900.live/wo-de-yu-le-qi-meng-ying-shi-pian/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月18日 02:07:32"
+  "updated": "2026年01月18日 04:07:45"
 }
