@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "好女人是不会去学女利那套东西的",
-      "published": "18 Jan 2026",
-      "link": "https://hwv430.blogspot.com/2026/01/blog-post_88.html",
+      "title": "弱者不配学强者说话",
+      "published": "19 Jan 2026",
+      "link": "https://hwv430.blogspot.com/2026/01/blog-post_85.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "白板报",
+      "title": "说一说我所知道的「棋圣」聂卫平",
+      "published": "19 Jan 2026",
+      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
       "blog_name": "心的道理",
@@ -57,18 +64,18 @@
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
-      "blog_name": "Homepage on Miao Yu | 于淼",
-      "title": "最小大语言模型",
-      "published": "14 Jan 2026",
-      "link": "https://yufree.cn/cn/2026/01/14/sllm/",
-      "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
       "blog_name": "Limboy's Essays",
       "title": "黑白厨师",
       "published": "14 Jan 2026",
       "link": "https://limboy.me/posts/culinary-class-wars",
       "avatar": "https://limboy.me/favicon.ico"
+    },
+    {
+      "blog_name": "Homepage on Miao Yu | 于淼",
+      "title": "最小大语言模型",
+      "published": "14 Jan 2026",
+      "link": "https://yufree.cn/cn/2026/01/14/sllm/",
+      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "唐巧的博客",
@@ -97,13 +104,6 @@
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
       "avatar": "https://www.loyhome.com/favicon.ico"
-    },
-    {
-      "blog_name": "白板报",
-      "title": "纪念我的母亲：在追思会上的发言",
-      "published": "22 Dec 2025",
-      "link": "https://wangpei.net/2025/12/%e7%ba%aa%e5%bf%b5%e6%88%91%e7%9a%84%e6%af%8d%e4%ba%b2%ef%bc%9a%e5%9c%a8%e8%bf%bd%e6%80%9d%e4%bc%9a%e4%b8%8a%e7%9a%84%e5%8f%91%e8%a8%80/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
       "blog_name": "Kevin's",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月19日 13:50:56"
+  "updated": "2026年01月19日 14:31:17"
 }
