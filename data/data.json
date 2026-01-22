@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "什么叫“有效阅读”？",
+      "title": "家里不能养闲人",
       "published": "22 Jan 2026",
-      "link": "https://hwv430.blogspot.com/2026/01/blog-post_45.html",
+      "link": "https://hwv430.blogspot.com/2026/01/blog-post_23.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "AI native Workspace 也许是智能体的下一阶段",
+      "published": "22 Jan 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -50,25 +57,11 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
-      "blog_name": "白板报",
-      "title": "说一说我所知道的「棋圣」聂卫平",
-      "published": "19 Jan 2026",
-      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
-    },
-    {
       "blog_name": "我们叁",
       "title": "感冒",
       "published": "16 Jan 2026",
       "link": "https://ihaihe.cn/3480.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
-      "published": "16 Jan 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -162,5 +155,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月22日 15:35:25"
+  "updated": "2026年01月22日 16:40:00"
 }
