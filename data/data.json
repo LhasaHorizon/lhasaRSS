@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
+      "published": "23 Jan 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "家里不能养闲人",
       "published": "22 Jan 2026",
       "link": "https://hwv430.blogspot.com/2026/01/blog-post_23.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "AI native Workspace 也许是智能体的下一阶段",
-      "published": "22 Jan 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -41,13 +41,6 @@
       "published": "22 Jan 2026",
       "link": "https://blog.zhheo.com/p/obo78geq.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "卡巴斯基引发的网络异常",
-      "published": "22 Jan 2026",
-      "link": "https://zhongxiaojie.com/2026/01/208/",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "心的道理",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月23日 02:00:09"
+  "updated": "2026年01月23日 03:48:44"
 }
