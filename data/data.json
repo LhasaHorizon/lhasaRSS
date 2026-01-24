@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "理财学习笔记（一）：每个人必须自己懂理财",
+      "published": "24 Jan 2026",
+      "link": "https://blog.devtang.com/2026/01/24/personal-finance-note-1/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "认知和运动储备",
       "published": "23 Jan 2026",
@@ -99,13 +106,6 @@
       "avatar": "https://limboy.me/favicon.ico"
     },
     {
-      "blog_name": "唐巧的博客",
-      "title": "CSPJ 教学思考：背包问题",
-      "published": "11 Jan 2026",
-      "link": "https://blog.devtang.com/2026/01/11/pack-problem-of-dp/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
       "blog_name": "青山小站",
       "title": "总要写点什么吧（二）：两则怪梦记",
       "published": "11 Jan 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月23日 23:25:35"
+  "updated": "2026年01月24日 01:57:13"
 }
