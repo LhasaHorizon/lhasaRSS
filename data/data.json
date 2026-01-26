@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "1900的灯泡店",
+      "title": "从记账漫想到金钱观",
+      "published": "26 Jan 2026",
+      "link": "https://1900.live/cong-ji-zhang-man-xiang-dao-jin-qian-guan/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "夜长梦太多",
       "published": "26 Jan 2026",
@@ -27,13 +34,6 @@
       "published": "24 Jan 2026",
       "link": "https://blog.codingnow.com/2026/01/solo_boardgame.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "1900的灯泡店",
-      "title": "有答案和没结果",
-      "published": "24 Jan 2026",
-      "link": "https://1900.live/you-da-an-he-mei-jie-guo/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "唐巧的博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月26日 02:09:59"
+  "updated": "2026年01月26日 04:17:47"
 }
