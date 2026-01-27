@@ -148,13 +148,6 @@
       "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
-      "blog_name": "可能吧",
-      "title": "那么，我是如何使用 ChatGPT 的",
-      "published": "24 Jan 2024",
-      "link": "https://kenengba.com/post/3800.html",
-      "avatar": "https://kenengba.com/favicon.ico"
-    },
-    {
       "blog_name": "风雪之隅",
       "title": "PHP8.0的Named Parameter",
       "published": "10 May 2022",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月27日 17:31:16"
+  "updated": "2026年01月27日 18:44:56"
 }
