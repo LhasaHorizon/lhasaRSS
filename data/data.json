@@ -8,18 +8,25 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
+      "blog_name": "Limboy's Essays",
+      "title": "Coding Agent 时代，App 的核心竞争力是什么？",
+      "published": "29 Jan 2026",
+      "link": "https://limboy.me/posts/coding-agent-app-core-compentencies",
+      "avatar": "https://limboy.me/favicon.ico"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "死缠烂打",
+      "published": "28 Jan 2026",
+      "link": "https://oba.by/2026/01/284/",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "1900的灯泡店",
       "title": "我「想」这样教育孩子",
       "published": "28 Jan 2026",
       "link": "https://1900.live/wo-xiang-zhe-yang-jiao-yu-hai-zi/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "Limboy's Essays",
-      "title": "我的笔记系统",
-      "published": "28 Jan 2026",
-      "link": "https://limboy.me/posts/my-notes-system",
-      "avatar": "https://limboy.me/favicon.ico"
     },
     {
       "blog_name": "核电站",
@@ -47,7 +54,7 @@
       "title": "松声｜廿六年·雪后早上",
       "published": "23 Jan 2026",
       "link": "https://xyzbz.cn/archives/1506/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -110,7 +117,7 @@
       "title": "空间躁动症",
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Kevin's",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月29日 06:54:19"
+  "updated": "2026年01月29日 07:42:26"
 }
