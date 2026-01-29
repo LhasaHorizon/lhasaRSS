@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "死缠烂打",
-      "published": "28 Jan 2026",
-      "link": "https://oba.by/2026/01/284/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "blog_name": "唐巧的博客",
+      "title": "理财学习笔记(2)：不懂不投",
+      "published": "29 Jan 2026",
+      "link": "https://blog.devtang.com/2026/01/29/personal-finance-note-2/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "1900的灯泡店",
@@ -41,13 +41,6 @@
       "published": "24 Jan 2026",
       "link": "https://blog.codingnow.com/2026/01/solo_boardgame.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "理财学习笔记（一）：每个人必须自己懂理财",
-      "published": "24 Jan 2026",
-      "link": "https://blog.devtang.com/2026/01/24/personal-finance-note-1/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -117,7 +110,7 @@
       "title": "空间躁动症",
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Kevin's",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年01月28日 23:29:58"
+  "updated": "2026年01月29日 02:24:44"
 }
