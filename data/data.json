@@ -40,7 +40,7 @@
       "title": "红包封面：祝大家新的一年发大财啦！",
       "published": "04 Feb 2026",
       "link": "https://blog.zhheo.com/p/ulnwjohw.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -99,6 +99,13 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
+      "blog_name": "白板报",
+      "title": "说一说我所知道的「棋圣」聂卫平",
+      "published": "19 Jan 2026",
+      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
+    },
+    {
       "blog_name": "青山小站",
       "title": "总要写点什么吧（二）：两则怪梦记",
       "published": "11 Jan 2026",
@@ -155,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月07日 10:30:59"
+  "updated": "2026年02月07日 11:25:27"
 }
