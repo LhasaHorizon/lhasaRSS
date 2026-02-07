@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "1900的灯泡店",
+      "title": "我居然从淘宝买了6000元的衣服",
+      "published": "07 Feb 2026",
+      "link": "https://1900.live/wo-ju-ran-cong-tao-bao-mai-liao-6000yuan-de-yi-fu/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 384 期）：为什么软件股下跌",
       "published": "06 Feb 2026",
@@ -20,13 +27,6 @@
       "published": "05 Feb 2026",
       "link": "https://ihaihe.cn/3490.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "1900的灯泡店",
-      "title": "拉面师傅大脑和面团时间",
-      "published": "05 Feb 2026",
-      "link": "https://1900.live/la-mian-shi-fu-da-nao-he-mian-tuan-shi-jian/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -124,7 +124,7 @@
       "title": "空间躁动症",
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "Airing 的博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月07日 02:23:12"
+  "updated": "2026年02月07日 04:40:26"
 }
