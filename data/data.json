@@ -78,13 +78,6 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
-      "blog_name": "云风的 BLOG",
-      "title": "介绍几款单人桌游",
-      "published": "24 Jan 2026",
-      "link": "https://blog.codingnow.com/2026/01/solo_boardgame.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "Hello World! I'm Back to Blogging!",
       "published": "23 Jan 2026",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月08日 02:49:56"
+  "updated": "2026年02月08日 05:06:34"
 }
