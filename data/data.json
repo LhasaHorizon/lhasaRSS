@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "我们叁",
+      "title": "冒犯",
+      "published": "09 Feb 2026",
+      "link": "https://ihaihe.cn/3499.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "大规模战役取胜比以少胜多更难打",
       "published": "09 Feb 2026",
@@ -34,13 +41,6 @@
       "published": "06 Feb 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-384.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "我们叁",
-      "title": "2月周记一",
-      "published": "05 Feb 2026",
-      "link": "https://ihaihe.cn/3490.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
       "blog_name": "Kevin's",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月09日 02:34:45"
+  "updated": "2026年02月09日 05:03:31"
 }
