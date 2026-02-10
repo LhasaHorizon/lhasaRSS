@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "读《控糖革命》",
+      "published": "10 Feb 2026",
+      "link": "https://blog.devtang.com/2026/02/10/sugar-control-revolution-book-summary/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "小年",
       "published": "10 Feb 2026",
@@ -85,13 +92,6 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
-      "blog_name": "唐巧的博客",
-      "title": "理财学习笔记(2)：不懂不投",
-      "published": "29 Jan 2026",
-      "link": "https://blog.devtang.com/2026/01/29/personal-finance-note-2/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
       "blog_name": "云风的 BLOG",
       "title": "介绍几款单人桌游",
       "published": "24 Jan 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月10日 15:01:42"
+  "updated": "2026年02月10日 17:05:38"
 }
