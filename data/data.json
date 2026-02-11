@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "日常锻炼的一些记录",
+      "published": "11 Feb 2026",
+      "link": "https://blog.codingnow.com/2026/02/physical_training.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "职场内做事技巧",
       "published": "10 Feb 2026",
@@ -92,13 +99,6 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
-      "blog_name": "云风的 BLOG",
-      "title": "介绍几款单人桌游",
-      "published": "24 Jan 2026",
-      "link": "https://blog.codingnow.com/2026/01/solo_boardgame.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
       "blog_name": "运维咖啡吧",
       "title": "2025年度总结｜生活篇",
       "published": "22 Jan 2026",
@@ -124,7 +124,7 @@
       "title": "空间躁动症",
       "published": "30 Dec 2025",
       "link": "https://www.loyhome.com/%e7%a9%ba%e9%97%b4%e8%ba%81%e5%8a%a8%e7%97%87/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "Airing 的博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月11日 09:56:47"
+  "updated": "2026年02月11日 10:57:10"
 }
