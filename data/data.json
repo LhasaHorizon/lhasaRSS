@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "子夜松声",
+      "title": "斐讯N1安装飞牛OS",
+      "published": "11 Feb 2026",
+      "link": "https://xyzbz.cn/archives/1513/",
+      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "成功的男人不和女人同居",
       "published": "11 Feb 2026",
@@ -85,13 +92,6 @@
       "avatar": "https://limboy.me/favicon.ico"
     },
     {
-      "blog_name": "子夜松声",
-      "title": "松声｜廿六年·一月暮·岁灯残",
-      "published": "30 Jan 2026",
-      "link": "https://xyzbz.cn/archives/1509/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
-    },
-    {
       "blog_name": "心的道理",
       "title": "检查伴侣的手机：中国亲密关系中的一个恶习",
       "published": "29 Jan 2026",
@@ -111,6 +111,13 @@
       "published": "21 Jan 2026",
       "link": "https://yufree.cn/cn/2026/01/21/wechat-mini-program/",
       "avatar": "https://yufree.cn/favicon.ico"
+    },
+    {
+      "blog_name": "白板报",
+      "title": "说一说我所知道的「棋圣」聂卫平",
+      "published": "19 Jan 2026",
+      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
       "blog_name": "落园",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月11日 20:42:52"
+  "updated": "2026年02月11日 21:36:37"
 }
