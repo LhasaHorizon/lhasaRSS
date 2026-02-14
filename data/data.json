@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 385 期）：马斯克害怕中国车企吗？",
-      "published": "12 Feb 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-385.html",
+      "title": "字节全家桶 Seed 2.0 + TRAE 玩转 Skill",
+      "published": "14 Feb 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html",
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月14日 14:30:51"
+  "updated": "2026年02月14日 15:29:40"
 }
