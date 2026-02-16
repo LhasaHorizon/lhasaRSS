@@ -36,13 +36,6 @@
       "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
-      "blog_name": "落园",
-      "title": "p人的能量退化",
-      "published": "16 Feb 2026",
-      "link": "https://www.loyhome.com/p%e4%ba%ba%e7%9a%84%e8%83%bd%e9%87%8f%e9%80%80%e5%8c%96/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
-    },
-    {
       "blog_name": "青山小站",
       "title": "家庭煮夫",
       "published": "15 Feb 2026",
@@ -75,7 +68,7 @@
       "title": "R.I.P., John Fox",
       "published": "10 Feb 2026",
       "link": "https://yihui.org/en/2026/02/john-fox/",
-      "avatar": "https://yihui.org/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "1900的灯泡店",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月16日 19:34:15"
+  "updated": "2026年02月16日 20:37:02"
 }
