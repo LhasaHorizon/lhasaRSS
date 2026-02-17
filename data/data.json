@@ -26,7 +26,7 @@
       "title": "松声｜廿六年·二月中·迎新春",
       "published": "16 Feb 2026",
       "link": "https://xyzbz.cn/archives/1515/",
-      "avatar": "https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -40,7 +40,7 @@
       "title": "p人的能量退化",
       "published": "16 Feb 2026",
       "link": "https://www.loyhome.com/p%e4%ba%ba%e7%9a%84%e8%83%bd%e9%87%8f%e9%80%80%e5%8c%96/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "青山小站",
@@ -127,6 +127,13 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
+      "blog_name": "白板报",
+      "title": "说一说我所知道的「棋圣」聂卫平",
+      "published": "19 Jan 2026",
+      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
+    },
+    {
       "blog_name": "孔令贤的个人博客",
       "title": "202505 - 近况",
       "published": "25 May 2025",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月17日 07:12:29"
+  "updated": "2026年02月17日 08:52:19"
 }
