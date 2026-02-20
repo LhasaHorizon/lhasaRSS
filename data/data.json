@@ -127,6 +127,13 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
+      "blog_name": "白板报",
+      "title": "说一说我所知道的「棋圣」聂卫平",
+      "published": "19 Jan 2026",
+      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
+    },
+    {
       "blog_name": "孔令贤的个人博客",
       "title": "202505 - 近况",
       "published": "25 May 2025",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月20日 09:45:40"
+  "updated": "2026年02月20日 10:40:59"
 }
