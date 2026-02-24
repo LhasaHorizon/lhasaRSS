@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "科学成佛",
+      "title": "有钱人与没钱人最大的差距，从来不是钱",
       "published": "24 Feb 2026",
-      "link": "https://hwv430.blogspot.com/2026/02/blog-post_96.html",
+      "link": "https://hwv430.blogspot.com/2026/02/blog-post_25.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -61,7 +61,7 @@
       "title": "p人的能量退化",
       "published": "16 Feb 2026",
       "link": "https://www.loyhome.com/p%e4%ba%ba%e7%9a%84%e8%83%bd%e9%87%8f%e9%80%80%e5%8c%96/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "青山小站",
@@ -152,7 +152,7 @@
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://kenengba.com/favicon.ico"
     },
     {
       "blog_name": "风雪之隅",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月24日 16:03:56"
+  "updated": "2026年02月24日 17:57:21"
 }
