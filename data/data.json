@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "像素工坊",
+      "title": "修图先降噪还是调色？摄影后期的正确顺序解析",
+      "published": "25 Feb 2026",
+      "link": "https://www.shephe.com/photography/edit-or-denoise-first-photo-editing-workflow/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "怎样反驳别人？",
       "published": "25 Feb 2026",
@@ -20,13 +27,6 @@
       "published": "25 Feb 2026",
       "link": "https://1900.live/278-yu-shui/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "像素工坊",
-      "title": "删繁就简，重新出发 —— 关于启用新域名的说明",
-      "published": "23 Feb 2026",
-      "link": "https://www.shephe.com/post/lyoo/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -54,7 +54,7 @@
       "title": "松声｜廿六年·二月中·迎新春",
       "published": "16 Feb 2026",
       "link": "https://xyzbz.cn/archives/1515/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年02月25日 23:31:16"
+  "updated": "2026年02月26日 02:26:54"
 }
