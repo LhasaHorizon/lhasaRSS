@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "如何创作AI歌曲？从生成歌词、歌曲创作、专辑封面到音乐发行",
+      "published": "03 Mar 2026",
+      "link": "https://blog.zhheo.com/p/cpw1bogx.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "核电站",
       "title": "积累词汇量是学习的必经之路",
       "published": "03 Mar 2026",
@@ -12,7 +19,7 @@
       "title": "High Agency人格",
       "published": "02 Mar 2026",
       "link": "https://www.loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -62,13 +69,6 @@
       "published": "27 Feb 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "洪绘历史记录发布！无限存储你的浏览器历史记录，防止历史记录被自动删除",
-      "published": "25 Feb 2026",
-      "link": "https://blog.zhheo.com/p/0tr5lmby.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "1900的灯泡店",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月03日 02:31:26"
+  "updated": "2026年03月03日 04:48:54"
 }
