@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "像素工坊",
+      "title": "Photoshop 文字助手 (textAssistant)插件下载和使用",
+      "published": "10 Mar 2026",
+      "link": "https://www.shephe.com/resources/photoshop-textassistant/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "注意力是一种奢侈品",
       "published": "09 Mar 2026",
@@ -13,13 +20,6 @@
       "published": "09 Mar 2026",
       "link": "https://zhongxiaojie.cn/2026/03/577/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "像素工坊",
-      "title": "CompressO：轻量、高效的免费视频压缩工具 🎞️",
-      "published": "09 Mar 2026",
-      "link": "https://www.shephe.com/resources/compresso/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
       "blog_name": "我们叁",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月09日 23:31:35"
+  "updated": "2026年03月10日 02:23:19"
 }
