@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "零安装的\"云养虾\"：ArkClaw 使用指南",
+      "published": "12 Mar 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/arkclaw.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "上流社会仅仅是资源和关系多一些",
       "published": "12 Mar 2026",
@@ -69,13 +76,6 @@
       "published": "06 Mar 2026",
       "link": "https://1900.live/279-liang-zhi/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 387 期）：你是领先的",
-      "published": "05 Mar 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月12日 08:50:25"
+  "updated": "2026年03月12日 09:49:53"
 }
