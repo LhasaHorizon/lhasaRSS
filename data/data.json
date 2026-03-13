@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "外貌评价的通词膨胀",
+      "published": "13 Mar 2026",
+      "link": "https://hwv430.blogspot.com/2026/03/blog-post_94.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 388 期）：测试是新的护城河",
+      "published": "12 Mar 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "她不爱他",
       "published": "12 Mar 2026",
       "link": "https://zhongxiaojie.cn/2026/03/589/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "零安装的\"云养虾\"：ArkClaw 使用指南",
-      "published": "12 Mar 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/arkclaw.html",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "上流社会仅仅是资源和关系多一些",
-      "published": "12 Mar 2026",
-      "link": "https://hwv430.blogspot.com/2026/03/blog-post_67.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "青山小站",
@@ -89,7 +89,7 @@
       "title": "High Agency人格",
       "published": "02 Mar 2026",
       "link": "https://www.loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月12日 23:31:29"
+  "updated": "2026年03月13日 02:26:51"
 }
