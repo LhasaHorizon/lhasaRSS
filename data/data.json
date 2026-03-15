@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "像素工坊",
-      "title": "为什么 Adobe 提示“您所在国家 / 地区不支持此购买”？原因、限制与解决办法",
+      "title": "Photoshop 中集成的创成式 AI 模型有哪些？分别适合做什么？",
       "published": "15 Mar 2026",
-      "link": "https://www.shephe.com/tutorial/adobe-your-country-or-region-is-not-supported-for-this-purchase/",
+      "link": "https://www.shephe.com/post/photoshop-generate-fill-ai-model/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
@@ -33,7 +33,7 @@
       "title": "开源项目目录📇",
       "published": "14 Mar 2026",
       "link": "https://zhongxiaojie.cn/2026/03/593/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月15日 13:00:47"
+  "updated": "2026年03月15日 14:34:18"
 }
