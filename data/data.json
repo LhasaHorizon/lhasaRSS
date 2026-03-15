@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "在中国不可能有好家政",
+      "title": "写进刑法的东西并不怎么赚钱",
       "published": "15 Mar 2026",
-      "link": "https://hwv430.blogspot.com/2026/03/blog-post_30.html",
+      "link": "https://hwv430.blogspot.com/2026/03/blog-post_45.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -55,6 +55,13 @@
       "published": "11 Mar 2026",
       "link": "https://blog.yanqingshan.com/244.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
+      "blog_name": "我们叁",
+      "title": "不值得可怜",
+      "published": "11 Mar 2026",
+      "link": "https://ihaihe.cn/3524.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -155,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月15日 19:31:19"
+  "updated": "2026年03月15日 20:34:43"
 }
