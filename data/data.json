@@ -8,11 +8,18 @@
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "腾讯QClaw上手：打通微信很方便，但是性能上略有不足",
+      "published": "17 Mar 2026",
+      "link": "https://blog.zhheo.com/p/bn8aror2.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·三月中·燕衔泥",
       "published": "16 Mar 2026",
       "link": "https://xyzbz.cn/archives/1522/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "核电站",
@@ -20,13 +27,6 @@
       "published": "16 Mar 2026",
       "link": "https://hwv430.blogspot.com/2026/03/blog-post_80.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "阿里 JVS Claw 上手：都这么多天了，养虾的门槛被打下来了吗？",
-      "published": "16 Mar 2026",
-      "link": "https://blog.zhheo.com/p/ey4573gn.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "像素工坊",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月17日 10:01:20"
+  "updated": "2026年03月17日 11:44:36"
 }
