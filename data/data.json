@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "普通人怎么拥有千万资产？",
+      "published": "19 Mar 2026",
+      "link": "https://hwv430.blogspot.com/2026/03/blog-post_76.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "如何对待财产欲，即金钱欲和物欲的总和",
       "published": "19 Mar 2026",
@@ -13,13 +20,6 @@
       "published": "19 Mar 2026",
       "link": "https://zhongxiaojie.cn/2026/03/610/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "金钱 美女 学历 背后的排序真相\n\n",
-      "published": "19 Mar 2026",
-      "link": "https://hwv430.blogspot.com/2026/03/blog-post_92.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "我们叁",
@@ -96,7 +96,7 @@
       "title": "High Agency人格",
       "published": "02 Mar 2026",
       "link": "https://www.loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -134,6 +134,13 @@
       "avatar": "https://limboy.me/favicon.ico"
     },
     {
+      "blog_name": "白板报",
+      "title": "说一说我所知道的「棋圣」聂卫平",
+      "published": "19 Jan 2026",
+      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
+    },
+    {
       "blog_name": "扯氮集",
       "title": "百度的槽点到底在哪里",
       "published": "11 May 2024",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月19日 11:39:29"
+  "updated": "2026年03月19日 13:13:14"
 }
