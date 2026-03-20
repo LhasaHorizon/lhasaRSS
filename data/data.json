@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 389 期）：未来如何招聘程序员",
+      "published": "19 Mar 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "普通人怎么拥有千万资产？",
       "published": "19 Mar 2026",
@@ -62,13 +69,6 @@
       "published": "14 Mar 2026",
       "link": "https://blog.ops-coffee.com/s/ai-coding-integrated-finance-app.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 388 期）：测试是新的护城河",
-      "published": "12 Mar 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-388.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "青山小站",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月19日 23:35:21"
+  "updated": "2026年03月20日 02:27:47"
 }
