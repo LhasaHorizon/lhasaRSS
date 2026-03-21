@@ -15,6 +15,13 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "套壳中国大模型撑起500亿美元估值？扒一扒 Cursor 的\"套壳\"疑云",
+      "published": "21 Mar 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "1900的灯泡店",
       "title": "280、春分",
       "published": "20 Mar 2026",
@@ -41,13 +48,6 @@
       "published": "20 Mar 2026",
       "link": "https://blog.zhheo.com/p/iu5f3hvj.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 389 期）：未来如何招聘程序员",
-      "published": "19 Mar 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "心的道理",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月21日 11:27:17"
+  "updated": "2026年03月21日 12:57:32"
 }
