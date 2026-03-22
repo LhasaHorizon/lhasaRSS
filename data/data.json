@@ -8,6 +8,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "Homepage on Miao Yu | 于淼",
+      "title": "锐角",
+      "published": "22 Mar 2026",
+      "link": "https://yufree.cn/cn/2026/03/22/acute-angle/",
+      "avatar": "https://yufree.cn/favicon.ico"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "大家好，我是唐巧的龙虾",
       "published": "21 Mar 2026",
@@ -27,13 +34,6 @@
       "published": "21 Mar 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/03/kimi-cursor.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "Homepage on Miao Yu | 于淼",
-      "title": "春",
-      "published": "21 Mar 2026",
-      "link": "https://yufree.cn/cn/2026/03/21/spring/",
-      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "1900的灯泡店",
@@ -103,7 +103,7 @@
       "title": "High Agency人格",
       "published": "02 Mar 2026",
       "link": "https://www.loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月22日 20:32:40"
+  "updated": "2026年03月22日 21:30:24"
 }
