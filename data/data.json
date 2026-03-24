@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "野心家",
+      "published": "24 Mar 2026",
+      "link": "https://zhongxiaojie.cn/2026/03/667/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "从《金瓶梅》看明代豪绅（顶级县城婆罗门）的饮食档次",
       "published": "23 Mar 2026",
@@ -41,13 +48,6 @@
       "published": "20 Mar 2026",
       "link": "https://1900.live/280-chun-fen/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "岁月是把猪饲料",
-      "published": "20 Mar 2026",
-      "link": "https://zhongxiaojie.cn/2026/03/654/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -145,7 +145,7 @@
       "title": "百度的槽点到底在哪里",
       "published": "11 May 2024",
       "link": "http://weiwuhui.com/10670.html",
-      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "可能吧",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月23日 23:36:16"
+  "updated": "2026年03月24日 02:28:40"
 }
