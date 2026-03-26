@@ -68,7 +68,7 @@
       "title": "洪绘星空发布：一个值得逛的博客友链朋友圈",
       "published": "20 Mar 2026",
       "link": "https://blog.zhheo.com/p/iu5f3hvj.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -97,6 +97,13 @@
       "published": "11 Mar 2026",
       "link": "https://blog.codingnow.com/2026/03/soluna_external_lib.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
+      "blog_name": "落园",
+      "title": "High Agency人格",
+      "published": "02 Mar 2026",
+      "link": "https://www.loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月26日 15:08:16"
+  "updated": "2026年03月26日 17:06:29"
 }
