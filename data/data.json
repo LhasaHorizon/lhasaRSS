@@ -43,6 +43,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "Homepage on Yihui Xie | 谢益辉",
+      "title": "A CDN-backed CTAN Mirror: `tlnet.yihui.org`",
+      "published": "28 Mar 2026",
+      "link": "https://yihui.org/en/2026/03/tinytex-ctan-mirror/",
+      "avatar": "https://yihui.org/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "简单的快乐",
       "published": "27 Mar 2026",
@@ -103,7 +110,7 @@
       "title": "High Agency人格",
       "published": "02 Mar 2026",
       "link": "https://www.loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -118,13 +125,6 @@
       "published": "15 Feb 2026",
       "link": "https://blog.ursb.me/posts/summary-2025/",
       "avatar": "https://i.typlog.com/airing/8295011803_9008465.png?x-oss-process=style/sl"
-    },
-    {
-      "blog_name": "Homepage on Yihui Xie | 谢益辉",
-      "title": "R.I.P., John Fox",
-      "published": "10 Feb 2026",
-      "link": "https://yihui.org/en/2026/02/john-fox/",
-      "avatar": "https://yihui.org/favicon.ico"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月29日 05:13:52"
+  "updated": "2026年03月29日 07:10:07"
 }
