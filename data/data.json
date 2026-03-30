@@ -1,24 +1,24 @@
 {
   "items": [
     {
-      "blog_name": "像素工坊",
-      "title": "Adobe Lightroom Classic 15.2.1 更新了什么？实测体验（附下载方式）",
-      "published": "30 Mar 2026",
-      "link": "https://www.shephe.com/post/adobe-lightroom-classic-15-2-1/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
-    },
-    {
       "blog_name": "核电站",
-      "title": "男人为什么这么恨女人出轨？",
-      "published": "29 Mar 2026",
-      "link": "https://hwv430.blogspot.com/2026/03/blog-post_79.html",
+      "title": "“老了谁管你？”",
+      "published": "30 Mar 2026",
+      "link": "https://hwv430.blogspot.com/2026/03/blog-post_72.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "像素工坊",
+      "title": "Photoshop 使用生成式 AI 提示：我们遇到了问题，目前无法完成您的请求",
+      "published": "30 Mar 2026",
+      "link": "https://www.shephe.com/tutorial/photoshop-generative-ai-cannot-complete-request-fix/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "m3u8 downloader v26.03.28",
-      "published": "29 Mar 2026",
-      "link": "https://zhongxiaojie.cn/2026/03/741/",
+      "title": "局部有雨",
+      "published": "30 Mar 2026",
+      "link": "https://zhongxiaojie.cn/2026/03/746/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
@@ -110,7 +110,7 @@
       "title": "High Agency人格",
       "published": "02 Mar 2026",
       "link": "https://www.loyhome.com/high-agency%e4%ba%ba%e6%a0%bc/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月30日 02:49:07"
+  "updated": "2026年03月30日 05:28:45"
 }
