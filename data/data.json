@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "逝去的学生时代",
+      "published": "31 Mar 2026",
+      "link": "https://stephenleng.com/cn/shiqu-xuesheng-shidai/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "核电站",
       "title": "人生避坑",
       "published": "31 Mar 2026",
@@ -69,13 +76,6 @@
       "published": "26 Mar 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-390.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "对等性：亲密关系正常运转的基础",
-      "published": "26 Mar 2026",
-      "link": "https://stephenleng.com/cn/duidengxing-qinmi-guanxi-jichu/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年03月31日 07:21:16"
+  "updated": "2026年03月31日 09:05:02"
 }
