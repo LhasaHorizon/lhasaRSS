@@ -115,3 +115,12 @@
 [2026-04-06 20:41:00] ✘ 有 2 条订阅头像无法访问, 已使用默认头像:
 [2026-04-06 20:41:00] - https://www.loyhome.com/feed
 [2026-04-06 20:41:00] - http://feeds.feedburner.com/ruanyifeng
+[2026-04-06 21:40:49] 本次订阅抓取结果统计:
+[2026-04-06 21:40:49] 共 28 条RSS, 成功抓取 24 条.
+[2026-04-06 21:40:49] ✘ 有 4 条订阅解析失败:
+[2026-04-06 21:40:49] - https://blog.pursuitus.com/feed
+[2026-04-06 21:40:49] - https://geekinney.com/index.xml
+[2026-04-06 21:40:49] - https://tcxx.info/feed
+[2026-04-06 21:40:49] - https://tumutanzi.com/feed
+[2026-04-06 21:40:49] ✘ 有 1 条订阅头像无法访问, 已使用默认头像:
+[2026-04-06 21:40:49] - http://feeds.feedburner.com/ruanyifeng
