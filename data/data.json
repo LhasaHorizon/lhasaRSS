@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "我们叁",
+      "title": "特斯拉FSD辅助驾驶初体验",
+      "published": "07 Apr 2026",
+      "link": "https://ihaihe.cn/3619.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "世界那么大，我一点不想看",
       "published": "06 Apr 2026",
@@ -55,13 +62,6 @@
       "published": "03 Apr 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "我们叁",
-      "title": "房子卖出去了",
-      "published": "01 Apr 2026",
-      "link": "https://ihaihe.cn/3602.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
       "blog_name": "子夜松声",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月06日 23:39:29"
+  "updated": "2026年04月07日 02:43:44"
 }
