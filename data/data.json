@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "白幼瘦是屌丝审美",
+      "title": "平等是混乱的元凶，等级关系是一切秩序的前提",
       "published": "07 Apr 2026",
-      "link": "https://hwv430.blogspot.com/2026/04/blog-post_08.html",
+      "link": "https://hwv430.blogspot.com/2026/04/blog-post_52.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -54,7 +54,7 @@
       "title": "网站搬了个家",
       "published": "05 Apr 2026",
       "link": "https://www.loyhome.com/%e7%bd%91%e7%ab%99%e6%90%ac%e4%ba%86%e4%b8%aa%e5%ae%b6/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "Airing 的博客",
@@ -106,6 +106,13 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "soluna 外挂 C 模块",
       "published": "11 Mar 2026",
@@ -138,7 +145,7 @@
       "title": "百度的槽点到底在哪里",
       "published": "11 May 2024",
       "link": "http://weiwuhui.com/10670.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "可能吧",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月07日 17:03:55"
+  "updated": "2026年04月07日 19:09:27"
 }
