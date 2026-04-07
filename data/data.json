@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "超越地域性与普遍人",
+      "published": "07 Apr 2026",
+      "link": "https://stephenleng.com/cn/diyuxing-pubianren/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "抖音iframe代码生成器：将抖音链接转为可嵌入网页的iframe代码",
       "published": "07 Apr 2026",
@@ -47,7 +54,7 @@
       "title": "网站搬了个家",
       "published": "05 Apr 2026",
       "link": "https://www.loyhome.com/%e7%bd%91%e7%ab%99%e6%90%ac%e4%ba%86%e4%b8%aa%e5%ae%b6/",
-      "avatar": "https://www.loyhome.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Airing 的博客",
@@ -83,13 +90,6 @@
       "published": "31 Mar 2026",
       "link": "https://blog.ops-coffee.com/fire/integrated-finance-refund-ethics-app-update.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "逝去的学生时代",
-      "published": "31 Mar 2026",
-      "link": "https://stephenleng.com/cn/shiqu-xuesheng-shidai/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月07日 13:53:19"
+  "updated": "2026年04月07日 15:13:17"
 }
