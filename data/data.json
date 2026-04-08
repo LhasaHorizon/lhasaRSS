@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "符合、合同、金龟婿的由来",
+      "title": "别把 “适合”，错当成偏爱",
       "published": "08 Apr 2026",
-      "link": "https://hwv430.blogspot.com/2026/04/blog-post_09.html",
+      "link": "https://hwv430.blogspot.com/2026/04/blog-post_979.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -61,7 +61,7 @@
       "title": "网站搬了个家",
       "published": "05 Apr 2026",
       "link": "https://www.loyhome.com/%e7%bd%91%e7%ab%99%e6%90%ac%e4%ba%86%e4%b8%aa%e5%ae%b6/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://www.loyhome.com/favicon.ico"
     },
     {
       "blog_name": "Airing 的博客",
@@ -104,6 +104,13 @@
       "published": "22 Mar 2026",
       "link": "https://yufree.cn/cn/2026/03/22/acute-angle/",
       "avatar": "https://yufree.cn/favicon.ico"
+    },
+    {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月08日 19:21:54"
+  "updated": "2026年04月08日 20:50:04"
 }
