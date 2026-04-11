@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "写给设计师：如何设计一份 AI 友好的设计规范",
+      "published": "11 Apr 2026",
+      "link": "https://blog.devtang.com/2026/04/11/ai-friendly-design-spec/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "利用好女人的“不经意”",
       "published": "11 Apr 2026",
@@ -41,13 +48,6 @@
       "published": "09 Apr 2026",
       "link": "https://yufree.cn/cn/2026/04/09/condense/",
       "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "OpenClaw Memory Wiki 技术文档",
-      "published": "08 Apr 2026",
-      "link": "https://blog.devtang.com/2026/04/08/openclaw-memory-wiki-technical-guide/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "像素工坊",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月11日 14:38:48"
+  "updated": "2026年04月11日 15:37:38"
 }
