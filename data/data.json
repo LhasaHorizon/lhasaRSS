@@ -106,6 +106,13 @@
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "soluna 外挂 C 模块",
       "published": "11 Mar 2026",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月11日 07:52:08"
+  "updated": "2026年04月11日 08:51:04"
 }
