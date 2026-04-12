@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "Claude Code 从 AWS Bedrock 切换到 Team 订阅指南",
+      "published": "12 Apr 2026",
+      "link": "https://blog.devtang.com/2026/04/12/switch-bedrock-to-team/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "除法的意义",
       "published": "12 Apr 2026",
@@ -27,13 +34,6 @@
       "published": "11 Apr 2026",
       "link": "https://xyzbz.cn/archives/1525/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "写给设计师：如何设计一份 AI 友好的设计规范",
-      "published": "11 Apr 2026",
-      "link": "https://blog.devtang.com/2026/04/11/ai-friendly-design-spec/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月12日 14:42:26"
+  "updated": "2026年04月12日 15:39:13"
 }
