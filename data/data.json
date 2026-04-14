@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "人在纠结的时候，唯一应该做的是把手头的事做好",
+      "title": "为啥创一代们没情商？",
       "published": "14 Apr 2026",
-      "link": "https://hwv430.blogspot.com/2026/04/blog-post_80.html",
+      "link": "https://hwv430.blogspot.com/2026/04/blog-post_777.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -13,6 +13,13 @@
       "published": "14 Apr 2026",
       "link": "https://zhongxiaojie.cn/2026/04/933/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
+      "blog_name": "Homepage on Yihui Xie | 谢益辉",
+      "title": "R.I.P., Tomas Kalibera",
+      "published": "14 Apr 2026",
+      "link": "https://yihui.org/en/2026/04/tomas-kalibera/",
+      "avatar": "https://yihui.org/favicon.ico"
     },
     {
       "blog_name": "1900的灯泡店",
@@ -99,13 +106,6 @@
       "avatar": "https://airing.ursb.me/image/favicon.ico"
     },
     {
-      "blog_name": "Homepage on Yihui Xie | 谢益辉",
-      "title": "tinyimg: An R Package for Compressing Images",
-      "published": "29 Mar 2026",
-      "link": "https://yihui.org/en/2026/03/tinyimg/",
-      "avatar": "https://yihui.org/favicon.ico"
-    },
-    {
       "blog_name": "青山小站",
       "title": "Dify添加模型max_tokens_too_small异常",
       "published": "11 Mar 2026",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月14日 17:14:09"
+  "updated": "2026年04月14日 19:21:43"
 }
