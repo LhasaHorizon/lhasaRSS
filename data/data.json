@@ -22,6 +22,13 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
+      "blog_name": "Homepage on Miao Yu | 于淼",
+      "title": "魔眼",
+      "published": "15 Apr 2026",
+      "link": "https://yufree.cn/cn/2026/04/15/updated-magic-eye/",
+      "avatar": "https://yufree.cn/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "为啥创一代们没情商？",
       "published": "14 Apr 2026",
@@ -76,13 +83,6 @@
       "published": "09 Apr 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "Homepage on Miao Yu | 于淼",
-      "title": "结丹",
-      "published": "09 Apr 2026",
-      "link": "https://yufree.cn/cn/2026/04/09/condense/",
-      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "我们叁",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月15日 11:02:37"
+  "updated": "2026年04月15日 13:45:58"
 }
