@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "运维咖啡吧",
+      "title": "那个集记账、基金、股票于一体的APP，IOS测试上线",
+      "published": "19 Apr 2026",
+      "link": "https://blog.ops-coffee.com/fire/financial-manager-app-update-and-ios-test-progress.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "兄弟如手足，女人如衣服？",
       "published": "18 Apr 2026",
@@ -76,13 +83,6 @@
       "published": "12 Apr 2026",
       "link": "https://blog.codingnow.com/2026/04/division.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "运维咖啡吧",
-      "title": "那个集记账、基金、股票于一体的APP，又往前迈了一大步",
-      "published": "12 Apr 2026",
-      "link": "https://blog.ops-coffee.com/fire/expense-funds-stock-integrated-finance-app.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
       "blog_name": "我们叁",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月19日 07:42:42"
+  "updated": "2026年04月19日 08:58:52"
 }
