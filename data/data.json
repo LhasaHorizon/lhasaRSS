@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
+      "published": "23 Apr 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "腐败驭官",
       "published": "23 Apr 2026",
@@ -57,13 +64,6 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 393 期）：脑腐状态",
-      "published": "16 Apr 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·四月中·桐花开",
       "published": "15 Apr 2026",
@@ -104,13 +104,6 @@
       "published": "05 Apr 2026",
       "link": "https://ursb.me/posts/weekly-34/",
       "avatar": "https://airing.ursb.me/image/favicon.ico"
-    },
-    {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -155,5 +148,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月23日 23:51:22"
+  "updated": "2026年04月24日 02:56:10"
 }
