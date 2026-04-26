@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "做生意就是与人同欲",
+      "published": "26 Apr 2026",
+      "link": "https://hwv430.blogspot.com/2026/04/blog-post_27.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "在 Github 中通过创建 issue 来唤醒 claude 工作",
       "published": "26 Apr 2026",
@@ -15,13 +22,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "核电站",
-      "title": "男女的异性缘收益",
-      "published": "26 Apr 2026",
-      "link": "https://hwv430.blogspot.com/2026/04/blog-post_258.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
       "blog_name": "1900的灯泡店",
       "title": "和H小姐的约会",
       "published": "26 Apr 2026",
@@ -33,7 +33,7 @@
       "title": "产品，还是玩具？ — Baby Press(缝合怪)",
       "published": "24 Apr 2026",
       "link": "https://zhongxiaojie.cn/2026/04/1141/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月26日 15:46:21"
+  "updated": "2026年04月26日 16:50:14"
 }
