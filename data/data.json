@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "在 Github 中通过创建 issue 来唤醒 claude 工作",
+      "published": "26 Apr 2026",
+      "link": "https://blog.devtang.com/2026/04/26/config-github-app-and-claude-to-create-pr-from-issue/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
+      "blog_name": "运维咖啡吧",
+      "title": "游记｜在宜兴度过一个平淡的假期",
+      "published": "26 Apr 2026",
+      "link": "https://blog.ops-coffee.com/r/city-china-jiangsu-wuxi-yixing-tuanjiu.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "男女的异性缘收益",
       "published": "26 Apr 2026",
@@ -50,13 +64,6 @@
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
-      "blog_name": "运维咖啡吧",
-      "title": "那个集记账、基金、股票于一体的APP，IOS测试上线",
-      "published": "19 Apr 2026",
-      "link": "https://blog.ops-coffee.com/fire/financial-manager-app-update-and-ios-test-progress.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
       "blog_name": "Homepage on Miao Yu | 于淼",
       "title": "自然生活的数学原理",
       "published": "19 Apr 2026",
@@ -68,14 +75,7 @@
       "title": "松声｜廿六年·四月中·桐花开",
       "published": "15 Apr 2026",
       "link": "https://xyzbz.cn/archives/1526/",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "让 Claude Code 在你睡觉时持续运行：完整实战指南",
-      "published": "15 Apr 2026",
-      "link": "https://blog.devtang.com/2026/04/15/claude-code-autonomous-guide-zh/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -104,6 +104,13 @@
       "published": "05 Apr 2026",
       "link": "https://ursb.me/posts/weekly-34/",
       "avatar": "https://airing.ursb.me/image/favicon.ico"
+    },
+    {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -155,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月26日 11:41:55"
+  "updated": "2026年04月26日 13:14:24"
 }
