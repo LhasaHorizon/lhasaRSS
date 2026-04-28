@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "仅仅技术能力在中年构成不了竞争力",
+      "published": "28 Apr 2026",
+      "link": "https://hwv430.blogspot.com/2026/04/blog-post_28.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "二人对谈：有意义的人生需要锚定最高的善吗？",
       "published": "28 Apr 2026",
       "link": "https://stephenleng.com/cn/rensheng-miaoding-zuigao-shan/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "古往今来的人都没重视过感情",
-      "published": "27 Apr 2026",
-      "link": "https://hwv430.blogspot.com/2026/04/blog-post_877.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "我们叁",
@@ -89,7 +89,7 @@
       "title": "松声｜廿六年·四月中·桐花开",
       "published": "15 Apr 2026",
       "link": "https://xyzbz.cn/archives/1526/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月28日 03:57:08"
+  "updated": "2026年04月28日 06:36:15"
 }
