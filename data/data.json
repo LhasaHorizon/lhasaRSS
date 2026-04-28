@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "我对《缺氧》的游戏理解",
+      "published": "28 Apr 2026",
+      "link": "https://blog.codingnow.com/2026/04/oxygen_not_included.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "其实并没有那么难，也并没有那么慢",
       "published": "28 Apr 2026",
@@ -33,7 +40,7 @@
       "title": "洪绘切图发布！如何将一个图片平均切图？按照固定距离或者网格切图？",
       "published": "27 Apr 2026",
       "link": "https://blog.zhheo.com/p/zg5upnsy.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "落园",
@@ -90,13 +97,6 @@
       "published": "15 Apr 2026",
       "link": "https://xyzbz.cn/archives/1526/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "云风的 BLOG",
-      "title": "除法的意义",
-      "published": "12 Apr 2026",
-      "link": "https://blog.codingnow.com/2026/04/division.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "Airing 的博客",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月28日 11:48:15"
+  "updated": "2026年04月28日 14:20:00"
 }
