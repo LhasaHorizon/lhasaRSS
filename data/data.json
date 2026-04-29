@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "有了vibe coding，还是得自己会编程",
+      "published": "29 Apr 2026",
+      "link": "https://hwv430.blogspot.com/2026/04/vibe-coding.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "如何将小米CodingPlan的Mimo模型接入到OpenClaw",
       "published": "29 Apr 2026",
@@ -13,13 +20,6 @@
       "published": "28 Apr 2026",
       "link": "https://blog.codingnow.com/2026/04/oxygen_not_included.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "其实并没有那么难，也并没有那么慢",
-      "published": "28 Apr 2026",
-      "link": "https://hwv430.blogspot.com/2026/04/blog-post_378.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年04月29日 03:52:06"
+  "updated": "2026年04月29日 06:26:31"
 }
