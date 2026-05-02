@@ -22,6 +22,13 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
+      "blog_name": "Homepage on Miao Yu | 于淼",
+      "title": "本地科研助理",
+      "published": "02 May 2026",
+      "link": "https://yufree.cn/cn/2026/05/02/scinotes/",
+      "avatar": "https://yufree.cn/favicon.ico"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·四月末·春日末",
       "published": "30 Apr 2026",
@@ -99,13 +106,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "Homepage on Miao Yu | 于淼",
-      "title": "自然生活的数学原理",
-      "published": "19 Apr 2026",
-      "link": "https://yufree.cn/cn/2026/04/19/%E8%87%AA%E7%84%B6%E7%94%9F%E6%B4%BB%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86/",
-      "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
       "blog_name": "Airing 的博客",
       "title": "月刊（第34期）：创造的快乐",
       "published": "05 Apr 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月02日 15:51:32"
+  "updated": "2026年05月02日 16:53:52"
 }
