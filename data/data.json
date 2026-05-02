@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "现代炼丹术",
-      "published": "01 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/blog-post_02.html",
+      "title": "意义",
+      "published": "02 May 2026",
+      "link": "https://hwv430.blogspot.com/2026/05/blog-post_739.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "像素工坊",
+      "title": "Photoshop 27.6.0.11 深度体验：AI 功能到底有没有进步？值不值得更新",
+      "published": "02 May 2026",
+      "link": "https://www.shephe.com/post/photoshop-27-6-0-11/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
       "blog_name": "子夜松声",
@@ -153,7 +160,14 @@
       "published": "10 May 2022",
       "link": "https://www.laruence.com/2022/05/10/6192.html",
       "avatar": "https://www.laruence.com/logo.jpg"
+    },
+    {
+      "blog_name": "Fooleap's Blog",
+      "title": "渴望理想",
+      "published": "14 Aug 2020",
+      "link": "https://blog.fooleap.org/longing-for-ideals.html",
+      "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月02日 03:39:37"
+  "updated": "2026年05月02日 06:08:53"
 }
