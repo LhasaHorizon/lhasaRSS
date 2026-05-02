@@ -15,6 +15,13 @@
       "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "Agent Loop 简介",
+      "published": "02 May 2026",
+      "link": "https://blog.devtang.com/2026/05/02/agent-loop-intro/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·四月末·春日末",
       "published": "30 Apr 2026",
@@ -69,13 +76,6 @@
       "published": "27 Apr 2026",
       "link": "https://yihui.org/en/2026/04/knitr-typst/",
       "avatar": "https://yihui.org/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "在 Github 中通过创建 issue 来唤醒 claude 工作",
-      "published": "26 Apr 2026",
-      "link": "https://blog.devtang.com/2026/04/26/config-github-app-and-claude-to-create-pr-from-issue/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月02日 08:21:30"
+  "updated": "2026年05月02日 09:59:57"
 }
