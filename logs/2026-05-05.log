@@ -55,3 +55,4 @@
 [2026-05-05 16:25:39] - https://www.loyhome.com/feed
 [2026-05-05 16:25:39] - http://feeds.feedburner.com/ruanyifeng
 [2026-05-05 16:25:39] - https://xyzbz.cn/feed
+[2026-05-05 18:13:18] [ERROR] 上传 data.json 到 GitHub 失败: /home/runner/work/lhasaRSS/lhasaRSS/github_utils.go:243 => 上传 data.json 失败 | 原因: failed to put file data/data.json, status: 504, body: {"message": "We couldn't respond to your request in time. Sorry about that. Please try resubmitting your request and contact us if the problem persists."}
