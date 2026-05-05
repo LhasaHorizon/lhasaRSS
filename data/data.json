@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "如何让 Gemini/nano banana 帮你去掉照片水印",
+      "published": "05 May 2026",
+      "link": "https://hwv430.blogspot.com/2026/05/gemininano-banana.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "像素工坊",
       "title": "Microsoft Store HEVC 视频扩展离线版免费下载 📽",
       "published": "04 May 2026",
       "link": "https://www.shephe.com/resources/microsoft-store-hevc-plugin/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "学习需要有目的性",
-      "published": "04 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/blog-post_05.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -47,7 +47,7 @@
       "title": "中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色",
       "published": "29 Apr 2026",
       "link": "https://blog.zhheo.com/p/hv4xgjxl.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -113,6 +113,13 @@
       "avatar": "https://airing.ursb.me/image/favicon.ico"
     },
     {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月05日 03:34:30"
+  "updated": "2026年05月05日 06:19:25"
 }
