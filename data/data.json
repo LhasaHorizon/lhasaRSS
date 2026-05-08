@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "知识是穷人的一大杠杆",
+      "published": "08 May 2026",
+      "link": "https://hwv430.blogspot.com/2026/05/blog-post_837.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "明知山有虎",
       "published": "08 May 2026",
@@ -8,18 +15,18 @@
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
+      "blog_name": "Limboy's Essays",
+      "title": "为什么要写作",
+      "published": "08 May 2026",
+      "link": "https://limboy.me/posts/why-write",
+      "avatar": "https://limboy.me/favicon.png"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 395 期）：软件开发的第三种方式",
       "published": "07 May 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "中国富人怎么消费",
-      "published": "07 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/blog-post_725.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -68,7 +75,7 @@
       "title": "中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色",
       "published": "29 Apr 2026",
       "link": "https://blog.zhheo.com/p/hv4xgjxl.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -120,13 +127,6 @@
       "avatar": "https://lingxiankong.github.io/assets/image/favicon.ico"
     },
     {
-      "blog_name": "Limboy's Essays",
-      "title": "Chrome Extension 是 Vibe Coding 的绝佳载体",
-      "published": "04 Feb 2026",
-      "link": "https://limboy.me/posts/chrome-extension-vibe-coding-container",
-      "avatar": "https://limboy.me/favicon.png"
-    },
-    {
       "blog_name": "白板报",
       "title": "说一说我所知道的「棋圣」聂卫平",
       "published": "19 Jan 2026",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月08日 03:26:48"
+  "updated": "2026年05月08日 06:00:40"
 }
