@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "我们叁",
+      "title": "偏见和事实",
+      "published": "08 May 2026",
+      "link": "https://ihaihe.cn/3641.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "死去的回忆",
       "published": "08 May 2026",
@@ -19,7 +26,7 @@
       "title": "知识是穷人的一大杠杆",
       "published": "08 May 2026",
       "link": "https://hwv430.blogspot.com/2026/05/blog-post_837.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -92,13 +99,6 @@
       "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
-      "blog_name": "我们叁",
-      "title": "心烦",
-      "published": "27 Apr 2026",
-      "link": "https://ihaihe.cn/3637.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
       "blog_name": "落园",
       "title": "语言白噪音",
       "published": "27 Apr 2026",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月08日 13:57:23"
+  "updated": "2026年05月08日 15:43:30"
 }
