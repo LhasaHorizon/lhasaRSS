@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "明知山有虎",
+      "published": "08 May 2026",
+      "link": "https://zhongxiaojie.cn/2026/05/1216/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 395 期）：软件开发的第三种方式",
+      "published": "07 May 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-395.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "中国富人怎么消费",
       "published": "07 May 2026",
@@ -8,25 +22,11 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "稍纵即逝",
-      "published": "07 May 2026",
-      "link": "https://zhongxiaojie.cn/2026/05/1190/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
       "blog_name": "运维咖啡吧",
       "title": "我买基金从不亏钱",
       "published": "07 May 2026",
       "link": "https://blog.ops-coffee.com/r/fund-5-year-from-50-percent-loss-to-profit.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "像素工坊",
-      "title": "Clip Studio Paint EX：专业绘画与漫画创作利器（附 CSP 5.0.4 中文优化版下载）",
-      "published": "07 May 2026",
-      "link": "https://www.shephe.com/resources/clip-studio-paint-ex/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
       "blog_name": "子夜松声",
@@ -99,13 +99,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
-      "published": "23 Apr 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-394.html",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
       "blog_name": "Airing 的博客",
       "title": "月刊（第34期）：创造的快乐",
       "published": "05 Apr 2026",
@@ -131,7 +124,7 @@
       "title": "Chrome Extension 是 Vibe Coding 的绝佳载体",
       "published": "04 Feb 2026",
       "link": "https://limboy.me/posts/chrome-extension-vibe-coding-container",
-      "avatar": "https://limboy.me/apple-touch-icon.png"
+      "avatar": "https://limboy.me/favicon.png"
     },
     {
       "blog_name": "白板报",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月07日 23:55:23"
+  "updated": "2026年05月08日 03:26:48"
 }
