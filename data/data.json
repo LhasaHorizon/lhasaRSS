@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "死去的回忆",
+      "published": "08 May 2026",
+      "link": "https://zhongxiaojie.cn/2026/05/1224/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
+      "blog_name": "心的道理",
+      "title": "为什么人人都知道“大环境不好”，但只有很少人对原因感兴趣？",
+      "published": "08 May 2026",
+      "link": "https://stephenleng.com/cn/da-huanjing-bu-hao-weishenme/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "核电站",
       "title": "知识是穷人的一大杠杆",
       "published": "08 May 2026",
       "link": "https://hwv430.blogspot.com/2026/05/blog-post_837.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "明知山有虎",
-      "published": "08 May 2026",
-      "link": "https://zhongxiaojie.cn/2026/05/1216/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -85,13 +92,6 @@
       "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
-      "blog_name": "心的道理",
-      "title": "二人对谈：有意义的人生需要锚定最高的善吗？",
-      "published": "28 Apr 2026",
-      "link": "https://stephenleng.com/cn/rensheng-miaoding-zuigao-shan/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
       "blog_name": "我们叁",
       "title": "心烦",
       "published": "27 Apr 2026",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月08日 07:54:04"
+  "updated": "2026年05月08日 09:26:19"
 }
