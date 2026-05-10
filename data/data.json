@@ -89,7 +89,7 @@
       "title": "中国传统色上线！快速寻找和使用具有文化气息和韵味的中国传统色",
       "published": "29 Apr 2026",
       "link": "https://blog.zhheo.com/p/hv4xgjxl.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -111,13 +111,6 @@
       "published": "05 Apr 2026",
       "link": "https://ursb.me/posts/weekly-34/",
       "avatar": "https://airing.ursb.me/image/favicon.ico"
-    },
-    {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -162,5 +155,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月10日 13:25:52"
+  "updated": "2026年05月10日 14:56:30"
 }
