@@ -15,6 +15,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "Limboy's Essays",
+      "title": "正念冥想全解惑：从原始出厂设置到大脑物理重塑",
+      "published": "12 May 2026",
+      "link": "https://limboy.me/posts/mindfulness-meditation",
+      "avatar": "https://limboy.me/favicon.png"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "洪绘响度发布：测量视频LUFS工具，并支持转换视频到指定LUFS",
       "published": "11 May 2026",
@@ -34,13 +41,6 @@
       "published": "08 May 2026",
       "link": "https://stephenleng.com/cn/da-huanjing-bu-hao-weishenme/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "Limboy's Essays",
-      "title": "为什么要写作",
-      "published": "08 May 2026",
-      "link": "https://limboy.me/posts/why-write",
-      "avatar": "https://limboy.me/favicon.png"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月12日 07:44:26"
+  "updated": "2026年05月12日 10:34:49"
 }
