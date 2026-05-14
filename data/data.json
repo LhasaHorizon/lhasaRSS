@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "人只能在有限范围内取得成功",
-      "published": "13 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/blog-post_14.html",
+      "title": "为什么专业技术不如生产资料",
+      "published": "14 May 2026",
+      "link": "https://hwv430.blogspot.com/2026/05/blog-post_436.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "人工服务",
+      "published": "14 May 2026",
+      "link": "https://zhongxiaojie.cn/2026/05/1258/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -20,13 +27,6 @@
       "published": "13 May 2026",
       "link": "https://yufree.cn/cn/2026/05/13/one-ounce-coin/",
       "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "体检以及其他",
-      "published": "12 May 2026",
-      "link": "https://zhongxiaojie.cn/2026/05/1244/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -76,13 +76,6 @@
       "published": "06 May 2026",
       "link": "https://blog.devtang.com/2026/05/06/generate-video-from-hyperframes/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "1900的灯泡店",
-      "title": "283、立夏",
-      "published": "05 May 2026",
-      "link": "https://1900.live/283-li-xia/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -162,5 +155,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月14日 04:46:35"
+  "updated": "2026年05月14日 07:44:26"
 }
