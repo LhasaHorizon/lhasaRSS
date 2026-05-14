@@ -78,6 +78,13 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
+      "blog_name": "1900的灯泡店",
+      "title": "283、立夏",
+      "published": "05 May 2026",
+      "link": "https://1900.live/283-li-xia/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "Reflections on AI-assisted Programming",
       "published": "03 May 2026",
@@ -155,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月14日 07:44:26"
+  "updated": "2026年05月14日 10:21:54"
 }
