@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "打工要会画饼才有出息",
+      "published": "15 May 2026",
+      "link": "https://hwv430.blogspot.com/2026/05/blog-post_16.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "UniAdmin Invalid uni-id config file",
       "published": "15 May 2026",
       "link": "https://zhongxiaojie.cn/2026/05/1268/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "男人是冲突型动物，女人是回避型动物",
-      "published": "15 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/blog-post_15.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "心的道理",
@@ -27,6 +27,13 @@
       "published": "15 May 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/05/weekly-issue-396.html",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "Homepage on Yihui Xie | 谢益辉",
+      "title": "Bye, Stack Overflow",
+      "published": "15 May 2026",
+      "link": "https://yihui.org/en/2026/05/bye-stack-overflow/",
+      "avatar": "https://yihui.org/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -83,13 +90,6 @@
       "published": "05 May 2026",
       "link": "https://1900.live/283-li-xia/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "Homepage on Yihui Xie | 谢益辉",
-      "title": "Reflections on AI-assisted Programming",
-      "published": "03 May 2026",
-      "link": "https://yihui.org/en/2026/05/ai-reflections/",
-      "avatar": "https://yihui.org/favicon.ico"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月15日 15:18:46"
+  "updated": "2026年05月15日 17:42:09"
 }
