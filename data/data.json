@@ -8,6 +8,13 @@
       "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "从 Sublime Text 到 Zed",
+      "published": "16 May 2026",
+      "link": "https://blog.devtang.com/2026/05/16/open-in-zed-from-finder/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "打工要会画饼才有出息",
       "published": "15 May 2026",
@@ -85,13 +92,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "唐巧的博客",
-      "title": "HyperFrames 实战：用 HTML 写一支 41 秒的产品介绍视频",
-      "published": "06 May 2026",
-      "link": "https://blog.devtang.com/2026/05/06/generate-video-from-hyperframes/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
       "blog_name": "1900的灯泡店",
       "title": "283、立夏",
       "published": "05 May 2026",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月16日 16:03:53"
+  "updated": "2026年05月16日 17:57:08"
 }
