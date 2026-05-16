@@ -30,9 +30,9 @@
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
-      "title": "Bye, Stack Overflow",
+      "title": "Converting testthat Tests to testit",
       "published": "15 May 2026",
-      "link": "https://yihui.org/en/2026/05/bye-stack-overflow/",
+      "link": "https://yihui.org/en/2026/05/testthat-to-testit/",
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月15日 22:57:56"
+  "updated": "2026年05月16日 00:00:27"
 }
