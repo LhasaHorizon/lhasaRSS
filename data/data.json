@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "怎么用AI才是对的",
+      "published": "21 May 2026",
+      "link": "https://hwv430.blogspot.com/2026/05/ai_0612421534.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "遂昌｜躲避人潮的五一自驾Day5 - 独山",
       "published": "21 May 2026",
@@ -20,13 +27,6 @@
       "published": "21 May 2026",
       "link": "https://zhongxiaojie.cn/2026/05/1287/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "努尔哈赤可能只是侥幸偷塔成功",
-      "published": "20 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/blog-post_362.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月21日 16:16:36"
+  "updated": "2026年05月21日 18:58:49"
 }
