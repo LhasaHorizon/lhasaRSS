@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "中晚年的幸福感",
+      "published": "22 May 2026",
+      "link": "https://hwv430.blogspot.com/2026/05/blog-post_23.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "唐巧的博客",
+      "title": "了解 Claude Code 的提示词工程",
+      "published": "22 May 2026",
+      "link": "https://blog.devtang.com/2026/05/22/inspect-claude-code-through-ccglass/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "为OpenClaw搭建一个免费的搜索引擎，如何让OpenClaw搜索网页内容",
       "published": "22 May 2026",
       "link": "https://blog.zhheo.com/p/9p755adr.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "AI改变教育",
-      "published": "22 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/ai_01650121484.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -33,7 +40,7 @@
       "title": "520，521",
       "published": "21 May 2026",
       "link": "https://zhongxiaojie.cn/2026/05/1287/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -48,13 +55,6 @@
       "published": "16 May 2026",
       "link": "https://blog.codingnow.com/2026/05/oni_geotherm.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "从 Sublime Text 到 Zed",
-      "published": "16 May 2026",
-      "link": "https://blog.devtang.com/2026/05/16/open-in-zed-from-finder/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -155,5 +155,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月22日 15:50:43"
+  "updated": "2026年05月22日 17:56:02"
 }
