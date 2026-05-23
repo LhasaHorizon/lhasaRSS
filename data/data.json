@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "缺氧和异星工厂的比较",
+      "published": "23 May 2026",
+      "link": "https://blog.codingnow.com/2026/05/oni_factorio.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "经商也做慈善的陈光标",
       "published": "23 May 2026",
@@ -40,7 +47,7 @@
       "title": "520，521",
       "published": "21 May 2026",
       "link": "https://zhongxiaojie.cn/2026/05/1287/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "子夜松声",
@@ -48,13 +55,6 @@
       "published": "17 May 2026",
       "link": "https://xyzbz.cn/archives/1534/",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "云风的 BLOG",
-      "title": "一个简单的缺氧地热模块",
-      "published": "16 May 2026",
-      "link": "https://blog.codingnow.com/2026/05/oni_geotherm.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "心的道理",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月23日 06:36:01"
+  "updated": "2026年05月23日 09:03:36"
 }
