@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "北京四环骑行一日游：69 公里 6 小时",
+      "published": "24 May 2026",
+      "link": "https://blog.devtang.com/2026/05/24/beijing-fourth-ring-cycling/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "莫要哄抬逼价",
       "published": "23 May 2026",
@@ -13,13 +20,6 @@
       "published": "23 May 2026",
       "link": "https://blog.codingnow.com/2026/05/oni_factorio.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "了解 Claude Code 的提示词工程",
-      "published": "22 May 2026",
-      "link": "https://blog.devtang.com/2026/05/22/inspect-claude-code-through-ccglass/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "张洪Heo",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月23日 23:01:49"
+  "updated": "2026年05月24日 03:57:00"
 }
