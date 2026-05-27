@@ -50,6 +50,13 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
+      "blog_name": "云风的 BLOG",
+      "title": "缺氧和异星工厂的比较",
+      "published": "23 May 2026",
+      "link": "https://blog.codingnow.com/2026/05/oni_factorio.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "Airing 的博客",
       "title": "月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末",
       "published": "23 May 2026",
@@ -155,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年05月27日 17:20:49"
+  "updated": "2026年05月27日 20:22:07"
 }
