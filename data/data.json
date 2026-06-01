@@ -12,7 +12,7 @@
       "title": "松声｜廿六年·五月末·麦黄收",
       "published": "31 May 2026",
       "link": "https://xyzbz.cn/archives/1549/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -92,6 +92,13 @@
       "avatar": "https://airing.ursb.me/image/favicon.ico"
     },
     {
+      "blog_name": "1900的灯泡店",
+      "title": "284、小满",
+      "published": "21 May 2026",
+      "link": "https://1900.live/284-xiao-man/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "Converting testthat Tests to testit",
       "published": "15 May 2026",
@@ -104,13 +111,6 @@
       "published": "13 May 2026",
       "link": "https://limboy.me/posts/why-write-weekly",
       "avatar": "https://limboy.me/favicon.png"
-    },
-    {
-      "blog_name": "1900的灯泡店",
-      "title": "283、立夏",
-      "published": "05 May 2026",
-      "link": "https://1900.live/283-li-xia/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "青山小站",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月01日 04:23:37"
+  "updated": "2026年06月01日 10:22:03"
 }
