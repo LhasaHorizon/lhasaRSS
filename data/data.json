@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "火药史话",
+      "published": "02 Jun 2026",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "儿童节快乐",
       "published": "01 Jun 2026",
@@ -12,7 +19,7 @@
       "title": "松声｜廿六年·五月末·麦黄收",
       "published": "31 May 2026",
       "link": "https://xyzbz.cn/archives/1549/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "唐巧的博客",
@@ -20,13 +27,6 @@
       "published": "31 May 2026",
       "link": "https://blog.devtang.com/2026/05/31/rebase-hacker-house/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "任何时代都可以赚到大钱",
-      "published": "31 May 2026",
-      "link": "https://hwv430.blogspot.com/2026/05/blog-post_31.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月01日 23:03:31"
+  "updated": "2026年06月02日 04:17:07"
 }
