@@ -8,6 +8,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "我不小心开了 273 个 Agent",
+      "published": "02 Jun 2026",
+      "link": "https://blog.devtang.com/2026/06/02/273-agents/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "儿童节快乐",
       "published": "01 Jun 2026",
@@ -20,13 +27,6 @@
       "published": "31 May 2026",
       "link": "https://xyzbz.cn/archives/1549/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "Rebase Hacker House 见闻",
-      "published": "31 May 2026",
-      "link": "https://blog.devtang.com/2026/05/31/rebase-hacker-house/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月02日 14:05:45"
+  "updated": "2026年06月02日 18:41:42"
 }
