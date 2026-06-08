@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "缘分",
+      "published": "08 Jun 2026",
+      "link": "https://zhongxiaojie.cn/2026/06/1422/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "老家",
       "published": "08 Jun 2026",
@@ -27,13 +34,6 @@
       "published": "05 Jun 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "你来啦！ — 半正式上线",
-      "published": "04 Jun 2026",
-      "link": "https://zhongxiaojie.cn/2026/06/1379/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月08日 04:20:09"
+  "updated": "2026年06月08日 09:25:19"
 }
