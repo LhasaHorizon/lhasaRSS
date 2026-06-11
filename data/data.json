@@ -19,7 +19,7 @@
       "title": "HeoSticker3D发布：3D形态的Heo表情，个人免费使用",
       "published": "11 Jun 2026",
       "link": "https://blog.zhheo.com/p/mjpbdtsh.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "心的道理",
@@ -113,13 +113,6 @@
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
@@ -162,5 +155,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月11日 21:23:16"
+  "updated": "2026年06月11日 23:26:10"
 }
