@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "中年的处境",
+      "published": "11 Jun 2026",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post_12.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "对基本有序的序列排序算法",
       "published": "11 Jun 2026",
@@ -23,17 +30,10 @@
     },
     {
       "blog_name": "Limboy's Essays",
-      "title": "微信是一个奇葩",
+      "title": "Claude Code 带给我的改变",
       "published": "11 Jun 2026",
-      "link": "https://limboy.me/posts/wechat-is-abnormal",
+      "link": "https://limboy.me/posts/the-changes-claude-code-brought-me",
       "avatar": "https://limboy.me/favicon.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "微信提现免手续费的教程（仅供参考）",
-      "published": "10 Jun 2026",
-      "link": "https://hwv430.blogspot.com/2026/06/blog-post_845.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -61,7 +61,7 @@
       "title": "松声｜廿六年·五月末·麦黄收",
       "published": "31 May 2026",
       "link": "https://xyzbz.cn/archives/1549/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -127,6 +127,13 @@
       "avatar": "https://lingxiankong.github.io/assets/image/favicon.ico"
     },
     {
+      "blog_name": "白板报",
+      "title": "说一说我所知道的「棋圣」聂卫平",
+      "published": "19 Jan 2026",
+      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
+    },
+    {
       "blog_name": "扯氮集",
       "title": "百度的槽点到底在哪里",
       "published": "11 May 2024",
@@ -155,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月11日 14:40:08"
+  "updated": "2026年06月11日 18:17:24"
 }
