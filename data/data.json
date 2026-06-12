@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "中年的处境",
-      "published": "11 Jun 2026",
-      "link": "https://hwv430.blogspot.com/2026/06/blog-post_12.html",
+      "title": "人生的各项优先事务",
+      "published": "12 Jun 2026",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post_747.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
+      "published": "11 Jun 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -19,7 +26,7 @@
       "title": "HeoSticker3D发布：3D形态的Heo表情，个人免费使用",
       "published": "11 Jun 2026",
       "link": "https://blog.zhheo.com/p/mjpbdtsh.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "心的道理",
@@ -48,13 +55,6 @@
       "published": "07 Jun 2026",
       "link": "https://blog.devtang.com/2026/06/07/change-bandwagon-host-ip/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
-      "published": "05 Jun 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -113,6 +113,13 @@
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+    },
+    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
@@ -155,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月11日 23:26:10"
+  "updated": "2026年06月12日 04:17:45"
 }
