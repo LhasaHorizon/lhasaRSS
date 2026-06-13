@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "运维咖啡吧",
+      "title": "明镜荡｜上海出发一小时的宝藏湖荡露营地",
+      "published": "13 Jun 2026",
+      "link": "https://blog.ops-coffee.com/r/city-china-jiangsu-suzhou-kunshan-mingjingdang.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "怎么勾搭女人",
       "published": "13 Jun 2026",
@@ -13,6 +20,20 @@
       "published": "13 Jun 2026",
       "link": "https://blog.devtang.com/2026/06/13/educational-toy-industry-thinking/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
+      "blog_name": "Limboy's Essays",
+      "title": "读《置身钉内》后的一些感受",
+      "published": "13 Jun 2026",
+      "link": "https://limboy.me/posts/pinned-inside-dingtalk",
+      "avatar": "https://limboy.me/favicon.png"
+    },
+    {
+      "blog_name": "Airing 的博客",
+      "title": "当 AI 拿走一切之后",
+      "published": "12 Jun 2026",
+      "link": "https://ursb.me/posts/after-ai-takes-everything/",
+      "avatar": "https://airing.ursb.me/image/favicon.ico"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -43,13 +64,6 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
-      "blog_name": "Limboy's Essays",
-      "title": "Claude Code 带给我的改变",
-      "published": "11 Jun 2026",
-      "link": "https://limboy.me/posts/the-changes-claude-code-brought-me",
-      "avatar": "https://limboy.me/favicon.png"
-    },
-    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "缘分",
       "published": "08 Jun 2026",
@@ -62,13 +76,6 @@
       "published": "31 May 2026",
       "link": "https://xyzbz.cn/archives/1549/",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "运维咖啡吧",
-      "title": "丽水遂昌｜三个人，自驾五天，花费1800元，总结推荐",
-      "published": "30 May 2026",
-      "link": "https://blog.ops-coffee.com/r/city-china-zhejiang-lishui-suichang-summary.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -92,13 +99,6 @@
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
-      "blog_name": "Airing 的博客",
-      "title": "月刊（第35期）：我和 Claude 老师 Vibe Coding 的周末",
-      "published": "23 May 2026",
-      "link": "https://ursb.me/posts/weekly-35/",
-      "avatar": "https://airing.ursb.me/image/favicon.ico"
-    },
-    {
       "blog_name": "1900的灯泡店",
       "title": "284、小满",
       "published": "21 May 2026",
@@ -110,7 +110,7 @@
       "title": "Converting testthat Tests to testit",
       "published": "15 May 2026",
       "link": "https://yihui.org/en/2026/05/testthat-to-testit/",
-      "avatar": "https://yihui.org/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "青山小站",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月13日 04:06:11"
+  "updated": "2026年06月13日 08:22:56"
 }
