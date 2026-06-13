@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "成功的尺度",
-      "published": "12 Jun 2026",
-      "link": "https://hwv430.blogspot.com/2026/06/blog-post_13.html",
+      "title": "怎么勾搭女人",
+      "published": "13 Jun 2026",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post_900.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "唐巧的博客",
+      "title": "玩教具行业的核心竞争力",
+      "published": "13 Jun 2026",
+      "link": "https://blog.devtang.com/2026/06/13/educational-toy-industry-thinking/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -48,13 +55,6 @@
       "published": "08 Jun 2026",
       "link": "https://zhongxiaojie.cn/2026/06/1422/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "更换搬瓦工 VPS IP",
-      "published": "07 Jun 2026",
-      "link": "https://blog.devtang.com/2026/06/07/change-bandwagon-host-ip/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -162,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月12日 23:19:54"
+  "updated": "2026年06月13日 04:06:11"
 }
