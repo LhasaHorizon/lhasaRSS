@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "老师不会教的，却能让人少走弯路的道理",
+      "title": "选工作看长远",
       "published": "16 Jun 2026",
-      "link": "https://hwv430.blogspot.com/2026/06/blog-post_16.html",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post_457.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -13,6 +13,13 @@
       "published": "15 Jun 2026",
       "link": "https://xyzbz.cn/archives/1550/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "修理工，修理工！",
+      "published": "15 Jun 2026",
+      "link": "https://zhongxiaojie.cn/2026/06/1462/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -138,7 +145,7 @@
       "title": "百度的槽点到底在哪里",
       "published": "11 May 2024",
       "link": "http://weiwuhui.com/10670.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "可能吧",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月16日 10:11:14"
+  "updated": "2026年06月16日 15:57:37"
 }
