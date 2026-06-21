@@ -33,7 +33,7 @@
       "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
       "published": "18 Jun 2026",
       "link": "https://blog.zhheo.com/p/sir4kfs9.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "子夜松声",
@@ -106,11 +106,25 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "《币安人生》读后书摘",
+      "published": "23 May 2026",
+      "link": "https://tumutanzi.com/archives/17609",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "Converting testthat Tests to testit",
       "published": "15 May 2026",
       "link": "https://yihui.org/en/2026/05/testthat-to-testit/",
       "avatar": "https://yihui.org/favicon.ico"
+    },
+    {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -155,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月21日 17:42:17"
+  "updated": "2026年06月21日 19:47:28"
 }
