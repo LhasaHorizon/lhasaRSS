@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "有用的道理没受众",
-      "published": "22 Jun 2026",
-      "link": "https://hwv430.blogspot.com/2026/06/blog-post_23.html",
+      "title": "做事闭环能力是护城河",
+      "published": "23 Jun 2026",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post_252.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -40,7 +40,14 @@
       "title": "AI支付宝上手：内容全靠编，出问题甩锅给商家，付款快退款难",
       "published": "18 Jun 2026",
       "link": "https://blog.zhheo.com/p/sir4kfs9.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "子夜松声",
+      "title": "松声｜廿六年·六月中·荷花开",
+      "published": "15 Jun 2026",
+      "link": "https://xyzbz.cn/archives/1550/",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月23日 00:09:54"
+  "updated": "2026年06月23日 05:04:10"
 }
