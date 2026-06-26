@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "论现代英雄：来自好莱坞的一些例子",
+      "published": "26 Jun 2026",
+      "link": "https://stephenleng.com/cn/xian-dai-ying-xiong-hao-lai-wu/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "核电站",
       "title": "有能力的人的那些“不正常”特质",
       "published": "26 Jun 2026",
@@ -41,13 +48,6 @@
       "published": "24 Jun 2026",
       "link": "https://yufree.cn/cn/2026/06/24/sanqueyi/",
       "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "一个人每周需要多少闲暇？",
-      "published": "22 Jun 2026",
-      "link": "https://stephenleng.com/cn/xian-xia-duo-shao-xu-yao/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "1900的灯泡店",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月26日 08:30:52"
+  "updated": "2026年06月26日 11:46:01"
 }
