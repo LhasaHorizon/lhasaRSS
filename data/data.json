@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "成功者爱追求成功的确定性",
+      "title": "有能力的人的那些“不正常”特质",
       "published": "26 Jun 2026",
-      "link": "https://hwv430.blogspot.com/2026/06/blog-post_465.html",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post_461.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -106,6 +106,13 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "《币安人生》读后书摘",
+      "published": "23 May 2026",
+      "link": "https://tumutanzi.com/archives/17609",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "Converting testthat Tests to testit",
       "published": "15 May 2026",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月26日 04:00:40"
+  "updated": "2026年06月26日 08:30:52"
 }
