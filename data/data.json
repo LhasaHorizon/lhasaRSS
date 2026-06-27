@@ -8,6 +8,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "唐巧的博客",
+      "title": "理解 Skill —— 读《图解 Skill》",
+      "published": "26 Jun 2026",
+      "link": "https://blog.devtang.com/2026/06/26/illustrated-skill-review/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "初夏荷花开-2026",
       "published": "26 Jun 2026",
@@ -78,13 +85,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "唐巧的博客",
-      "title": "玩教具行业的核心竞争力",
-      "published": "13 Jun 2026",
-      "link": "https://blog.devtang.com/2026/06/13/educational-toy-industry-thinking/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
       "blog_name": "Limboy's Essays",
       "title": "读《置身钉内》后的一些感受",
       "published": "13 Jun 2026",
@@ -104,6 +104,13 @@
       "published": "24 May 2026",
       "link": "https://loyhome.com/%e9%87%91%e9%92%b1%e8%a7%82%e7%9a%84%e7%bc%ba%e5%a4%b1/",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "土木坛子",
+      "title": "《币安人生》读后书摘",
+      "published": "23 May 2026",
+      "link": "https://tumutanzi.com/archives/17609",
+      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月27日 06:55:00"
+  "updated": "2026年06月27日 09:30:16"
 }
