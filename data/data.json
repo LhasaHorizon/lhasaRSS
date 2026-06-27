@@ -106,13 +106,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "土木坛子",
-      "title": "《币安人生》读后书摘",
-      "published": "23 May 2026",
-      "link": "https://tumutanzi.com/archives/17609",
-      "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "Converting testthat Tests to testit",
       "published": "15 May 2026",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月27日 11:37:24"
+  "updated": "2026年06月27日 13:49:13"
 }
