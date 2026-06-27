@@ -15,13 +15,6 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
-      "blog_name": "子夜松声",
-      "title": "初夏荷花开-2026",
-      "published": "26 Jun 2026",
-      "link": "https://xyzbz.cn/archives/1553/",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
       "blog_name": "心的道理",
       "title": "论现代英雄：来自好莱坞的一些例子",
       "published": "26 Jun 2026",
@@ -41,20 +34,6 @@
       "published": "25 Jun 2026",
       "link": "https://blog.codingnow.com/2026/06/from_moo_to_stellaris.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "洪绘动图发布：将视频转换为帧图或者GIF并且限制只有5MB，APNG、WEBP动图生成工具",
-      "published": "25 Jun 2026",
-      "link": "https://blog.zhheo.com/p/9yuhxjpl.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "松松垮垮",
-      "published": "24 Jun 2026",
-      "link": "https://zhongxiaojie.cn/2026/06/1539/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -96,7 +75,7 @@
       "title": "当 AI 拿走一切之后",
       "published": "12 Jun 2026",
       "link": "https://ursb.me/posts/after-ai-takes-everything/",
-      "avatar": "https://airing.ursb.me/image/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "落园",
@@ -118,13 +97,6 @@
       "published": "15 May 2026",
       "link": "https://yihui.org/en/2026/05/testthat-to-testit/",
       "avatar": "https://yihui.org/favicon.ico"
-    },
-    {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -169,5 +141,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月27日 19:25:01"
+  "updated": "2026年06月27日 21:08:31"
 }
