@@ -2,10 +2,24 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "总有人要强势，为什么不能是你？",
+      "title": "英文写作的重要性被远远低估",
       "published": "30 Jun 2026",
-      "link": "https://hwv430.blogspot.com/2026/06/blog-post_568.html",
+      "link": "https://hwv430.blogspot.com/2026/06/blog-post_537.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "土木坛子",
+      "title": "AI带来的信息污染",
+      "published": "30 Jun 2026",
+      "link": "https://tumutanzi.com/archives/17614",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "Dario Amodei：AI 开源是伪命题",
+      "published": "30 Jun 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/06/anthropic.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -41,13 +55,6 @@
       "published": "26 Jun 2026",
       "link": "https://stephenleng.com/cn/xian-dai-ying-xiong-hao-lai-wu/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 401 期）：如何赚到10亿美元",
-      "published": "26 Jun 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -106,13 +113,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "土木坛子",
-      "title": "《币安人生》读后书摘",
-      "published": "23 May 2026",
-      "link": "https://tumutanzi.com/archives/17609",
-      "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "Converting testthat Tests to testit",
       "published": "15 May 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年06月30日 05:06:36"
+  "updated": "2026年06月30日 09:42:16"
 }
