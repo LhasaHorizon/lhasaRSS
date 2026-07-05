@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "持续地学习，才能混得好",
+      "title": "普通人长见识最快的方法",
       "published": "05 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_152.html",
+      "link": "https://hwv430.blogspot.com/2026/07/blog-post_364.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -33,7 +33,7 @@
       "title": "豆言豆语Skill发布：让AI学会豆包的毒舌说话风格",
       "published": "02 Jul 2026",
       "link": "https://blog.zhheo.com/p/ojxzvqar.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -120,13 +120,6 @@
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月05日 04:59:01"
+  "updated": "2026年07月05日 08:08:45"
 }
