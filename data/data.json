@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "如果男人要想飞黄腾达",
-      "published": "06 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_800.html",
+      "title": "富人的需求",
+      "published": "07 Jul 2026",
+      "link": "https://hwv430.blogspot.com/2026/07/blog-post_724.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "唐巧的博客",
+      "title": "如何写一篇 AI 味很重的文章",
+      "published": "07 Jul 2026",
+      "link": "https://blog.devtang.com/2026/07/07/write-an-ai-taste-article/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -27,13 +34,6 @@
       "published": "05 Jul 2026",
       "link": "https://yufree.cn/cn/2026/07/05/gpu/",
       "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "黑洞健身的进化 — AI 时代的一人 App",
-      "published": "03 Jul 2026",
-      "link": "https://blog.devtang.com/2026/07/03/heidong-fitness-evolution/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月07日 00:15:28"
+  "updated": "2026年07月07日 04:54:40"
 }
