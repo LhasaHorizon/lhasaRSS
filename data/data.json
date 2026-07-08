@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "七月七日",
+      "published": "08 Jul 2026",
+      "link": "https://zhongxiaojie.cn/2026/07/1611/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "给OpenClaw加上rm删除保护：防止AI误删你的整个电脑",
       "published": "07 Jul 2026",
@@ -27,13 +34,6 @@
       "published": "07 Jul 2026",
       "link": "https://blog.devtang.com/2026/07/07/write-an-ai-taste-article/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "灵魂摆渡",
-      "published": "06 Jul 2026",
-      "link": "https://zhongxiaojie.cn/2026/07/1597/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月07日 23:04:56"
+  "updated": "2026年07月08日 02:58:26"
 }
