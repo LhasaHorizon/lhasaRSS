@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "月薪是最难戒的毒瘾",
+      "title": "现在有ai了，很多人都可以被替代了？",
       "published": "15 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_147.html",
+      "link": "https://hwv430.blogspot.com/2026/07/ai.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "子夜松声",
+      "title": "松声｜廿六年·七月中·蝉鸣繁",
+      "published": "15 Jul 2026",
+      "link": "https://xyzbz.cn/archives/1558/",
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -75,7 +82,7 @@
       "title": "混元hy3模型上手：腾讯送了云函数个人版6个月，怎么才能用上",
       "published": "08 Jul 2026",
       "link": "https://blog.zhheo.com/p/2orxjo9r.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "只是玩玩",
@@ -83,13 +90,6 @@
       "published": "07 Jul 2026",
       "link": "https://1900.live/287-xiao-shu/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "子夜松声",
-      "title": "松声｜廿六年·六月末·暑渐浓",
-      "published": "01 Jul 2026",
-      "link": "https://xyzbz.cn/archives/1557/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "心的道理",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月15日 08:20:00"
+  "updated": "2026年07月15日 10:54:11"
 }
