@@ -113,6 +113,13 @@
       "avatar": "https://airing.ursb.me/image/favicon.ico"
     },
     {
+      "blog_name": "Ouroboros",
+      "title": "Discours N°20",
+      "published": "08 Jun 2026",
+      "link": "https://blog.pursuitus.com/discourse-20.html",
+      "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
       "blog_name": "落园",
       "title": "金钱观的缺失",
       "published": "24 May 2026",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月17日 13:45:30"
+  "updated": "2026年07月17日 15:17:28"
 }
