@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "女人从来不会帮女人",
+      "title": "非技术岗如何营销自己的独特性",
       "published": "19 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_236.html",
+      "link": "https://hwv430.blogspot.com/2026/07/blog-post_20.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -34,6 +34,13 @@
       "published": "16 Jul 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "土木坛子",
+      "title": "VCard疑似跑路",
+      "published": "16 Jul 2026",
+      "link": "https://tumutanzi.com/archives/17617",
+      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月19日 17:59:10"
+  "updated": "2026年07月19日 19:18:39"
 }
