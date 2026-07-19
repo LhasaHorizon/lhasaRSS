@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "黑洞足迹本-AI 时代的一人 App",
+      "published": "18 Jul 2026",
+      "link": "https://blog.devtang.com/2026/07/18/heidong-footprint-ai-app/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "先付款，还是先开票？",
       "published": "17 Jul 2026",
@@ -48,13 +55,6 @@
       "published": "13 Jul 2026",
       "link": "https://yufree.cn/cn/2026/07/13/prediction-2/",
       "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "用 CLIProxyAPI 把 Codex 变成一个 OpenAI 兼容的 API 服务",
-      "published": "12 Jul 2026",
-      "link": "https://blog.devtang.com/2026/07/12/cliproxyapi-codex/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月18日 23:57:09"
+  "updated": "2026年07月19日 03:27:03"
 }
