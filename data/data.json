@@ -36,6 +36,13 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "VCard疑似跑路",
+      "published": "16 Jul 2026",
+      "link": "https://tumutanzi.com/archives/17617",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·七月中·蝉鸣繁",
       "published": "15 Jul 2026",
@@ -124,7 +131,7 @@
       "title": "Dify添加模型max_tokens_too_small异常",
       "published": "11 Mar 2026",
       "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月19日 20:53:56"
+  "updated": "2026年07月19日 21:55:54"
 }
