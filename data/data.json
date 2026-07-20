@@ -22,6 +22,13 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "《我们最幸福》：看得到星星的国度",
+      "published": "19 Jul 2026",
+      "link": "https://tumutanzi.com/archives/17618",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "黑洞足迹本-AI 时代的一人 App",
       "published": "18 Jul 2026",
@@ -34,13 +41,6 @@
       "published": "16 Jul 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "土木坛子",
-      "title": "VCard疑似跑路",
-      "published": "16 Jul 2026",
-      "link": "https://tumutanzi.com/archives/17617",
-      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -131,7 +131,7 @@
       "title": "Dify添加模型max_tokens_too_small异常",
       "published": "11 Mar 2026",
       "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月20日 08:07:17"
+  "updated": "2026年07月20日 11:48:19"
 }
