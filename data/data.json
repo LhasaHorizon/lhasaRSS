@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "真相是反政治正确的",
+      "title": "中年男人：开始是认错，后来是不说话",
       "published": "22 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_78.html",
+      "link": "https://hwv430.blogspot.com/2026/07/blog-post_23.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "扯氮集",
+      "title": "都是抓“奴隶” 这两个游戏的内核是完全不同的",
+      "published": "22 Jul 2026",
+      "link": "http://weiwuhui.com/10752.html",
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "我们叁",
@@ -110,7 +117,7 @@
       "title": "当 AI 拿走一切之后",
       "published": "12 Jun 2026",
       "link": "https://ursb.me/posts/after-ai-takes-everything/",
-      "avatar": "https://airing.ursb.me/image/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Ouroboros",
@@ -148,13 +155,6 @@
       "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
-      "blog_name": "扯氮集",
-      "title": "百度的槽点到底在哪里",
-      "published": "11 May 2024",
-      "link": "http://weiwuhui.com/10670.html",
-      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
-    },
-    {
       "blog_name": "可能吧",
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月22日 15:06:03"
+  "updated": "2026年07月22日 17:23:12"
 }
