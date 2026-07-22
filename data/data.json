@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "中年男人：开始是认错，后来是不说话",
+      "title": "社会系统的冗余",
       "published": "22 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_23.html",
+      "link": "https://hwv430.blogspot.com/2026/07/blog-post_370.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -117,7 +117,7 @@
       "title": "当 AI 拿走一切之后",
       "published": "12 Jun 2026",
       "link": "https://ursb.me/posts/after-ai-takes-everything/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://airing.ursb.me/image/favicon.ico"
     },
     {
       "blog_name": "Ouroboros",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月22日 17:23:12"
+  "updated": "2026年07月22日 19:24:59"
 }
