@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "把事做好靠能力而非欲望",
+      "published": "23 Jul 2026",
+      "link": "https://hwv430.blogspot.com/2026/07/blog-post_24.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "梁文锋四小时投资人会议有感",
       "published": "23 Jul 2026",
@@ -13,13 +20,6 @@
       "published": "23 Jul 2026",
       "link": "https://blog.zhheo.com/p/lw65vj43.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "社会系统的冗余",
-      "published": "22 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_370.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "扯氮集",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月23日 18:14:49"
+  "updated": "2026年07月23日 20:15:20"
 }
