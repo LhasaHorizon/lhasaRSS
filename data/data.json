@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "梁文锋四小时投资人会议有感",
+      "published": "23 Jul 2026",
+      "link": "https://blog.devtang.com/2026/07/23/liang-wenfeng-investor-meeting/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "腾讯miora上手：设计师又又又失业的一集？",
       "published": "23 Jul 2026",
@@ -55,13 +62,6 @@
       "published": "19 Jul 2026",
       "link": "https://tumutanzi.com/archives/17618",
       "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "黑洞足迹本-AI 时代的一人 App",
-      "published": "18 Jul 2026",
-      "link": "https://blog.devtang.com/2026/07/18/heidong-footprint-ai-app/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月23日 14:07:30"
+  "updated": "2026年07月23日 16:37:59"
 }
