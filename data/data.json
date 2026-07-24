@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "扯氮集",
+      "title": "人为什么要中庸 AI从一个意想不到的角度给了我雷霆一击",
+      "published": "24 Jul 2026",
+      "link": "http://weiwuhui.com/10798.html",
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
+    },
+    {
       "blog_name": "云风的 BLOG",
       "title": "对抗系统的桌游",
       "published": "24 Jul 2026",
@@ -41,13 +48,6 @@
       "published": "23 Jul 2026",
       "link": "https://blog.zhheo.com/p/lw65vj43.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "扯氮集",
-      "title": "都是抓“奴隶” 这两个游戏的内核是完全不同的",
-      "published": "22 Jul 2026",
-      "link": "http://weiwuhui.com/10752.html",
-      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "我们叁",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月24日 14:57:56"
+  "updated": "2026年07月24日 16:48:58"
 }
