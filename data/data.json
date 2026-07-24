@@ -1,11 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "对抗系统的桌游",
+      "published": "24 Jul 2026",
+      "link": "https://blog.codingnow.com/2026/07/deckers.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "赚大钱就是集中精力满足社会需求",
       "published": "24 Jul 2026",
       "link": "https://hwv430.blogspot.com/2026/07/blog-post_618.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -76,13 +83,6 @@
       "published": "15 Jul 2026",
       "link": "https://xyzbz.cn/archives/1558/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "云风的 BLOG",
-      "title": "高尿酸血症确诊",
-      "published": "10 Jul 2026",
-      "link": "https://blog.codingnow.com/2026/07/hyperuricemia.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月24日 12:21:07"
+  "updated": "2026年07月24日 14:57:56"
 }
