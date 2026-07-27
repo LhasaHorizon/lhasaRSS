@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "从 Bartender 迁移到 Thaw",
+      "published": "27 Jul 2026",
+      "link": "https://blog.devtang.com/2026/07/27/from-bartender-to-thaw/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "女人当家岌岌可危",
       "published": "27 Jul 2026",
@@ -69,13 +76,6 @@
       "published": "23 Jul 2026",
       "link": "https://1900.live/288-da-shu/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "梁文锋四小时投资人会议有感",
-      "published": "23 Jul 2026",
-      "link": "https://blog.devtang.com/2026/07/23/liang-wenfeng-investor-meeting/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "张洪Heo",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月27日 12:26:53"
+  "updated": "2026年07月27日 15:43:52"
 }
