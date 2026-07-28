@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "ai干掉知道分子",
+      "published": "28 Jul 2026",
+      "link": "https://hwv430.blogspot.com/2026/07/ai_0683699509.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "从 Bartender 迁移到 Thaw",
       "published": "27 Jul 2026",
       "link": "https://blog.devtang.com/2026/07/27/from-bartender-to-thaw/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "女人当家岌岌可危",
-      "published": "27 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_196.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "心的道理",
@@ -103,7 +103,7 @@
       "title": "松声｜廿六年·七月中·蝉鸣繁",
       "published": "15 Jul 2026",
       "link": "https://xyzbz.cn/archives/1558/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年07月28日 16:41:54"
+  "updated": "2026年07月28日 18:16:18"
 }
