@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "普通人如何显得有魅力",
+      "published": "01 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "向云端｜西南自驾05 - 长沙",
       "published": "01 Aug 2026",
@@ -27,13 +34,6 @@
       "published": "30 Jul 2026",
       "link": "https://xyzbz.cn/archives/1562/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "优化思维底子，人生上限高",
-      "published": "30 Jul 2026",
-      "link": "https://hwv430.blogspot.com/2026/07/blog-post_31.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月01日 17:02:50"
+  "updated": "2026年08月01日 19:12:46"
 }
