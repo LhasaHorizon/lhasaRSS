@@ -2,10 +2,10 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "普通人如何显得有魅力",
-      "published": "01 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/blog-post.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "title": "一场自治的试验：科斯拜亚共和国",
+      "published": "02 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_02.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月02日 03:16:10"
+  "updated": "2026年08月02日 06:35:13"
 }
