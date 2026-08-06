@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "人情世故是怎样慢慢学会的?",
+      "published": "06 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_06.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "WebMCP适配教程：为浏览器AI预备好，让网页向 AI 提供工具，本博客已支持",
+      "published": "06 Aug 2026",
+      "link": "https://blog.zhheo.com/p/z1fmm8ee.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "向云端｜西南自驾07 - 新晃",
       "published": "05 Aug 2026",
@@ -13,13 +27,6 @@
       "published": "05 Aug 2026",
       "link": "http://weiwuhui.com/11053.html",
       "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "盘点各地人性格的刻板印象",
-      "published": "05 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/blog-post_685.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -55,13 +62,6 @@
       "published": "29 Jul 2026",
       "link": "https://www.laruence.com/2026/07/29/6248.html",
       "avatar": "https://www.laruence.com/logo.jpg"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "报错回顾：给OpenClaw添加错误行为记忆机制，让自己写的skill不断成长",
-      "published": "29 Jul 2026",
-      "link": "https://blog.zhheo.com/p/0x4n7juy.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "心的道理",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月06日 02:47:17"
+  "updated": "2026年08月06日 05:51:52"
 }
