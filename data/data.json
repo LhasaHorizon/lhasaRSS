@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "我们叁",
+      "title": "羡慕",
+      "published": "07 Aug 2026",
+      "link": "https://ihaihe.cn/3678.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "洪绘敲木鱼支持“竹知了”模式了，可以自定义音效的电子竹知了App",
       "published": "07 Aug 2026",
@@ -113,13 +120,6 @@
       "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
-      "blog_name": "我们叁",
-      "title": "会后悔吗",
-      "published": "21 Jul 2026",
-      "link": "https://ihaihe.cn/3670.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
       "title": "The lt Package: Lightweight HTML Tables for R (and Beyond)",
       "published": "10 Jul 2026",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月07日 14:54:43"
+  "updated": "2026年08月07日 15:58:29"
 }
