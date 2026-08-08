@@ -8,6 +8,13 @@
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
     },
     {
+      "blog_name": "像素工坊",
+      "title": "摄影新手拍不锐？照片清晰度完全自查清单 📸",
+      "published": "07 Aug 2026",
+      "link": "https://www.shephe.com/post/sharp-photos-beginners-checklist/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "洪绘敲木鱼支持“竹知了”模式了，可以自定义音效的电子竹知了App",
       "published": "07 Aug 2026",
@@ -50,6 +57,13 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "扯氮集",
+      "title": "人肉味 机油味 您好哪一口？",
+      "published": "07 Aug 2026",
+      "link": "http://weiwuhui.com/11059.html",
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
       "published": "07 Aug 2026",
@@ -62,13 +76,6 @@
       "published": "06 Aug 2026",
       "link": "https://tumutanzi.com/archives/17621",
       "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
-      "blog_name": "扯氮集",
-      "title": "华尔街开始查账 AI泡沫破灭了吗",
-      "published": "05 Aug 2026",
-      "link": "http://weiwuhui.com/11053.html",
-      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -176,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月07日 23:35:48"
+  "updated": "2026年08月08日 01:49:34"
 }
