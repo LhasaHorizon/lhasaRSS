@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "用地标改进 A star 寻路的启发函数",
+      "published": "09 Aug 2026",
+      "link": "https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "像素工坊",
       "title": "Adobe Photoshop 27.9.1 更新解读：AI 工作流终于「顺手」了",
       "published": "08 Aug 2026",
@@ -78,6 +85,13 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "真有命运之手主宰人生？",
+      "published": "06 Aug 2026",
+      "link": "https://tumutanzi.com/archives/17621",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·七月末·雨滂沱",
       "published": "30 Jul 2026",
@@ -111,13 +125,6 @@
       "published": "25 Jul 2026",
       "link": "https://yufree.cn/cn/2026/07/25/secular/",
       "avatar": "https://yufree.cn/favicon.ico"
-    },
-    {
-      "blog_name": "云风的 BLOG",
-      "title": "对抗系统的桌游",
-      "published": "24 Jul 2026",
-      "link": "https://blog.codingnow.com/2026/07/deckers.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -176,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月09日 01:55:57"
+  "updated": "2026年08月09日 03:46:15"
 }
