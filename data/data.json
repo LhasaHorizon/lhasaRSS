@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "以正合，以奇胜",
+      "published": "10 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_11.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "向云端｜西南自驾09 - 施秉",
       "published": "10 Aug 2026",
@@ -20,13 +27,6 @@
       "published": "10 Aug 2026",
       "link": "https://blog.zhheo.com/p/tbp0pls8.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "对AI，普通人没必要过度焦虑",
-      "published": "10 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/ai.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月10日 19:00:39"
+  "updated": "2026年08月10日 19:57:48"
 }
