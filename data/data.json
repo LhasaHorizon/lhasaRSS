@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "分享一下我最近制作的一些AI音乐，以及解决唱歌错字和音质的一些小技巧",
+      "published": "10 Aug 2026",
+      "link": "https://blog.zhheo.com/p/4c5g2me1.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "核电站",
       "title": "对AI，普通人没必要过度焦虑",
       "published": "10 Aug 2026",
@@ -34,13 +41,6 @@
       "published": "07 Aug 2026",
       "link": "https://ihaihe.cn/3678.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "洪绘敲木鱼支持“竹知了”模式了，可以自定义音效的电子竹知了App",
-      "published": "07 Aug 2026",
-      "link": "https://blog.zhheo.com/p/0zlnja8m.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "唐巧的博客",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月10日 04:39:52"
+  "updated": "2026年08月10日 06:11:03"
 }
