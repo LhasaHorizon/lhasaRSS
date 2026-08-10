@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "运维咖啡吧",
+      "title": "向云端｜西南自驾09 - 施秉",
+      "published": "10 Aug 2026",
+      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-09-shibing.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
       "blog_name": "像素工坊",
       "title": "Camera Raw 18.5 AI 祛痘教程：自动识别痘痘瑕疵，保留皮肤纹理",
       "published": "10 Aug 2026",
@@ -19,7 +26,7 @@
       "title": "对AI，普通人没必要过度焦虑",
       "published": "10 Aug 2026",
       "link": "https://hwv430.blogspot.com/2026/08/ai.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -48,13 +55,6 @@
       "published": "07 Aug 2026",
       "link": "https://blog.devtang.com/2026/08/07/channel-strategy-reflections/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "运维咖啡吧",
-      "title": "向云端｜西南自驾08 - 镇远",
-      "published": "07 Aug 2026",
-      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-08-zhenyuan.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
       "blog_name": "只是玩玩",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月10日 11:49:43"
+  "updated": "2026年08月10日 13:14:46"
 }
