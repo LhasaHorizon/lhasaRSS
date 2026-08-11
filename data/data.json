@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "人在体制里会变什么样子",
+      "published": "11 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_12.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "平静",
       "published": "11 Aug 2026",
       "link": "https://zhongxiaojie.cn/2026/08/1722/",
       "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "复杂化意味着权力支配",
-      "published": "10 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/blog-post_127.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -83,13 +83,6 @@
       "published": "07 Aug 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "土木坛子",
-      "title": "真有命运之手主宰人生？",
-      "published": "06 Aug 2026",
-      "link": "https://tumutanzi.com/archives/17621",
-      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月11日 20:49:07"
+  "updated": "2026年08月11日 21:51:32"
 }
