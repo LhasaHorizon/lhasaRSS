@@ -1,11 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "平静",
+      "published": "11 Aug 2026",
+      "link": "https://zhongxiaojie.cn/2026/08/1722/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "复杂化意味着权力支配",
       "published": "10 Aug 2026",
       "link": "https://hwv430.blogspot.com/2026/08/blog-post_127.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -26,7 +33,7 @@
       "title": "洪绘压图网页版上线，这下可以随时随地在线压缩图片了",
       "published": "10 Aug 2026",
       "link": "https://blog.zhheo.com/p/tbp0pls8.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -176,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月11日 15:00:47"
+  "updated": "2026年08月11日 16:07:14"
 }
