@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "如果发生极端情况，你在银行存了100万，会有什么结果？",
+      "title": "世界上最有责任心的群体",
       "published": "12 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/100.html",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_438.html",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "Agentation 油猴脚本：让AI指哪改哪,配合 Claude Code 的开发神器",
+      "published": "12 Aug 2026",
+      "link": "https://blog.zhheo.com/p/wh8h2uop.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -34,13 +41,6 @@
       "published": "10 Aug 2026",
       "link": "https://www.shephe.com/tutorial/acr-blemish/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "洪绘压图网页版上线，这下可以随时随地在线压缩图片了",
-      "published": "10 Aug 2026",
-      "link": "https://blog.zhheo.com/p/tbp0pls8.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -148,13 +148,6 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月12日 06:16:17"
+  "updated": "2026年08月12日 08:19:37"
 }
