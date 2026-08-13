@@ -5,7 +5,7 @@
       "title": "世界上最有责任心的群体",
       "published": "12 Aug 2026",
       "link": "https://hwv430.blogspot.com/2026/08/blog-post_438.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "张洪Heo",
@@ -13,6 +13,13 @@
       "published": "12 Aug 2026",
       "link": "https://blog.zhheo.com/p/wh8h2uop.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
+      "blog_name": "扯氮集",
+      "title": "游戏、DEI与玩家的愤怒",
+      "published": "12 Aug 2026",
+      "link": "http://weiwuhui.com/11063.html",
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -69,13 +76,6 @@
       "published": "07 Aug 2026",
       "link": "https://1900.live/289-li-qiu/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "扯氮集",
-      "title": "人肉味 机油味 您好哪一口？",
-      "published": "07 Aug 2026",
-      "link": "http://weiwuhui.com/11059.html",
-      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -148,13 +148,6 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月12日 23:43:58"
+  "updated": "2026年08月13日 02:10:55"
 }
