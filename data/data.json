@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "像素工坊",
+      "title": "川内伦子风格 Lightroom 预设，9 款日系诗意梦幻色调一键套用",
+      "published": "14 Aug 2026",
+      "link": "https://www.shephe.com/preset/rinko-kawauchi-lightroom-presets/",
+      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案",
       "published": "14 Aug 2026",
@@ -50,13 +57,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "像素工坊",
-      "title": "Camera Raw 18.5 AI 祛痘教程：自动识别痘痘瑕疵，保留皮肤纹理",
-      "published": "10 Aug 2026",
-      "link": "https://www.shephe.com/tutorial/acr-blemish/",
-      "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
-    },
-    {
       "blog_name": "云风的 BLOG",
       "title": "用地标改进 A star 寻路的启发函数",
       "published": "09 Aug 2026",
@@ -96,7 +96,7 @@
       "title": "松声｜廿六年·七月末·雨滂沱",
       "published": "30 Jul 2026",
       "link": "https://xyzbz.cn/archives/1562/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "风雪之隅",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月14日 13:12:27"
+  "updated": "2026年08月14日 14:54:01"
 }
