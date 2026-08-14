@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "做人做事记住15条社会潜规则",
+      "title": "女人必须做自媒体",
       "published": "14 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/15_02080762297.html",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_365.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "Mole Mac 上手：界面精美，优秀好用的Mac清理工具",
+      "published": "14 Aug 2026",
+      "link": "https://blog.zhheo.com/p/lgodvfdh.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -20,13 +27,6 @@
       "published": "13 Aug 2026",
       "link": "http://weiwuhui.com/11065.html",
       "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "Agentation 油猴脚本：让AI指哪改哪,配合 Claude Code 的开发神器",
-      "published": "12 Aug 2026",
-      "link": "https://blog.zhheo.com/p/wh8h2uop.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月14日 08:18:02"
+  "updated": "2026年08月14日 10:05:15"
 }
