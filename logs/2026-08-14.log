@@ -75,3 +75,11 @@
 [2026-08-14 15:55:03] - https://www.loyhome.com/feed
 [2026-08-14 15:55:03] - http://feeds.feedburner.com/ruanyifeng
 [2026-08-14 15:55:03] - https://blog.ursb.me/feed.xml
+[2026-08-14 16:56:25] 本次订阅抓取结果统计:
+[2026-08-14 16:56:25] 共 28 条RSS, 成功抓取 26 条.
+[2026-08-14 16:56:25] ✘ 有 2 条订阅解析失败:
+[2026-08-14 16:56:25] - https://geekinney.com/index.xml
+[2026-08-14 16:56:25] - https://tcxx.info/feed
+[2026-08-14 16:56:25] ✘ 有 2 条订阅头像无法访问, 已使用默认头像:
+[2026-08-14 16:56:25] - http://feeds.feedburner.com/ruanyifeng
+[2026-08-14 16:56:25] - https://www.loyhome.com/feed
