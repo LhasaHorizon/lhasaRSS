@@ -2,9 +2,16 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "供养女人没好下场",
+      "title": "做人做事记住15条社会潜规则",
+      "published": "14 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/15_02080762297.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
       "published": "13 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/blog-post_92.html",
+      "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
@@ -76,13 +83,6 @@
       "published": "07 Aug 2026",
       "link": "https://1900.live/289-li-qiu/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
-      "published": "07 Aug 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "土木坛子",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月14日 02:09:03"
+  "updated": "2026年08月14日 04:49:40"
 }
