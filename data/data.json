@@ -22,13 +22,6 @@
       "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
-      "blog_name": "张洪Heo",
-      "title": "给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案",
-      "published": "14 Aug 2026",
-      "link": "https://blog.zhheo.com/p/3gr7k8xj.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
       "blog_name": "核电站",
       "title": "女人必须做自媒体",
       "published": "14 Aug 2026",
@@ -96,7 +89,7 @@
       "title": "松声｜廿六年·七月末·雨滂沱",
       "published": "30 Jul 2026",
       "link": "https://xyzbz.cn/archives/1562/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "风雪之隅",
@@ -138,7 +131,7 @@
       "title": "当 AI 拿走一切之后",
       "published": "12 Jun 2026",
       "link": "https://ursb.me/posts/after-ai-takes-everything/",
-      "avatar": "https://airing.ursb.me/image/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Ouroboros",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月15日 14:25:15"
+  "updated": "2026年08月15日 15:24:04"
 }
