@@ -8,13 +8,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "土木坛子",
-      "title": "AI可能会给金融行业带来阵痛",
-      "published": "14 Aug 2026",
-      "link": "https://tumutanzi.com/archives/17622",
-      "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
       "blog_name": "像素工坊",
       "title": "川内伦子风格 Lightroom 预设，9 款日系诗意梦幻色调一键套用",
       "published": "14 Aug 2026",
@@ -26,7 +19,7 @@
       "title": "给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案",
       "published": "14 Aug 2026",
       "link": "https://blog.zhheo.com/p/3gr7k8xj.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "核电站",
@@ -183,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月15日 10:24:59"
+  "updated": "2026年08月15日 11:22:13"
 }
