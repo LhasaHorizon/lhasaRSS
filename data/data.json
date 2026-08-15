@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "土木坛子",
+      "title": "AI可能会给金融行业带来阵痛",
+      "published": "14 Aug 2026",
+      "link": "https://tumutanzi.com/archives/17622",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "像素工坊",
       "title": "川内伦子风格 Lightroom 预设，9 款日系诗意梦幻色调一键套用",
       "published": "14 Aug 2026",
@@ -83,13 +90,6 @@
       "published": "07 Aug 2026",
       "link": "https://1900.live/289-li-qiu/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "土木坛子",
-      "title": "真有命运之手主宰人生？",
-      "published": "06 Aug 2026",
-      "link": "https://tumutanzi.com/archives/17621",
-      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月15日 02:53:53"
+  "updated": "2026年08月15日 03:41:08"
 }
