@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "子夜松声",
+      "title": "松声｜廿六年·八月中·秋意近",
+      "published": "15 Aug 2026",
+      "link": "https://xyzbz.cn/archives/1565/",
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "向云端｜西南自驾10 - 下司",
       "published": "15 Aug 2026",
@@ -26,7 +33,7 @@
       "title": "给DeepSeek-V4-Flash借一双眼睛：ZCode视觉子Agent方案",
       "published": "14 Aug 2026",
       "link": "https://blog.zhheo.com/p/3gr7k8xj.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "核电站",
@@ -90,13 +97,6 @@
       "published": "07 Aug 2026",
       "link": "https://1900.live/289-li-qiu/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "子夜松声",
-      "title": "松声｜廿六年·七月末·雨滂沱",
-      "published": "30 Jul 2026",
-      "link": "https://xyzbz.cn/archives/1562/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "风雪之隅",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月15日 16:27:38"
+  "updated": "2026年08月15日 17:22:13"
 }
