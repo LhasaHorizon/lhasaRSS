@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "像素工坊",
-      "title": "尼康云创预设合集：140 款 NP3 滤镜，导入机内直出复古胶片色调",
+      "title": "索尼创意外观 FL/IN/NT/SH/VV 配置文件，老机型也能用上 A7M5 的直出色彩",
       "published": "16 Aug 2026",
-      "link": "https://www.shephe.com/preset/nikon-cloud-creative-presets/",
+      "link": "https://www.shephe.com/preset/sony-creative-look-profiles/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
@@ -68,7 +68,7 @@
       "title": "捷径",
       "published": "12 Aug 2026",
       "link": "https://limboy.me/posts/shortcut",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://limboy.me/favicon.png"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -174,7 +174,14 @@
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
       "avatar": "https://kenengba.com/favicon.ico"
+    },
+    {
+      "blog_name": "Fooleap's Blog",
+      "title": "渴望理想",
+      "published": "14 Aug 2020",
+      "link": "https://blog.fooleap.org/longing-for-ideals.html",
+      "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月16日 12:43:49"
+  "updated": "2026年08月16日 13:33:21"
 }
