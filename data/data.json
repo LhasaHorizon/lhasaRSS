@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "Findu — 十年",
+      "published": "17 Aug 2026",
+      "link": "https://zhongxiaojie.cn/2026/08/1728/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "知识是有时效性的",
       "published": "16 Aug 2026",
@@ -69,13 +76,6 @@
       "published": "12 Aug 2026",
       "link": "https://limboy.me/posts/shortcut",
       "avatar": "https://limboy.me/favicon.png"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "平静",
-      "published": "11 Aug 2026",
-      "link": "https://zhongxiaojie.cn/2026/08/1722/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月17日 01:24:36"
+  "updated": "2026年08月17日 03:02:07"
 }
