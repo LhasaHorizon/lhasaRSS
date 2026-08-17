@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "运维咖啡吧",
+      "title": "哇咔财务管家，正式上架 Apple Store 啦",
+      "published": "17 Aug 2026",
+      "link": "https://blog.ops-coffee.com/fire/wakaka-finance-app-listed-app-store.html",
+      "avatar": "https://blog.ops-coffee.com/favicon.ico"
+    },
+    {
       "blog_name": "像素工坊",
       "title": "坏天气别急着收相机：风光摄影的光线、参数与构图思路",
       "published": "17 Aug 2026",
@@ -12,14 +19,14 @@
       "title": "创业者的自主人生",
       "published": "17 Aug 2026",
       "link": "https://hwv430.blogspot.com/2026/08/blog-post_324.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "风雪之隅",
       "title": "Wechatian: 让AI有事就来微信找你",
       "published": "17 Aug 2026",
       "link": "https://www.laruence.com/2026/08/17/6297.html",
-      "avatar": "https://www.laruence.com/logo.jpg"
+      "avatar": "https://www.laruence.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -41,13 +48,6 @@
       "published": "15 Aug 2026",
       "link": "https://xyzbz.cn/archives/1565/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "运维咖啡吧",
-      "title": "向云端｜西南自驾10 - 下司",
-      "published": "15 Aug 2026",
-      "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-10-xiasi.html",
-      "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
       "blog_name": "土木坛子",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月17日 08:53:26"
+  "updated": "2026年08月17日 09:44:57"
 }
