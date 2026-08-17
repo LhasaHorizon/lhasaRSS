@@ -116,3 +116,4 @@
 [2026-08-17 15:27:52] ✘ 有 2 条订阅头像无法访问, 已使用默认头像:
 [2026-08-17 15:27:52] - https://www.loyhome.com/feed
 [2026-08-17 15:27:52] - http://feeds.feedburner.com/ruanyifeng
+[2026-08-17 16:30:42] [ERROR] 上传 data.json 到 GitHub 失败: /home/runner/work/lhasaRSS/lhasaRSS/github_utils.go:243 => 上传 data.json 失败 | 原因: failed to put file data/data.json, status: 503, body: {"message": "No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists."}
