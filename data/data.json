@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "像素工坊",
-      "title": "2026 欧洲摄影奖作品赏：好照片不只靠拍得漂亮",
+      "title": "坏天气别急着收相机：风光摄影的光线、参数与构图思路",
       "published": "17 Aug 2026",
-      "link": "https://www.shephe.com/post/european-photography-awards-2026-winners/",
+      "link": "https://www.shephe.com/photography/bad-weather-landscape-photography-guide/",
       "avatar": "https://www.shephe.com/wp-content/uploads/2026/02/S-300x300.png"
     },
     {
@@ -12,7 +12,7 @@
       "title": "创业者的自主人生",
       "published": "17 Aug 2026",
       "link": "https://hwv430.blogspot.com/2026/08/blog-post_324.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "风雪之隅",
@@ -183,5 +183,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月17日 07:57:32"
+  "updated": "2026年08月17日 08:53:26"
 }
