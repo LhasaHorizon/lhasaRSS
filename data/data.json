@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode",
+      "published": "20 Aug 2026",
+      "link": "https://blog.zhheo.com/p/1bwuf82b.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "核电站",
       "title": "科学精神",
       "published": "19 Aug 2026",
@@ -20,13 +27,6 @@
       "published": "19 Aug 2026",
       "link": "https://stephenleng.com/cn/jie-gou-xian-feng-zhu-yi/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "分享一下博客的全新聚合搜索",
-      "published": "19 Aug 2026",
-      "link": "https://blog.zhheo.com/p/mgii3qy1.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -173,8 +173,8 @@
       "title": "渴望理想",
       "published": "14 Aug 2020",
       "link": "https://blog.fooleap.org/longing-for-ideals.html",
-      "avatar": "https://blog.fooleap.org/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     }
   ],
-  "updated": "2026年08月20日 05:33:28"
+  "updated": "2026年08月20日 06:50:36"
 }
