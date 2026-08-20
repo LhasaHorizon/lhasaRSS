@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "风雪之隅",
+      "title": "用Yac给WordPress做缓存：比Memcached快19%",
+      "published": "20 Aug 2026",
+      "link": "https://www.laruence.com/2026/08/20/6420.html",
+      "avatar": "https://www.laruence.com/favicon.ico"
+    },
+    {
+      "blog_name": "云风的 BLOG",
+      "title": "银河竞逐的乐趣和策略",
+      "published": "20 Aug 2026",
+      "link": "https://blog.codingnow.com/2026/08/rftg_strategy.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "个人小项目vibecoding方案推荐：opencode spark 1.2 和 zcode",
       "published": "20 Aug 2026",
@@ -36,13 +50,6 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
-      "blog_name": "风雪之隅",
-      "title": "Wechatian: 让AI有事就来微信找你",
-      "published": "17 Aug 2026",
-      "link": "https://www.laruence.com/2026/08/17/6297.html",
-      "avatar": "https://www.laruence.com/favicon.ico"
-    },
-    {
       "blog_name": "扯氮集",
       "title": "公共游戏的典范：纪念贾君鹏君",
       "published": "16 Aug 2026",
@@ -64,13 +71,6 @@
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
-      "blog_name": "土木坛子",
-      "title": "AI可能会给金融行业带来阵痛",
-      "published": "14 Aug 2026",
-      "link": "https://tumutanzi.com/archives/17622",
-      "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
       "published": "13 Aug 2026",
@@ -83,13 +83,6 @@
       "published": "12 Aug 2026",
       "link": "https://limboy.me/posts/shortcut",
       "avatar": "https://limboy.me/favicon.png"
-    },
-    {
-      "blog_name": "云风的 BLOG",
-      "title": "用地标改进 A star 寻路的启发函数",
-      "published": "09 Aug 2026",
-      "link": "https://blog.codingnow.com/2026/08/improved_a_star_heuristics.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
     },
     {
       "blog_name": "我们叁",
@@ -176,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月20日 11:29:04"
+  "updated": "2026年08月20日 12:54:53"
 }
