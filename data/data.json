@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "猫",
+      "published": "25 Aug 2026",
+      "link": "https://zhongxiaojie.cn/2026/08/1768/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "一把手业务能力强才可以给组织续命",
       "published": "25 Aug 2026",
@@ -62,13 +69,6 @@
       "published": "20 Aug 2026",
       "link": "https://blog.codingnow.com/2026/08/rftg_strategy.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "七夕快乐",
-      "published": "19 Aug 2026",
-      "link": "https://zhongxiaojie.cn/2026/08/1751/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月25日 10:37:07"
+  "updated": "2026年08月25日 11:31:26"
 }
