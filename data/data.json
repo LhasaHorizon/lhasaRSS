@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "风雪之隅",
+      "title": "Yac 2.4.0发布 - 小值读取性能提升64%",
+      "published": "26 Aug 2026",
+      "link": "https://www.laruence.com/2026/08/26/6566.html",
+      "avatar": "https://www.laruence.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "猫",
       "published": "25 Aug 2026",
@@ -12,7 +19,7 @@
       "title": "一把手业务能力强才可以给组织续命",
       "published": "25 Aug 2026",
       "link": "https://hwv430.blogspot.com/2026/08/blog-post_271.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "张洪Heo",
@@ -57,13 +64,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "风雪之隅",
-      "title": "用Yac给WordPress做缓存：比Memcached快19%",
-      "published": "20 Aug 2026",
-      "link": "https://www.laruence.com/2026/08/20/6420.html",
-      "avatar": "https://www.laruence.com/favicon.ico"
-    },
-    {
       "blog_name": "云风的 BLOG",
       "title": "银河竞逐的乐趣和策略",
       "published": "20 Aug 2026",
@@ -90,13 +90,6 @@
       "published": "15 Aug 2026",
       "link": "https://xyzbz.cn/archives/1565/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "土木坛子",
-      "title": "AI可能会给金融行业带来阵痛",
-      "published": "14 Aug 2026",
-      "link": "https://tumutanzi.com/archives/17622",
-      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "Limboy's Essays",
@@ -176,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月26日 04:42:42"
+  "updated": "2026年08月26日 05:36:20"
 }
