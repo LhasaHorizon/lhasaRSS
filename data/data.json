@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "blog_name": "张洪Heo",
-      "title": "我与我的 OpenClaw 凉透了焦虑和解了",
+      "blog_name": "核电站",
+      "title": "长择女人的前提是不能允许她装",
       "published": "27 Aug 2026",
-      "link": "https://blog.zhheo.com/p/npa0251o.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_28.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
-      "blog_name": "核电站",
-      "title": "中国如今是个诚信社会",
-      "published": "26 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/blog-post_694.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "blog_name": "张洪Heo",
+      "title": "BrowserSkill上手：让AI接入浏览器，还能录制动作教它学习",
+      "published": "27 Aug 2026",
+      "link": "https://blog.zhheo.com/p/q6b3774w.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "风雪之隅",
@@ -92,6 +92,13 @@
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "AI可能会给金融行业带来阵痛",
+      "published": "14 Aug 2026",
+      "link": "https://tumutanzi.com/archives/17622",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "Limboy's Essays",
       "title": "捷径",
       "published": "12 Aug 2026",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月27日 04:23:55"
+  "updated": "2026年08月27日 16:14:40"
 }
