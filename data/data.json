@@ -1,10 +1,17 @@
 {
   "items": [
     {
-      "blog_name": "核电站",
-      "title": "长择女人的前提是不能允许她装",
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
       "published": "27 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/blog-post_28.html",
+      "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "核电站",
+      "title": "人生是一场漫长且无法退场的投资",
+      "published": "27 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_559.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -54,13 +61,6 @@
       "title": "二十而已",
       "published": "21 Aug 2026",
       "link": "https://loyhome.com/%e4%ba%8c%e5%8d%81%e8%80%8c%e5%b7%b2/",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-      "published": "20 Aug 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月27日 16:14:40"
+  "updated": "2026年08月28日 01:26:07"
 }
