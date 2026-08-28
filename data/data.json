@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "智谱codingplan耐用程度分析：只用 GLM-5.3-Flash 够不够用？",
+      "published": "28 Aug 2026",
+      "link": "https://blog.zhheo.com/p/c0jzc71f.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
+      "blog_name": "核电站",
+      "title": "高效的统治只能是正义的",
+      "published": "28 Aug 2026",
+      "link": "https://hwv430.blogspot.com/2026/08/blog-post_69.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "纸嫁衣",
+      "published": "28 Aug 2026",
+      "link": "https://zhongxiaojie.cn/2026/08/1783/",
+      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
       "published": "27 Aug 2026",
@@ -8,32 +29,11 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "核电站",
-      "title": "人生是一场漫长且无法退场的投资",
-      "published": "27 Aug 2026",
-      "link": "https://hwv430.blogspot.com/2026/08/blog-post_559.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "BrowserSkill上手：让AI接入浏览器，还能录制动作教它学习",
-      "published": "27 Aug 2026",
-      "link": "https://blog.zhheo.com/p/q6b3774w.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
       "blog_name": "风雪之隅",
       "title": "Yac 2.4.0发布 - 小值读取性能提升64%",
       "published": "26 Aug 2026",
       "link": "https://www.laruence.com/2026/08/26/6566.html",
       "avatar": "https://www.laruence.com/favicon.ico"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "猫",
-      "published": "25 Aug 2026",
-      "link": "https://zhongxiaojie.cn/2026/08/1768/",
-      "avatar": "https://zhongxiaojie.cn/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "心的道理",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年08月28日 01:26:07"
+  "updated": "2026年08月28日 14:08:13"
 }
