@@ -12,7 +12,7 @@
       "title": "如何判断一个女人是不是外围？",
       "published": "01 Sep 2026",
       "link": "https://hwv430.blogspot.com/2026/09/blog-post.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
@@ -29,6 +29,13 @@
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "将你的 HeoID 卡片添加到 Apple 钱包",
+      "published": "31 Aug 2026",
+      "link": "https://blog.zhheo.com/p/6b10yftj.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "《估值原理》读书笔记：价格背后的游戏、责任与社会秩序",
       "published": "30 Aug 2026",
@@ -41,13 +48,6 @@
       "published": "28 Aug 2026",
       "link": "http://weiwuhui.com/11088.html",
       "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "智谱codingplan耐用程度分析：只用 GLM-5.3-Flash 够不够用？",
-      "published": "28 Aug 2026",
-      "link": "https://blog.zhheo.com/p/c0jzc71f.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月02日 03:36:31"
+  "updated": "2026年09月02日 08:34:14"
 }
