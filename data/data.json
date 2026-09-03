@@ -2,10 +2,24 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "怎么抓住下一个暴富机会？",
-      "published": "02 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_03.html",
+      "title": "留在小地方的人才是真啃老",
+      "published": "03 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_131.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "OpenClaw 2.0：稳定性提升不少，我还迁移了我的记忆系统",
+      "published": "03 Sep 2026",
+      "link": "https://blog.zhheo.com/p/5r2g9ie4.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
+      "blog_name": "青山小站",
+      "title": "那年盛夏，河水托住我的勇敢",
+      "published": "02 Sep 2026",
+      "link": "https://blog.yanqingshan.com/245.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -19,7 +33,7 @@
       "title": "松声｜廿六年·八月末·夜渐凉",
       "published": "31 Aug 2026",
       "link": "https://xyzbz.cn/archives/1567/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -27,13 +41,6 @@
       "published": "31 Aug 2026",
       "link": "https://blog.ops-coffee.com/fire/wakaka-bookkeeping-fund-stock-wealth.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "将你的 HeoID 卡片添加到 Apple 钱包",
-      "published": "31 Aug 2026",
-      "link": "https://blog.zhheo.com/p/6b10yftj.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "唐巧的博客",
@@ -141,13 +148,6 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
-      "blog_name": "青山小站",
-      "title": "Dify添加模型max_tokens_too_small异常",
-      "published": "11 Mar 2026",
-      "link": "https://blog.yanqingshan.com/244.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月03日 03:36:04"
+  "updated": "2026年09月03日 08:42:16"
 }
