@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "published": "03 Sep 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "为啥《三国演义》这个一般的作品会是四大名著呢？",
       "published": "03 Sep 2026",
@@ -55,13 +62,6 @@
       "published": "28 Aug 2026",
       "link": "http://weiwuhui.com/11088.html",
       "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-      "published": "27 Aug 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "风雪之隅",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月03日 23:03:52"
+  "updated": "2026年09月04日 03:36:13"
 }
