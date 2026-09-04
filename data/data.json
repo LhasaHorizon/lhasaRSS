@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "罩亮前程👙",
+      "published": "04 Sep 2026",
+      "link": "https://oba.by/2026/09/1840/",
+      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "MacBook不进入休眠全新邪修：十几块钱的绿联HDMI欺骗器",
+      "published": "04 Sep 2026",
+      "link": "https://blog.zhheo.com/p/8p5a0k56.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "阮一峰的网络日志",
       "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
       "published": "03 Sep 2026",
@@ -15,25 +29,11 @@
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
-      "blog_name": "张洪Heo",
-      "title": "OpenClaw 2.0：稳定性提升不少，我还迁移了我的记忆系统",
-      "published": "03 Sep 2026",
-      "link": "https://blog.zhheo.com/p/5r2g9ie4.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
       "blog_name": "青山小站",
       "title": "那年盛夏，河水托住我的勇敢",
       "published": "02 Sep 2026",
       "link": "https://blog.yanqingshan.com/245.html",
       "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "迟钝",
-      "published": "02 Sep 2026",
-      "link": "https://oba.by/2026/09/1822/",
-      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "子夜松声",
@@ -155,13 +155,6 @@
       "avatar": "https://lingxiankong.github.io/assets/image/favicon.ico"
     },
     {
-      "blog_name": "白板报",
-      "title": "说一说我所知道的「棋圣」聂卫平",
-      "published": "19 Jan 2026",
-      "link": "https://wangpei.net/2026/01/%e8%af%b4%e4%b8%80%e8%af%b4%e6%88%91%e6%89%80%e7%9f%a5%e9%81%93%e7%9a%84%e3%80%8c%e6%a3%8b%e5%9c%a3%e3%80%8d%e8%81%82%e5%8d%ab%e5%b9%b3/",
-      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
-    },
-    {
       "blog_name": "可能吧",
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
@@ -176,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月04日 03:36:13"
+  "updated": "2026年09月04日 08:37:41"
 }
