@@ -2,10 +2,10 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "面试时不该说的话",
+      "title": "什么时候中国人开始失去远离政治的自由",
       "published": "05 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_484.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_950.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -78,6 +78,13 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
+      "blog_name": "只是玩玩",
+      "title": "290、处暑",
+      "published": "23 Aug 2026",
+      "link": "https://1900.live/290-chu-shu/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "我们叁",
       "title": "网站挂了好几天",
       "published": "21 Aug 2026",
@@ -106,18 +113,18 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "AI可能会给金融行业带来阵痛",
+      "published": "14 Aug 2026",
+      "link": "https://tumutanzi.com/archives/17622",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "Limboy's Essays",
       "title": "捷径",
       "published": "12 Aug 2026",
       "link": "https://limboy.me/posts/shortcut",
       "avatar": "https://limboy.me/favicon.png"
-    },
-    {
-      "blog_name": "只是玩玩",
-      "title": "289、立秋",
-      "published": "07 Aug 2026",
-      "link": "https://1900.live/289-li-qiu/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月05日 00:42:33"
+  "updated": "2026年09月05日 05:23:15"
 }
