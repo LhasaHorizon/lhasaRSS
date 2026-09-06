@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "做什么和不做什么",
+      "published": "06 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_07.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "Airing 的博客",
       "title": "月刊（第36期）：伊始",
       "published": "06 Sep 2026",
@@ -13,13 +20,6 @@
       "published": "05 Sep 2026",
       "link": "https://stephenleng.com/cn/huang-yan-zhi-xu-e-luo-si/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "什么时候中国人开始失去远离政治的自由",
-      "published": "05 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_950.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月06日 17:32:44"
+  "updated": "2026年09月06日 20:09:54"
 }
