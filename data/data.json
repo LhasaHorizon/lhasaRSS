@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "Airing 的博客",
+      "title": "月刊（第36期）：伊始",
+      "published": "06 Sep 2026",
+      "link": "https://ursb.me/posts/weekly-36/",
+      "avatar": "https://airing.ursb.me/image/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "谎言秩序：俄罗斯公共生活的荒诞性",
       "published": "05 Sep 2026",
@@ -134,13 +141,6 @@
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
-      "blog_name": "Airing 的博客",
-      "title": "当 AI 拿走一切之后",
-      "published": "12 Jun 2026",
-      "link": "https://ursb.me/posts/after-ai-takes-everything/",
-      "avatar": "https://airing.ursb.me/image/favicon.ico"
-    },
-    {
       "blog_name": "Ouroboros",
       "title": "Discours N°20",
       "published": "08 Jun 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月06日 00:43:37"
+  "updated": "2026年09月06日 05:39:28"
 }
