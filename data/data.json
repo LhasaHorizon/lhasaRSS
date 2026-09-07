@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "口才不好的父母，不容易养出有出息的孩子",
+      "published": "07 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_128.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "重生",
       "published": "07 Sep 2026",
       "link": "https://oba.by/2026/09/1857/",
       "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "做什么和不做什么",
-      "published": "06 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_07.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "Airing 的博客",
@@ -61,7 +61,7 @@
       "title": "松声｜廿六年·八月末·夜渐凉",
       "published": "31 Aug 2026",
       "link": "https://xyzbz.cn/archives/1567/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "运维咖啡吧",
@@ -120,13 +120,6 @@
       "avatar": "https://yufree.cn/favicon.ico"
     },
     {
-      "blog_name": "土木坛子",
-      "title": "AI可能会给金融行业带来阵痛",
-      "published": "14 Aug 2026",
-      "link": "https://tumutanzi.com/archives/17622",
-      "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
       "blog_name": "Limboy's Essays",
       "title": "捷径",
       "published": "12 Aug 2026",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月07日 05:49:36"
+  "updated": "2026年09月07日 11:56:43"
 }
