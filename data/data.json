@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "404 Not Found",
+      "published": "08 Sep 2026",
+      "link": "https://blog.devtang.com/2026/09/08/404-not-found/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "大好人",
       "published": "08 Sep 2026",
@@ -76,13 +83,6 @@
       "published": "31 Aug 2026",
       "link": "https://blog.ops-coffee.com/fire/wakaka-bookkeeping-fund-stock-wealth.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "唐巧的博客",
-      "title": "《估值原理》读书笔记：价格背后的游戏、责任与社会秩序",
-      "published": "30 Aug 2026",
-      "link": "https://blog.devtang.com/2026/08/30/valuation-principles-note/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
       "blog_name": "风雪之隅",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月08日 21:40:56"
+  "updated": "2026年09月08日 23:55:46"
 }
