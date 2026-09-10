@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "低成本医用护肤好物",
-      "published": "09 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_746.html",
+      "title": "如何用ai写东西更合适",
+      "published": "10 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/ai.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -71,13 +71,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "青山小站",
-      "title": "那年盛夏，河水托住我的勇敢",
-      "published": "02 Sep 2026",
-      "link": "https://blog.yanqingshan.com/245.html",
-      "avatar": "https://blog.yanqingshan.com/favicon.ico"
-    },
-    {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·八月末·夜渐凉",
       "published": "31 Aug 2026",
@@ -104,6 +97,13 @@
       "published": "23 Aug 2026",
       "link": "https://1900.live/290-chu-shu/",
       "avatar": "https://1900.live/logo.svg"
+    },
+    {
+      "blog_name": "Homepage on Yihui Xie | 谢益辉",
+      "title": "An Introduction to xfun",
+      "published": "22 Aug 2026",
+      "link": "https://yihui.org/xfun/",
+      "avatar": "https://yihui.org/favicon.ico"
     },
     {
       "blog_name": "我们叁",
@@ -134,18 +134,18 @@
       "avatar": "https://limboy.me/favicon.png"
     },
     {
-      "blog_name": "Homepage on Yihui Xie | 谢益辉",
-      "title": "The lt Package: Lightweight HTML Tables for R (and Beyond)",
-      "published": "10 Jul 2026",
-      "link": "https://yihui.org/en/2026/07/lt-package/",
-      "avatar": "https://yihui.org/favicon.ico"
-    },
-    {
       "blog_name": "Ouroboros",
       "title": "Discours N°20",
       "published": "08 Jun 2026",
       "link": "https://blog.pursuitus.com/discourse-20.html",
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
+    },
+    {
+      "blog_name": "青山小站",
+      "title": "Dify添加模型max_tokens_too_small异常",
+      "published": "11 Mar 2026",
+      "link": "https://blog.yanqingshan.com/244.html",
+      "avatar": "https://blog.yanqingshan.com/favicon.ico"
     },
     {
       "blog_name": "孔令贤的个人博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月09日 23:02:36"
+  "updated": "2026年09月10日 03:46:06"
 }
