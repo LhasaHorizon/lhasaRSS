@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "上进不是优秀，没有变现的上进心毫无价值",
+      "published": "13 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_14.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "心的道理",
       "title": "晚期资本主义？一种隐秘的历史目的论",
       "published": "13 Sep 2026",
@@ -20,13 +27,6 @@
       "published": "12 Sep 2026",
       "link": "https://ihaihe.cn/3688.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "中国人科层管理体系",
-      "published": "12 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_12.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "张洪Heo",
@@ -76,6 +76,13 @@
       "published": "08 Sep 2026",
       "link": "https://blog.devtang.com/2026/09/08/404-not-found/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "大好人",
+      "published": "08 Sep 2026",
+      "link": "https://oba.by/2026/09/1867/",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "只是玩玩",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月13日 14:51:16"
+  "updated": "2026年09月13日 17:59:29"
 }
