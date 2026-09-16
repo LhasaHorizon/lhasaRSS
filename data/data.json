@@ -1,11 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "人文学科的阴影与补偿：一种荣格主义的诠释",
+      "published": "16 Sep 2026",
+      "link": "https://stephenleng.com/cn/ren-wen-yin-ying-bu-chang/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "核电站",
-      "title": "男人天生就比女人更有合作意识",
-      "published": "15 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_902.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "title": "为什么社交软件越来越不好用了？",
+      "published": "16 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_741.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -34,13 +41,6 @@
       "published": "13 Sep 2026",
       "link": "https://tumutanzi.com/archives/17629",
       "avatar": "https://tumutanzi.com/favicon.ico"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "晚期资本主义？一种隐秘的历史目的论",
-      "published": "13 Sep 2026",
-      "link": "https://stephenleng.com/cn/wan-qi-zi-ben-zhu-yi/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月16日 00:07:49"
+  "updated": "2026年09月16日 05:45:02"
 }
