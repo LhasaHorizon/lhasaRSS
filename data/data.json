@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "不给女人留选择",
+      "published": "16 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_432.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "心的道理",
       "title": "人文学科的阴影与补偿：一种荣格主义的诠释",
       "published": "16 Sep 2026",
       "link": "https://stephenleng.com/cn/ren-wen-yin-ying-bu-chang/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "为什么社交软件越来越不好用了？",
-      "published": "16 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_741.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月16日 05:45:02"
+  "updated": "2026年09月16日 11:05:46"
 }
