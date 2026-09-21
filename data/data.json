@@ -1,11 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "Homepage on Yihui Xie | 谢益辉",
+      "title": "Three New Debugging Aids in knitr",
+      "published": "21 Sep 2026",
+      "link": "https://yihui.org/en/2026/09/knitr-debugging/",
+      "avatar": "https://yihui.org/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "闲鱼培养你的赚钱素养",
       "published": "20 Sep 2026",
       "link": "https://hwv430.blogspot.com/2026/09/blog-post_125.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -27,13 +34,6 @@
       "published": "18 Sep 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "土木坛子",
-      "title": "允许自己错过",
-      "published": "17 Sep 2026",
-      "link": "https://tumutanzi.com/archives/17641",
-      "avatar": "https://tumutanzi.com/favicon.ico"
     },
     {
       "blog_name": "风雪之隅",
@@ -85,13 +85,6 @@
       "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
-      "blog_name": "Homepage on Yihui Xie | 谢益辉",
-      "title": "Should I Ask for Sponsorship?",
-      "published": "10 Sep 2026",
-      "link": "https://yihui.org/en/2026/09/sponsorship/",
-      "avatar": "https://yihui.org/favicon.ico"
-    },
-    {
       "blog_name": "唐巧的博客",
       "title": "404 Not Found",
       "published": "08 Sep 2026",
@@ -110,7 +103,7 @@
       "title": "月刊（第36期）：伊始",
       "published": "06 Sep 2026",
       "link": "https://ursb.me/posts/weekly-36/",
-      "avatar": "https://airing.ursb.me/image/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "青山小站",
@@ -169,5 +162,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月21日 04:37:49"
+  "updated": "2026年09月21日 10:29:41"
 }
