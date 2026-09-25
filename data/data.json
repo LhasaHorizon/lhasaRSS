@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "谈恋爱是男人对女人的妥协",
+      "published": "25 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_26.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "什么是潮玩 - 读《因为独特:泡泡玛特创始人王宁访谈录》",
       "published": "25 Sep 2026",
       "link": "https://blog.devtang.com/2026/09/25/what-is-pop-mart/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "人格特质的均衡性",
-      "published": "24 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_25.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月25日 18:19:25"
+  "updated": "2026年09月25日 22:04:11"
 }
