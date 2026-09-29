@@ -2,10 +2,10 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "创业五阶段",
-      "published": "28 Sep 2026",
-      "link": "https://hwv430.blogspot.com/2026/09/blog-post_65.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "title": "一种非常消极的思维和心态：“知足常乐”——读明恩溥《中国人的素质》",
+      "published": "29 Sep 2026",
+      "link": "https://hwv430.blogspot.com/2026/09/blog-post_453.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -50,6 +50,13 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "土木坛子",
+      "title": "允许自己错过",
+      "published": "17 Sep 2026",
+      "link": "https://tumutanzi.com/archives/17641",
+      "avatar": "https://tumutanzi.com/favicon.ico"
+    },
+    {
       "blog_name": "风雪之隅",
       "title": "GPT-6 Astra 做实景三维重建，我拿一套住宅试了试",
       "published": "16 Sep 2026",
@@ -68,7 +75,7 @@
       "title": "松声｜廿六年·九月中·正秋收",
       "published": "15 Sep 2026",
       "link": "https://xyzbz.cn/archives/1570/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年09月29日 01:35:22"
+  "updated": "2026年09月29日 08:04:08"
 }
