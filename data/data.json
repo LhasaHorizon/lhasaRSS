@@ -1,10 +1,17 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "再谈 Carplay 播放视频",
+      "published": "02 Oct 2026",
+      "link": "https://oba.by/2026/10/2029/",
+      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "核电站",
-      "title": "为什么有的领导仅凭一次谈话就知道有人不堪大用？",
-      "published": "01 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_02.html",
+      "title": "有氧运动没那么大好处",
+      "published": "02 Oct 2026",
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_429.html",
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
@@ -12,14 +19,7 @@
       "title": "松声｜廿六年·九月末·秋雨寒",
       "published": "30 Sep 2026",
       "link": "https://xyzbz.cn/archives/1581/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "open -a Simulator Unable to find application named ‘Simulator’",
-      "published": "28 Sep 2026",
-      "link": "https://oba.by/2026/09/2019/",
-      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月02日 08:07:37"
+  "updated": "2026年10月02日 15:31:29"
 }
