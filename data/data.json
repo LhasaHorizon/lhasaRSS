@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "针对mac 的验证码攻击",
+      "published": "08 Oct 2026",
+      "link": "https://oba.by/2026/10/2120/",
+      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "核电站",
       "title": "节点突破比长期规划重要",
       "published": "08 Oct 2026",
@@ -8,18 +15,18 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
+      "blog_name": "张洪Heo",
+      "title": "Apple Pay 自定义卡面教程：用 AirCard 给交通卡和银行卡换个卡面",
+      "published": "08 Oct 2026",
+      "link": "https://blog.zhheo.com/p/v1jevj25.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "只是玩玩",
       "title": "292、寒露",
       "published": "08 Oct 2026",
       "link": "https://1900.live/292-han-lu/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "好好吃饭",
-      "published": "07 Oct 2026",
-      "link": "https://oba.by/2026/10/2065/",
-      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "唐巧的博客",
@@ -92,13 +99,6 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
-      "blog_name": "张洪Heo",
-      "title": "OpenClaw 接管你的油猴脚本：让 AI 直接读改网页脚本，不用再复制粘贴",
-      "published": "14 Sep 2026",
-      "link": "https://blog.zhheo.com/p/kp6o6mwu.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
       "blog_name": "我们叁",
       "title": "9月的旅行",
       "published": "12 Sep 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月08日 07:06:24"
+  "updated": "2026年10月08日 15:22:01"
 }
