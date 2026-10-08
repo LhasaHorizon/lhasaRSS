@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "阶级逆转视角",
-      "published": "07 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_08.html",
+      "title": "节点突破比长期规划重要",
+      "published": "08 Oct 2026",
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_657.html",
       "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
+      "blog_name": "只是玩玩",
+      "title": "292、寒露",
+      "published": "08 Oct 2026",
+      "link": "https://1900.live/292-han-lu/",
+      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -48,13 +55,6 @@
       "published": "30 Sep 2026",
       "link": "https://xyzbz.cn/archives/1581/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "只是玩玩",
-      "title": "291、秋分",
-      "published": "23 Sep 2026",
-      "link": "https://1900.live/290-bai-lu-2/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月08日 00:48:25"
+  "updated": "2026年10月08日 07:06:24"
 }
