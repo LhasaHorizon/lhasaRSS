@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "侵略性聊天教学",
+      "title": "什么形象的老板对下属好",
       "published": "14 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_997.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_15.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "白板报",
+      "title": "我按照汉语「依字行腔」的规律，重译了朋霍费尔的赞美诗，并且做成了卡拉OK",
+      "published": "14 Oct 2026",
+      "link": "https://wangpei.net/2026/10/by-gentle-powers/",
+      "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
       "blog_name": "张洪Heo",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月14日 16:48:03"
+  "updated": "2026年10月14日 20:30:20"
 }
