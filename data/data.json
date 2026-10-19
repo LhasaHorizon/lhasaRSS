@@ -1,10 +1,17 @@
 {
   "items": [
     {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "闺蜜圈 [v 5.2.30]",
+      "blog_name": "风雪之隅",
+      "title": "Yac 3.0 发布：常见缓存负载吞吐提升 42%",
       "published": "19 Oct 2026",
-      "link": "https://oba.by/2026/10/2255/",
+      "link": "https://www.laruence.com/2026/10/19/7656.html",
+      "avatar": "https://www.laruence.com/logo.jpg"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "技术依赖",
+      "published": "19 Oct 2026",
+      "link": "https://oba.by/2026/10/2261/",
       "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
@@ -92,13 +99,6 @@
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
-      "blog_name": "风雪之隅",
-      "title": "GPT-6 Astra 做实景三维重建，我拿一套住宅试了试",
-      "published": "16 Sep 2026",
-      "link": "https://www.laruence.com/2026/09/16/6626.html",
-      "avatar": "https://www.laruence.com/logo.jpg"
-    },
-    {
       "blog_name": "我们叁",
       "title": "9月的旅行",
       "published": "12 Sep 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月19日 05:52:54"
+  "updated": "2026年10月19日 12:33:17"
 }
