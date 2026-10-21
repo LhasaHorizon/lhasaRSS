@@ -2,10 +2,10 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "穷人是税收的血包",
+      "title": "求职时该如何应对何时能入职",
       "published": "21 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_802.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_282.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "张洪Heo",
@@ -106,6 +106,13 @@
       "avatar": "https://yihui.org/favicon.ico"
     },
     {
+      "blog_name": "我们叁",
+      "title": "9月的旅行",
+      "published": "12 Sep 2026",
+      "link": "https://ihaihe.cn/3688.htm",
+      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
       "blog_name": "扯氮集",
       "title": "AI的说服 靠的不是懂你 是把你淹没",
       "published": "10 Sep 2026",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月21日 09:12:51"
+  "updated": "2026年10月21日 14:56:01"
 }
