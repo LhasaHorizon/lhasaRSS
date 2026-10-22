@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "求职时该如何应对何时能入职",
-      "published": "21 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_282.html",
+      "title": "识人先要校正自己",
+      "published": "22 Oct 2026",
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_142.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "狂欢",
+      "published": "22 Oct 2026",
+      "link": "https://oba.by/2026/10/2281/",
+      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "张洪Heo",
@@ -34,13 +41,6 @@
       "published": "19 Oct 2026",
       "link": "https://www.laruence.com/2026/10/19/7656.html",
       "avatar": "https://www.laruence.com/logo.jpg"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "技术依赖",
-      "published": "19 Oct 2026",
-      "link": "https://oba.by/2026/10/2261/",
-      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "土木坛子",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月21日 23:04:09"
+  "updated": "2026年10月22日 03:51:58"
 }
