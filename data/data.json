@@ -2,10 +2,24 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "女人捂盘惜售有什么后果",
+      "title": "女人并不了解女人",
       "published": "23 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_180.html",
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_402.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "只是玩玩",
+      "title": "走大朝台我在想啥？二",
+      "published": "23 Oct 2026",
+      "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "给 AI 编程限个上下文：把窗口砍到 300k 反而更省",
+      "published": "23 Oct 2026",
+      "link": "https://blog.zhheo.com/p/rdxftsp4.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -20,20 +34,6 @@
       "published": "22 Oct 2026",
       "link": "https://www.laruence.com/2026/10/22/7686.html",
       "avatar": "https://www.laruence.com/logo.jpg"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "华为云200块钱能用多少 DeepSeek-V4.1-Flash ？",
-      "published": "22 Oct 2026",
-      "link": "https://blog.zhheo.com/p/ij44odfx.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "只是玩玩",
-      "title": "走大朝台我在想啥？一",
-      "published": "22 Oct 2026",
-      "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-yi/",
-      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -110,7 +110,7 @@
       "title": "9月的旅行",
       "published": "12 Sep 2026",
       "link": "https://ihaihe.cn/3688.htm",
-      "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "扯氮集",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月23日 09:12:05"
+  "updated": "2026年10月23日 14:44:31"
 }
