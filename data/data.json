@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "中年人的学习",
-      "published": "22 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_689.html",
+      "title": "混合所有制会是什么效果",
+      "published": "23 Oct 2026",
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_23.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 416 期）：编程已经面目全非",
+      "published": "23 Oct 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "风雪之隅",
@@ -62,13 +69,6 @@
       "published": "16 Oct 2026",
       "link": "https://xyzbz.cn/archives/1586/",
       "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 415 期）：3D 版《看不见的城市》",
-      "published": "16 Oct 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "白板报",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月22日 23:02:43"
+  "updated": "2026年10月23日 03:56:05"
 }
