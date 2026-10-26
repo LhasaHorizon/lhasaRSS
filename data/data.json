@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "EncoDeck 上手：Windows 上的多品牌耳机控制中心，不用再为切降噪拿起手机",
+      "published": "26 Oct 2026",
+      "link": "https://blog.zhheo.com/p/g10nqrgd.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "核电站",
       "title": "这个世界根本没有什么男性视角女性视角",
       "published": "26 Oct 2026",
@@ -20,13 +27,6 @@
       "published": "23 Oct 2026",
       "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/",
       "avatar": "https://1900.live/logo.svg"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "给 AI 编程限个上下文：把窗口砍到 300k 反而更省",
-      "published": "23 Oct 2026",
-      "link": "https://blog.zhheo.com/p/rdxftsp4.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月26日 04:14:08"
+  "updated": "2026年10月26日 10:50:15"
 }
