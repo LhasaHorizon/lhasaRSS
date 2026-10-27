@@ -1,11 +1,18 @@
 {
   "items": [
     {
+      "blog_name": "心的道理",
+      "title": "论个人超越于文化",
+      "published": "27 Oct 2026",
+      "link": "https://stephenleng.com/cn/ge-ren-chao-yue-wen-hua/",
+      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
+    },
+    {
       "blog_name": "核电站",
       "title": "你以为违法，其实合法的八件事",
       "published": "27 Oct 2026",
       "link": "https://hwv430.blogspot.com/2026/10/blog-post_27.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "张洪Heo",
@@ -55,13 +62,6 @@
       "published": "20 Oct 2026",
       "link": "https://blog.codingnow.com/2026/10/qwerty.html",
       "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
-      "blog_name": "心的道理",
-      "title": "间歇期与告别",
-      "published": "19 Oct 2026",
-      "link": "https://stephenleng.com/cn/jian-xie-qi-gao-bie/",
-      "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
       "blog_name": "土木坛子",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月27日 07:29:54"
+  "updated": "2026年10月27日 14:09:21"
 }
