@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "对女人太好的都是傻子",
+      "published": "28 Oct 2026",
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_29.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "自欺欺人 — 一个程序媛的自白",
+      "published": "28 Oct 2026",
+      "link": "https://oba.by/2026/10/2306/",
+      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "我们叁",
       "title": "真与假",
       "published": "28 Oct 2026",
       "link": "https://ihaihe.cn/3730.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "因“与众不同”而成废物",
-      "published": "27 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_28.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "土木坛子",
@@ -153,7 +160,14 @@
       "published": "24 Jan 2024",
       "link": "https://kenengba.com/post/3800.html",
       "avatar": "https://kenengba.com/favicon.ico"
+    },
+    {
+      "blog_name": "Fooleap's Blog",
+      "title": "渴望理想",
+      "published": "14 Aug 2020",
+      "link": "https://blog.fooleap.org/longing-for-ideals.html",
+      "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月28日 18:04:13"
+  "updated": "2026年10月28日 22:58:55"
 }
