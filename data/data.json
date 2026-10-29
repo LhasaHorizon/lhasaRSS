@@ -2,16 +2,23 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "对女人太好的都是傻子",
-      "published": "28 Oct 2026",
-      "link": "https://hwv430.blogspot.com/2026/10/blog-post_29.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "title": "忠言逆耳利于行？",
+      "published": "29 Oct 2026",
+      "link": "https://hwv430.blogspot.com/2026/10/blog-post_718.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "张洪Heo",
+      "title": "图片格式怎么选：JPEG XL、AVIF、WebP、HEIF 的科普与取舍",
+      "published": "29 Oct 2026",
+      "link": "https://blog.zhheo.com/p/gev3cm0t.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "自欺欺人 — 一个程序媛的自白",
-      "published": "28 Oct 2026",
-      "link": "https://oba.by/2026/10/2306/",
+      "title": "Unicloud 云服务空间迁移不完全指南",
+      "published": "29 Oct 2026",
+      "link": "https://oba.by/2026/10/2315/",
       "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
@@ -34,13 +41,6 @@
       "published": "27 Oct 2026",
       "link": "https://stephenleng.com/cn/ge-ren-chao-yue-wen-hua/",
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "iOS27.2支持禁止应用使用摇一摇广告了，不影响导航软件和视频软件",
-      "published": "27 Oct 2026",
-      "link": "https://blog.zhheo.com/p/wwo2eeec.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "落园",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月29日 02:18:32"
+  "updated": "2026年10月29日 09:35:50"
 }
