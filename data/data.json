@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "风雪之隅",
+      "title": "聊聊Realsee Space HDR",
+      "published": "30 Oct 2026",
+      "link": "https://www.laruence.com/2026/10/30/7736.html",
+      "avatar": "https://www.laruence.com/logo.jpg"
+    },
+    {
       "blog_name": "运维咖啡吧",
       "title": "向云端｜西南自驾11 - 布依",
       "published": "30 Oct 2026",
@@ -71,11 +78,11 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "风雪之隅",
-      "title": "讲解一下这次PHP核弹级别漏洞的原理",
-      "published": "22 Oct 2026",
-      "link": "https://www.laruence.com/2026/10/22/7686.html",
-      "avatar": "https://www.laruence.com/logo.jpg"
+      "blog_name": "只是玩玩",
+      "title": "走大朝台我在想啥？二",
+      "published": "23 Oct 2026",
+      "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/",
+      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "云风的 BLOG",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年10月30日 08:20:20"
+  "updated": "2026年10月30日 15:41:38"
 }
