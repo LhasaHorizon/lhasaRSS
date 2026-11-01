@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "唐巧的博客",
+      "title": "读《信号与噪声》",
+      "published": "01 Nov 2026",
+      "link": "https://blog.devtang.com/2026/11/01/signal-and-noice-book-summary/",
+      "avatar": "https://blog.devtang.com/assets/favicon.ico"
+    },
+    {
       "blog_name": "核电站",
       "title": "捞女自抬身价的7种方法-操作水平从低到高排",
       "published": "01 Nov 2026",
       "link": "https://hwv430.blogspot.com/2026/11/7.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "子夜松声",
       "title": "松声｜廿六年·十月末·子夜凉",
       "published": "31 Oct 2026",
       "link": "https://xyzbz.cn/archives/1588/",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
     },
     {
       "blog_name": "风雪之隅",
@@ -106,13 +113,6 @@
       "avatar": "https://i0.wp.com/wangpei.net/wp-content/uploads/2019/06/cropped-wangpei-avatar-120x120-1.jpg?fit=32%2C32\u0026ssl=1"
     },
     {
-      "blog_name": "唐巧的博客",
-      "title": "对抗衰老 - 读《抗衰大脑》",
-      "published": "07 Oct 2026",
-      "link": "https://blog.devtang.com/2026/10/07/anti-aging-brain/",
-      "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
       "blog_name": "青山小站",
       "title": "丙午年中秋北京野生动物园半日速通记",
       "published": "06 Oct 2026",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月01日 09:03:13"
+  "updated": "2026年11月01日 16:38:47"
 }
