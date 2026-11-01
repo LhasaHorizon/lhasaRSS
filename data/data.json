@@ -2,10 +2,10 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "实现卓越，只要始终保持强责任心",
+      "title": "捞女自抬身价的7种方法-操作水平从低到高排",
       "published": "01 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/blog-post.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "link": "https://hwv430.blogspot.com/2026/11/7.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -155,6 +155,13 @@
       "avatar": "https://lingxiankong.github.io/assets/image/favicon.ico"
     },
     {
+      "blog_name": "甜欣屋",
+      "title": "写在美国大选之后：我到底在支持什么",
+      "published": "06 Nov 2024",
+      "link": "https://tcxx.info/notion/1067.html",
+      "avatar": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico"
+    },
+    {
       "blog_name": "可能吧",
       "title": "那么，我是如何使用 ChatGPT 的",
       "published": "24 Jan 2024",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月01日 01:58:33"
+  "updated": "2026年11月01日 09:03:13"
 }
