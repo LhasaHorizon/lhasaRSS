@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "只是玩玩",
+      "title": "走大朝台我在想啥？三",
+      "published": "02 Nov 2026",
+      "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/",
+      "avatar": "https://1900.live/logo.svg"
+    },
+    {
       "blog_name": "核电站",
       "title": "面试中三类容易踩雷的话",
       "published": "02 Nov 2026",
@@ -92,13 +99,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "只是玩玩",
-      "title": "走大朝台我在想啥？二",
-      "published": "23 Oct 2026",
-      "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-er/",
-      "avatar": "https://1900.live/logo.svg"
-    },
-    {
       "blog_name": "云风的 BLOG",
       "title": "QWERTY 键盘布局的发展历史",
       "published": "20 Oct 2026",
@@ -155,18 +155,18 @@
       "avatar": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico"
     },
     {
+      "blog_name": "可能吧",
+      "title": "我在家找到了当老板的感觉",
+      "published": "28 Apr 2026",
+      "link": "https://kenengba.com/post/4641.html",
+      "avatar": "https://kenengba.com/wp-content/uploads/2026/04/logo-1-80x80.png"
+    },
+    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
       "link": "https://lingxiankong.github.io/2026-02-22-summary.html",
       "avatar": "https://lingxiankong.github.io/assets/image/favicon.ico"
-    },
-    {
-      "blog_name": "可能吧",
-      "title": "那么，我是如何使用 ChatGPT 的",
-      "published": "24 Jan 2024",
-      "link": "https://kenengba.com/post/3800.html",
-      "avatar": "https://kenengba.com/favicon.ico"
     },
     {
       "blog_name": "Fooleap's Blog",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月02日 07:27:22"
+  "updated": "2026年11月02日 17:59:11"
 }
