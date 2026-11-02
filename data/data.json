@@ -1,18 +1,25 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "面试中三类容易踩雷的话",
+      "published": "02 Nov 2026",
+      "link": "https://hwv430.blogspot.com/2026/11/blog-post_02.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "闺蜜圈 [v 5.8.08]",
+      "published": "02 Nov 2026",
+      "link": "https://oba.by/post/2337/",
+      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "唐巧的博客",
       "title": "读《信号与噪声》",
       "published": "01 Nov 2026",
       "link": "https://blog.devtang.com/2026/11/01/signal-and-noice-book-summary/",
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "捞女自抬身价的7种方法-操作水平从低到高排",
-      "published": "01 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/7.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -48,13 +55,6 @@
       "published": "29 Oct 2026",
       "link": "https://blog.zhheo.com/p/gev3cm0t.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "Unicloud 云服务空间迁移不完全指南",
-      "published": "29 Oct 2026",
-      "link": "https://oba.by/post/2315/",
-      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -148,18 +148,18 @@
       "avatar": "https://images.pursuitus.com/2024/01/cropped-奶瓶-01-32x32.jpg"
     },
     {
+      "blog_name": "甜欣屋",
+      "title": "书单｜在硅谷AI创业，启发我的6本书",
+      "published": "28 May 2026",
+      "link": "https://tcxx.info/adventure/1180.html",
+      "avatar": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico"
+    },
+    {
       "blog_name": "孔令贤的个人博客",
       "title": "我的 2025",
       "published": "22 Feb 2026",
       "link": "https://lingxiankong.github.io/2026-02-22-summary.html",
       "avatar": "https://lingxiankong.github.io/assets/image/favicon.ico"
-    },
-    {
-      "blog_name": "甜欣屋",
-      "title": "写在美国大选之后：我到底在支持什么",
-      "published": "06 Nov 2024",
-      "link": "https://tcxx.info/notion/1067.html",
-      "avatar": "https://tcxx.info/wp-content/themes/StarryW/images/favicon/favicon.ico"
     },
     {
       "blog_name": "可能吧",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月02日 00:33:52"
+  "updated": "2026年11月02日 07:27:22"
 }
