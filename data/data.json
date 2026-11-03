@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "张洪Heo",
+      "title": "SwiftUI 如何适配 iPhoneDuo？回顾设计与开发遇到的那些坑",
+      "published": "03 Nov 2026",
+      "link": "https://blog.zhheo.com/p/0ly3ty1o.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
       "blog_name": "核电站",
       "title": "混社会成功得打药",
       "published": "02 Nov 2026",
@@ -55,13 +62,6 @@
       "published": "30 Oct 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "张洪Heo",
-      "title": "图片格式怎么选：JPEG XL、AVIF、WebP、HEIF 的科普与取舍",
-      "published": "29 Oct 2026",
-      "link": "https://blog.zhheo.com/p/gev3cm0t.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月03日 00:53:07"
+  "updated": "2026年11月03日 07:42:09"
 }
