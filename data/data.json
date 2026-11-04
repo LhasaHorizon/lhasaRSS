@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "几个AI写作的典型痕迹",
+      "published": "04 Nov 2026",
+      "link": "https://hwv430.blogspot.com/2026/11/ai_0618361975.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "一抔黄土",
       "published": "04 Nov 2026",
@@ -8,18 +15,18 @@
       "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
     },
     {
-      "blog_name": "核电站",
-      "title": "女人自称脾气不好，怎么应对？",
-      "published": "03 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/blog-post_04.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
       "blog_name": "张洪Heo",
       "title": "SwiftUI 如何适配 iPhoneDuo？回顾设计与开发遇到的那些坑",
       "published": "03 Nov 2026",
       "link": "https://blog.zhheo.com/p/0ly3ty1o.html",
       "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+    },
+    {
+      "blog_name": "只是玩玩",
+      "title": "走大朝台我在想啥？三",
+      "published": "02 Nov 2026",
+      "link": "https://1900.live/zou-da-zhao-tai-wo-zai-xiang-sha-san/",
+      "avatar": "https://1900.live/logo.svg"
     },
     {
       "blog_name": "扯氮集",
@@ -169,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月04日 17:03:57"
+  "updated": "2026年11月04日 23:23:51"
 }
