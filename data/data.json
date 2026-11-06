@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+      "published": "05 Nov 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "“做事先做人”",
       "published": "05 Nov 2026",
@@ -62,13 +69,6 @@
       "published": "30 Oct 2026",
       "link": "https://blog.ops-coffee.com/r/2026-southwest-road-trip-11-longjing.html",
       "avatar": "https://blog.ops-coffee.com/favicon.ico"
-    },
-    {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
-      "published": "30 Oct 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
-      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Homepage on Yihui Xie | 谢益辉",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月05日 21:22:28"
+  "updated": "2026年11月06日 02:03:22"
 }
