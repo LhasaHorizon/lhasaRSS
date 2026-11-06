@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "核电站",
+      "title": "为什么管理层喜欢说\"假话\"?",
+      "published": "06 Nov 2026",
+      "link": "https://hwv430.blogspot.com/2026/11/blog-post_594.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
       "title": "一个人",
       "published": "06 Nov 2026",
@@ -20,13 +27,6 @@
       "published": "05 Nov 2026",
       "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
       "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
-      "blog_name": "核电站",
-      "title": "“做事先做人”",
-      "published": "05 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/blog-post_06.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
       "blog_name": "扯氮集",
@@ -176,5 +176,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月06日 10:32:10"
+  "updated": "2026年11月06日 17:51:25"
 }
