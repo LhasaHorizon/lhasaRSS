@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_name": "云风的 BLOG",
+      "title": "复活 ABC 输入法",
+      "published": "09 Nov 2026",
+      "link": "https://blog.codingnow.com/2026/11/abc_mod.html",
+      "avatar": "https://blog.codingnow.com/favicon.ico"
+    },
+    {
+      "blog_name": "obaby 𝐢‍𝐧⃝ void",
+      "title": "大壮的爱情",
+      "published": "09 Nov 2026",
+      "link": "https://oba.by/post/2379/",
+      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+    },
+    {
       "blog_name": "张洪Heo",
       "title": "博客七周年记",
       "published": "09 Nov 2026",
@@ -12,14 +26,7 @@
       "title": "三句提问在恋爱中快速识人",
       "published": "09 Nov 2026",
       "link": "https://hwv430.blogspot.com/2026/11/blog-post_345.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
-    },
-    {
-      "blog_name": "obaby 𝐢‍𝐧⃝ void",
-      "title": "一个人",
-      "published": "06 Nov 2026",
-      "link": "https://oba.by/post/2355/",
-      "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "阮一峰的网络日志",
@@ -99,13 +106,6 @@
       "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "云风的 BLOG",
-      "title": "QWERTY 键盘布局的发展历史",
-      "published": "20 Oct 2026",
-      "link": "https://blog.codingnow.com/2026/10/qwerty.html",
-      "avatar": "https://blog.codingnow.com/favicon.ico"
-    },
-    {
       "blog_name": "白板报",
       "title": "我按照汉语「依字行腔」的规律，重译了朋霍费尔的赞美诗，并且做成了卡拉OK",
       "published": "14 Oct 2026",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月09日 05:20:07"
+  "updated": "2026年11月09日 15:36:09"
 }
