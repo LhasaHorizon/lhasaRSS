@@ -2,17 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "怎么提高表达能力？",
-      "published": "18 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/blog-post_19.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "title": "嫁富二代，还是选择官二代？",
+      "published": "19 Nov 2026",
+      "link": "https://hwv430.blogspot.com/2026/11/blog-post_418.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
-      "blog_name": "张洪Heo",
-      "title": "用 mTLS 给家里服务做门禁：内网穿透 iPhone 不用再挂 VPN 了",
+      "blog_name": "扯氮集",
+      "title": "黄仁勋会不会回归 如奥特曼故事？",
       "published": "18 Nov 2026",
-      "link": "https://blog.zhheo.com/p/ajbulelx.html",
-      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
+      "link": "http://weiwuhui.com/11122.html",
+      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -36,11 +36,11 @@
       "avatar": "https://stephenleng.com/cn/wp-content/uploads/sites/2/2025/01/lake-boat-icon-1-150x150.jpg"
     },
     {
-      "blog_name": "扯氮集",
-      "title": "黄仁勋事件中 遥遥领先的纽约时报",
+      "blog_name": "张洪Heo",
+      "title": "HeoPWA发布：安卓手机的网页转应用小工具",
       "published": "16 Nov 2026",
-      "link": "http://weiwuhui.com/11119.html",
-      "avatar": "http://weiwuhui.com/wp-content/uploads/2020/04/cropped-截屏2020-04-05-下午8.38.09-32x32.png"
+      "link": "https://blog.zhheo.com/p/0ycqbkty.html",
+      "avatar": "https://p.zhheo.com/70UxC320590881724049185405.png!cover"
     },
     {
       "blog_name": "子夜松声",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月19日 02:58:47"
+  "updated": "2026年11月19日 11:27:00"
 }
