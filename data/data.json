@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_name": "阮一峰的网络日志",
+      "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+      "published": "20 Nov 2026",
+      "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+      "avatar": "https://cn.gravatar.com/avatar"
+    },
+    {
       "blog_name": "核电站",
       "title": "宽泛交友更有益",
       "published": "19 Nov 2026",
@@ -57,13 +64,6 @@
       "avatar": "https://blog.devtang.com/assets/favicon.ico"
     },
     {
-      "blog_name": "阮一峰的网络日志",
-      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
-      "published": "13 Nov 2026",
-      "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
-      "avatar": "https://cn.gravatar.com/avatar"
-    },
-    {
       "blog_name": "运维咖啡吧",
       "title": "向云端｜西南自驾14 - 北盘江",
       "published": "12 Nov 2026",
@@ -97,6 +97,13 @@
       "published": "28 Oct 2026",
       "link": "https://ihaihe.cn/3730.htm",
       "avatar": "https://ihaihe.cn/wp-content/uploads/2025/03/cropped-favicon-32x32.png"
+    },
+    {
+      "blog_name": "落园",
+      "title": "“你很贝叶斯”的活人感",
+      "published": "25 Oct 2026",
+      "link": "https://loyhome.com/%e4%bd%a0%e5%be%88%e8%b4%9d%e5%8f%b6%e6%96%af%e7%9a%84%e6%b4%bb%e4%ba%ba%e6%84%9f/",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "白板报",
@@ -162,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月19日 20:12:20"
+  "updated": "2026年11月20日 02:05:19"
 }
