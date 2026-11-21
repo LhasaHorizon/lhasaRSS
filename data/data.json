@@ -2,10 +2,10 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "能改写一生的 30条基本规律",
+      "title": "ABC表达框架",
       "published": "21 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/30.html",
-      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+      "link": "https://hwv430.blogspot.com/2026/11/abc.html",
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "Homepage on Miao Yu | 于淼",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月21日 17:11:31"
+  "updated": "2026年11月21日 22:54:01"
 }
