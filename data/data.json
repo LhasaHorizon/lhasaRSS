@@ -2,9 +2,9 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "ABC表达框架",
-      "published": "21 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/abc.html",
+      "title": "薄肌理论在理不在理？",
+      "published": "22 Nov 2026",
+      "link": "https://hwv430.blogspot.com/2026/11/blog-post_22.html",
       "avatar": "https://hwv430.blogspot.com/favicon.ico"
     },
     {
@@ -61,7 +61,7 @@
       "title": "松声｜廿六年·十一月中·秋色见",
       "published": "15 Nov 2026",
       "link": "https://xyzbz.cn/archives/1590/",
-      "avatar": "https://img.xyzbz.cn/i/2026/02/22/699aab573ab41.png"
+      "avatar": "https://cn.gravatar.com/avatar"
     },
     {
       "blog_name": "唐巧的博客",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月22日 02:53:21"
+  "updated": "2026年11月22日 10:53:03"
 }
