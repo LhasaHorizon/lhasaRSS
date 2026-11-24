@@ -2,10 +2,17 @@
   "items": [
     {
       "blog_name": "核电站",
-      "title": "为什么经典对于一个文明那么重要",
+      "title": "有工作的人尽量不要运动",
       "published": "24 Nov 2026",
-      "link": "https://hwv430.blogspot.com/2026/11/blog-post_24.html",
-      "avatar": "https://cn.gravatar.com/avatar"
+      "link": "https://hwv430.blogspot.com/2026/11/blog-post_452.html",
+      "avatar": "https://hwv430.blogspot.com/favicon.ico"
+    },
+    {
+      "blog_name": "Homepage on Miao Yu | 于淼",
+      "title": "名教授柯北之正式编制",
+      "published": "24 Nov 2026",
+      "link": "https://yufree.cn/cn/2026/11/24/kebei/",
+      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "obaby 𝐢‍𝐧⃝ void",
@@ -13,13 +20,6 @@
       "published": "23 Nov 2026",
       "link": "https://oba.by/post/2465/",
       "avatar": "https://oba.by/wp-content/uploads/2026/01/uugai.com-166111691272754-100x100.png"
-    },
-    {
-      "blog_name": "Homepage on Miao Yu | 于淼",
-      "title": "名教授柯北之风险评分",
-      "published": "23 Nov 2026",
-      "link": "https://yufree.cn/cn/2026/11/23/kebei/",
-      "avatar": "https://yufree.cn/favicon.ico"
     },
     {
       "blog_name": "子夜松声",
@@ -169,5 +169,5 @@
       "avatar": "https://blog.fooleap.org/favicon.ico"
     }
   ],
-  "updated": "2026年11月24日 05:13:57"
+  "updated": "2026年11月24日 17:11:19"
 }
